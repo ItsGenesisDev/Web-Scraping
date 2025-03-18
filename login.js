@@ -37,7 +37,7 @@ app.use(express.static('styles'));
 // imágenes assets/
 app.use(express.static('assets'));
 // scripts//
-app.use(express.static('scripts'));
+app.use(express.static('models'));
 
 
 // Ruta principal (GET) para mostrar la página de inicio de sesión
@@ -90,6 +90,17 @@ app.get('/home', (req, res) => {
     } else {
         res.status(403).send('Access denied'); // Envía un mensaje de acceso denegado si no está autenticado
     }
+});
+
+// Ruta para manejar el logout (GET)
+app.get('/logout', (req, res) => {
+    req.session.destroy((err) => {
+        if (err) {
+            console.error('Error destroying session:', err); // Muestra errores al destruir la sesión
+            return res.status(500).send('Error logging out');
+        }
+        res.redirect('/'); // Redirige al usuario a la página de inicio de sesión
+    });
 });
 
 // Configura el puerto en el que se ejecutará el servidor
