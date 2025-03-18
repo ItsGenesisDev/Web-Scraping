@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CRUD Dispositivos</title>
+    <link rel="stylesheet" href="../styles/crudDevice.css">
+</head>
+<body>
+    <h1>Editar Dispositivo</h1>
+    <div id="crud-container">
+        <form id="device-form">
+            <label for="deviceType">Tipo de Dispositivo:</label>
+            <select id="deviceType" name="deviceType" required>
+                <option value="iphones">iPhone</option>
+                <option value="ipads">iPad</option>
+                <option value="imacbook">iMacBook</option>
+                <option value="applewatches">Apple Watch</option>
+                <option value="imacs">iMac</option>
+            </select>
+            
+            <label for="deviceName">Nombre del Dispositivo:</label>
+            <input type="text" id="deviceName" name="deviceName" required>
+            
+            <label for="model">Modelo:</label>
+            <input type="text" id="model" name="model" required>
+            
+            <label for="ram">RAM:</label>
+            <input type="text" id="ram" name="ram">
+            
+            <label for="storage">Almacenamiento:</label>
+            <input type="text" id="storage" name="storage">
+            
+            <label for="appleOrderNo">Orden de Apple:</label>
+            <input type="text" id="appleOrderNo" name="appleOrderNo">
+            
+            <label for="releaseDate">Fecha de Lanzamiento:</label>
+            <input type="date" id="releaseDate" name="releaseDate">
+            
+            <label for="color">Color:</label>
+            <input type="text" id="color" name="color">
+            
+            <button type="button-1" id="add-button" style="display: inline-block;">Agregar</button>
+            <button type="button-2" id="update-button" style="display: none;" disabled>Actualizar</button>
+        </form>
+        <div id="device-list">
+            <h2>Lista de Dispositivos</h2>
+            <ul id="devices">
+                <li>
+                    <span>Device Name</span>
+                    <button class="edit">Editar</button>
+                    <button class="delete">Eliminar</button>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <a href="../../index.html" id="back-to-home">Regresar a la Página Principal</a>
+    <script src="../scripts/crudDevice.js"></script>
+</body>
+</html>

@@ -1,0 +1,1202 @@
+[
+  {
+    "deviceName": "Apple iPad Pro 12.9\" (Wi-Fi Only - 2nd Gen) 64, 256, 512 GB Specs",
+    "processor": "Apple A10X Fusion",
+    "model": "A1670 (EMC 3149*)",
+    "ram": "4 GB*",
+    "storage": "64, 256, 512 GB",
+    "appleOrderNo": "MQDC2LL/A*",
+    "releaseDate": "June 5, 2017*",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad Pro 12.9\" (Wi-Fi+Cell US/CA - 3rd Gen) 64, 256, 512 GB; 1 TB Specs",
+    "processor": "Apple A12X Bionic",
+    "model": "A2014 (EMC 3224*)",
+    "ram": "4 GB, 6 GB*",
+    "storage": "64, 256, 512 GB; 1 TB",
+    "appleOrderNo": "MTHU2LL/A*",
+    "releaseDate": "October 30, 2018*",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad 9.7\" 5th Gen (Wi-Fi Only) 32, 128 GB Specs",
+    "processor": "Apple A9",
+    "model": "A1822 (EMC 3017*)",
+    "ram": "2 GB*",
+    "storage": "32, 128 GB",
+    "appleOrderNo": "MP2G2LL/A*",
+    "releaseDate": "March 21, 2017*",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad Pro 12.9\" (Wi-Fi+Cell Global - 3rd Gen) 64, 256, 512 GB; 1 TB Specs",
+    "processor": "Apple A12X Bionic",
+    "model": "A1895 (EMC 3224*)",
+    "ram": "4 GB, 6 GB*",
+    "storage": "64, 256, 512 GB; 1 TB",
+    "appleOrderNo": "MTHP2B/A*",
+    "releaseDate": "October 30, 2018*",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad Air 3rd Gen (Wi-Fi Only) 64, 256 GB Specs",
+    "processor": "Apple A12 Bionic",
+    "model": "A2152 (EMC 3315*)",
+    "ram": "3 GB*",
+    "storage": "64, 256 GB",
+    "appleOrderNo": "MUUK2LL/A*",
+    "releaseDate": "March 18, 2019",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad Pro 11\" (Wi-Fi/Cellular - US/CA) 64, 256, 512 GB; 1 TB Specs",
+    "processor": "Apple A12X Bionic",
+    "model": "A2013 (EMC 3222*)",
+    "ram": "4 GB, 6 GB*",
+    "storage": "64, 256, 512 GB; 1 TB",
+    "appleOrderNo": "MU0Y2LL/A*",
+    "releaseDate": "October 30, 2018*",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad 4th Gen (Wi-Fi/Verizon & Sprint/GPS) 16, 32, 64, 128 GB* Specs",
+    "processor": "Apple A6X",
+    "model": "A1460 (EMC 2606*)",
+    "ram": "1 GB*",
+    "storage": "16, 32, 64, 128 GB*",
+    "appleOrderNo": "MD522LL/A*",
+    "releaseDate": "October 23, 2012*",
+    "color": "Black or White/Silver*"
+  },
+  {
+    "deviceName": "Apple iPad Pro 10.5\" (Wi-Fi Only) 64, 256, 512 GB Specs",
+    "processor": "Apple A10X Fusion",
+    "model": "A1701 (EMC 3140*)",
+    "ram": "4 GB*",
+    "storage": "64, 256, 512 GB",
+    "appleOrderNo": "MQDW2LL/A*",
+    "releaseDate": "June 5, 2017*",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad Pro 12.9\" (Wi-Fi Only) 32, 128, 256 GB Specs",
+    "processor": "Apple A9X",
+    "model": "A1584 (EMC 2838)",
+    "ram": "4 GB*",
+    "storage": "32, 128, 256 GB",
+    "appleOrderNo": "ML0G2LL/A*",
+    "releaseDate": "September 9, 2015*",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad 4th Gen (Wi-Fi Only) 16, 32, 64, 128 GB* Specs",
+    "processor": "Apple A6X",
+    "model": "A1458 (EMC 2604*)",
+    "ram": "1 GB*",
+    "storage": "16, 32, 64, 128 GB*",
+    "appleOrderNo": "MD510LL/A*",
+    "releaseDate": "October 23, 2012*",
+    "color": "Black or White/Silver*"
+  },
+  {
+    "deviceName": "Apple iPad mini 3 (Wi-Fi/Cellular) 16, 64, 128 GB Specs",
+    "processor": "Apple A7",
+    "model": "A1600 (EMC 2849*)",
+    "ram": "1 GB*",
+    "storage": "16, 64, 128 GB",
+    "appleOrderNo": "MH3F2LL/A*",
+    "releaseDate": "October 16, 2014",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad Air 3rd Gen (Wi-Fi+Cell US/CA) 64, 256 GB Specs",
+    "processor": "Apple A12 Bionic",
+    "model": "A2153 (EMC 3316*)",
+    "ram": "3 GB*",
+    "storage": "64, 256 GB",
+    "appleOrderNo": "MV162LL/A*",
+    "releaseDate": "March 18, 2019",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad mini 2 (Retina/2nd Gen, China) 16, 32, 64, 128 GB Specs",
+    "processor": "Apple A7",
+    "model": "A1491 (EMC 2696*)",
+    "ram": "1 GB*",
+    "storage": "16, 32, 64, 128 GB",
+    "appleOrderNo": "MF247CH/A*",
+    "releaseDate": "April 1, 2014",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad Pro 12.9\" (Wi-Fi+Cell China - 3rd Gen) 64, 256, 512 GB; 1 TB Specs",
+    "processor": "Apple A12X Bionic",
+    "model": "A1983 (EMC 3224*)",
+    "ram": "4 GB, 6 GB*",
+    "storage": "64, 256, 512 GB; 1 TB",
+    "appleOrderNo": "MTHT2CH/A*",
+    "releaseDate": "October 30, 2018*",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad Wi-Fi (Original/1st Gen) 16, 32, 64 GB Specs",
+    "processor": "Apple A4",
+    "model": "A1219 (EMC 2311)",
+    "ram": "256 MB*",
+    "storage": "16, 32, 64 GB",
+    "appleOrderNo": "MB292LL/A*",
+    "releaseDate": "January 27, 2010*",
+    "color": "Black/Silver*"
+  },
+  {
+    "deviceName": "Apple iPad mini Wi-Fi Only/1st Gen 16, 32, 64 GB Specs",
+    "processor": "Apple A5",
+    "model": "A1432 (EMC 2607*)",
+    "ram": "512 MB*",
+    "storage": "16, 32, 64 GB",
+    "appleOrderNo": "MD528LL/A*",
+    "releaseDate": "October 23, 2012*",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad Pro 10.5\" (Wi-Fi/Cellular) 64, 256, 512 GB Specs",
+    "processor": "Apple A10X Fusion",
+    "model": "A1709 (EMC 3141*)",
+    "ram": "4 GB*",
+    "storage": "64, 256, 512 GB",
+    "appleOrderNo": "MQF02LL/A*",
+    "releaseDate": "June 5, 2017*",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad Pro 12.9\" (Wi-Fi Only - 3rd Gen) 64, 256, 512 GB; 1 TB Specs",
+    "processor": "Apple A12X Bionic",
+    "model": "A1876 (EMC 3223*)",
+    "ram": "4 GB, 6 GB*",
+    "storage": "64, 256, 512 GB; 1 TB",
+    "appleOrderNo": "MTEM2LL/A*",
+    "releaseDate": "October 30, 2018*",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad Pro 11\" (Wi-Fi/Cellular - Global) 64, 256, 512 GB; 1 TB Specs",
+    "processor": "Apple A12X Bionic",
+    "model": "A1934 (EMC 3222*)",
+    "ram": "4 GB, 6 GB*",
+    "storage": "64, 256, 512 GB; 1 TB",
+    "appleOrderNo": "MU0U2B/A*",
+    "releaseDate": "October 30, 2018*",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad Air 2 (Wi-Fi/Cellular) 16, 32, 64, 128 GB* Specs",
+    "processor": "Apple A8X",
+    "model": "A1567 (EMC 2823*)",
+    "ram": "2 GB*",
+    "storage": "16, 32, 64, 128 GB*",
+    "appleOrderNo": "MH2V2LL/A*",
+    "releaseDate": "October 16, 2014",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad Pro 9.7\" (Wi-Fi/Cellular) 32, 128, 256 GB Specs",
+    "processor": "Apple A9X",
+    "model": "A1674 (EMC 2977)",
+    "ram": "2 GB*",
+    "storage": "32, 128, 256 GB",
+    "appleOrderNo": "MLPX2LL/A*",
+    "releaseDate": "March 21, 2016*",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad mini 2 (Retina/2nd Gen, Wi-Fi Only) 16, 32, 64, 128 GB Specs",
+    "processor": "Apple A7",
+    "model": "A1489 (EMC 2695*)",
+    "ram": "1 GB*",
+    "storage": "16, 32, 64, 128 GB",
+    "appleOrderNo": "ME276LL/A*",
+    "releaseDate": "October 22, 2013*",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad mini 3 (Wi-Fi/Cellular, China) 16, 64, 128 GB Specs",
+    "processor": "Apple A7",
+    "model": "A1601 (EMC 2849*)",
+    "ram": "1 GB*",
+    "storage": "16, 64, 128 GB",
+    "appleOrderNo": "MGPW2CH/A*",
+    "releaseDate": "October 16, 2014*",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad mini 2 (Retina/2nd Gen, Wi-Fi/Cellular) 16, 32, 64, 128 GB Specs",
+    "processor": "Apple A7",
+    "model": "A1490 (EMC 2696*)",
+    "ram": "1 GB*",
+    "storage": "16, 32, 64, 128 GB",
+    "appleOrderNo": "MF066LL/A*",
+    "releaseDate": "October 22, 2013*",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad 9.7\" 5th Gen (Wi-Fi/Cellular) 32, 128 GB Specs",
+    "processor": "Apple A9",
+    "model": "A1823 (EMC 3108*)",
+    "ram": "2 GB*",
+    "storage": "32, 128 GB",
+    "appleOrderNo": "MP252LL/A*",
+    "releaseDate": "March 21, 2017*",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad Air 2 (Wi-Fi Only) 16, 32, 64, 128 GB* Specs",
+    "processor": "Apple A8X",
+    "model": "A1566 (EMC 2822*)",
+    "ram": "2 GB*",
+    "storage": "16, 32, 64, 128 GB*",
+    "appleOrderNo": "MGLW2LL/A*",
+    "releaseDate": "October 16, 2014",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad mini Wi-Fi/VZ & Sprint/GPS - 1st Gen 16, 32, 64 GB Specs",
+    "processor": "Apple A5",
+    "model": "A1455 (EMC 2609*)",
+    "ram": "512 MB*",
+    "storage": "16, 32, 64 GB",
+    "appleOrderNo": "MD540LL/A*",
+    "releaseDate": "October 23, 2012*",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad 2 (Wi-Fi/GSM/GPS) 16, 32, 64 GB Specs",
+    "processor": "Apple A5",
+    "model": "A1396 (EMC 2416)",
+    "ram": "512 MB*",
+    "storage": "16, 32, 64 GB",
+    "appleOrderNo": "MC773LL/A*",
+    "releaseDate": "March 2, 2011*",
+    "color": "Black or White/Silver*"
+  },
+  {
+    "deviceName": "Apple iPad mini 4 (Wi-Fi Only) 16, 32, 64, 128 GB* Specs",
+    "processor": "Apple A8",
+    "model": "A1538 (EMC 2824*)",
+    "ram": "2 GB*",
+    "storage": "16, 32, 64, 128 GB*",
+    "appleOrderNo": "MK6K2LL/A*",
+    "releaseDate": "September 9, 2015*",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad Air Wi-Fi/Cellular 16, 32, 64, 128 GB Specs",
+    "processor": "Apple A7",
+    "model": "A1475 (EMC 2647*)",
+    "ram": "1 GB*",
+    "storage": "16, 32, 64, 128 GB",
+    "appleOrderNo": "ME991LL/A*",
+    "releaseDate": "October 22, 2013*",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad 9.7\" 6th Gen (Wi-Fi Only) 32, 128 GB Specs",
+    "processor": "Apple A10 Fusion",
+    "model": "A1893 (EMC 3210*)",
+    "ram": "2 GB*",
+    "storage": "32, 128 GB",
+    "appleOrderNo": "MR7G2LL/A*",
+    "releaseDate": "March 27, 2018",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad Pro 12.9\" (Wi-Fi/Cellular) 128, 256 GB Specs",
+    "processor": "Apple A9X",
+    "model": "A1652 (EMC 2827)",
+    "ram": "4 GB*",
+    "storage": "128, 256 GB",
+    "appleOrderNo": "ML3N2LL/A*",
+    "releaseDate": "September 9, 2015*",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad mini 3 (Wi-Fi Only) 16, 64, 128 GB Specs",
+    "processor": "Apple A7",
+    "model": "A1599 (EMC 2848*)",
+    "ram": "1 GB*",
+    "storage": "16, 64, 128 GB",
+    "appleOrderNo": "MGNV2LL/A*",
+    "releaseDate": "October 16, 2014",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad Pro 11\" (Wi-Fi Only) 64, 256, 512 GB; 1 TB Specs",
+    "processor": "Apple A12X Bionic",
+    "model": "A1980 (EMC 3221*)",
+    "ram": "4 GB, 6 GB*",
+    "storage": "64, 256, 512 GB; 1 TB",
+    "appleOrderNo": "MTXP2LL/A*",
+    "releaseDate": "October 30, 2018*",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad mini Wi-Fi/AT&T/GPS - 1st Gen 16, 32, 64 GB Specs",
+    "processor": "Apple A5",
+    "model": "A1454 (EMC 2608*)",
+    "ram": "512 MB*",
+    "storage": "16, 32, 64 GB",
+    "appleOrderNo": "MD534LL/A*",
+    "releaseDate": "October 23, 2012*",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad mini 4 (Wi-Fi/Cellular) 16, 32, 64, 128 GB* Specs",
+    "processor": "Apple A8",
+    "model": "A1550 (EMC 2825*)",
+    "ram": "2 GB*",
+    "storage": "16, 32, 64, 128 GB*",
+    "appleOrderNo": "MK872LL/A*",
+    "releaseDate": "September 9, 2015*",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad 3rd Gen (Wi-Fi/Cellular Verizon/GPS) 16, 32, 64 GB Specs",
+    "processor": "Apple A5X",
+    "model": "A1403 (EMC 2499)",
+    "ram": "1 GB*",
+    "storage": "16, 32, 64 GB",
+    "appleOrderNo": "MC733LL/A*",
+    "releaseDate": "March 7, 2012*",
+    "color": "Black or White/Silver*"
+  },
+  {
+    "deviceName": "Apple iPad 9.7\" 6th Gen (Wi-Fi/Cellular) 32, 128 GB Specs",
+    "processor": "Apple A10 Fusion",
+    "model": "A1954 (EMC 3211*)",
+    "ram": "2 GB*",
+    "storage": "32, 128 GB",
+    "appleOrderNo": "MR702LL/A*",
+    "releaseDate": "March 27, 2018",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad Air Wi-Fi Only 16, 32, 64, 128 GB Specs",
+    "processor": "Apple A7",
+    "model": "A1474 (EMC 2646*)",
+    "ram": "1 GB*",
+    "storage": "16, 32, 64, 128 GB",
+    "appleOrderNo": "MD785LL/A*",
+    "releaseDate": "October 22, 2013*",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad Pro 11\" (Wi-Fi/Cellular - China) 64, 256, 512 GB; 1 TB Specs",
+    "processor": "Apple A12X Bionic",
+    "model": "A1979 (EMC 3222*)",
+    "ram": "4 GB, 6 GB*",
+    "storage": "64, 256, 512 GB; 1 TB",
+    "appleOrderNo": "MU0X2CH/A*",
+    "releaseDate": "October 30, 2018*",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad Pro 9.7\" (Wi-Fi Only) 32, 128, 256 GB Specs",
+    "processor": "Apple A9X",
+    "model": "A1673 (EMC 2976)",
+    "ram": "2 GB*",
+    "storage": "32, 128, 256 GB",
+    "appleOrderNo": "MLMP2LL/A*",
+    "releaseDate": "March 21, 2016*",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad mini 5th Gen (Wi-Fi+Cell China) 64, 256 GB Specs",
+    "processor": "Apple A12 Bionic",
+    "model": "A2125 (EMC 3314*)",
+    "ram": "3 GB*",
+    "storage": "64, 256 GB",
+    "appleOrderNo": "MUXR2CH/A*",
+    "releaseDate": "March 18, 2019",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad Pro 11\" (Wi-Fi/Cell Global - 2nd Gen) 128, 256, 512 GB; 1 TB Specs",
+    "processor": "Apple A12Z Bionic",
+    "model": "A2230 (EMC 3350)",
+    "ram": "6 GB*",
+    "storage": "128, 256, 512 GB; 1 TB",
+    "appleOrderNo": "MY2W2ZP/A*",
+    "releaseDate": "March 18, 2020",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad Pro 12.9\" (Wi-Fi/Cell Global - 4th Gen) 128, 256, 512 GB; 1 TB Specs",
+    "processor": "Apple A12Z Bionic",
+    "model": "A2232 (EMC 3354)",
+    "ram": "6 GB*",
+    "storage": "128, 256, 512 GB; 1 TB",
+    "appleOrderNo": "MY3D2ZP/A*",
+    "releaseDate": "March 18, 2020",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad Air Wi-Fi/TD-LTE - China 16, 32, 64, 128 GB Specs",
+    "processor": "Apple A7",
+    "model": "A1476 (EMC N/A)",
+    "ram": "1 GB*",
+    "storage": "16, 32, 64, 128 GB",
+    "appleOrderNo": "MD785CH/A*",
+    "releaseDate": "April 1, 2014",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad 10.2\" 7th Gen (Wi-Fi/Cellular, US/CA) 32, 128 GB Specs",
+    "processor": "Apple A10 Fusion",
+    "model": "A2200 (EMC 3324*)",
+    "ram": "3 GB*",
+    "storage": "32, 128 GB",
+    "appleOrderNo": "MW6X2LL/A*",
+    "releaseDate": "September 10, 2019",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad Pro 11\" (Wi-Fi Only - 2nd Gen) 128, 256, 512 GB; 1 TB Specs",
+    "processor": "Apple A12Z Bionic",
+    "model": "A2228 (EMC 3349)",
+    "ram": "6 GB*",
+    "storage": "128, 256, 512 GB; 1 TB",
+    "appleOrderNo": "MY252LL/A*",
+    "releaseDate": "March 18, 2020",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad 3rd Gen (Wi-Fi Only) 16, 32, 64 GB Specs",
+    "processor": "Apple A5X",
+    "model": "A1416 (EMC 2498)",
+    "ram": "1 GB*",
+    "storage": "16, 32, 64 GB",
+    "appleOrderNo": "MC705LL/A*",
+    "releaseDate": "March 7, 2012*",
+    "color": "Black or White/Silver*"
+  },
+  {
+    "deviceName": "Apple iPad 3rd Gen (Wi-Fi/Cellular AT&T/GPS) 16, 32, 64 GB Specs",
+    "processor": "Apple A5X",
+    "model": "A1430 (EMC 2578)",
+    "ram": "1 GB*",
+    "storage": "16, 32, 64 GB",
+    "appleOrderNo": "MD366LL/A*",
+    "releaseDate": "March 7, 2012*",
+    "color": "Black or White/Silver*"
+  },
+  {
+    "deviceName": "Apple iPad Air 3rd Gen (Wi-Fi+Cell China) 64, 256 GB Specs",
+    "processor": "Apple A12 Bionic",
+    "model": "A2154 (EMC 3316*)",
+    "ram": "3 GB*",
+    "storage": "64, 256 GB",
+    "appleOrderNo": "MV0U2CH/A*",
+    "releaseDate": "March 18, 2019",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad 2 (Wi-Fi/CDMA/GPS) 16, 32, 64 GB Specs",
+    "processor": "Apple A5",
+    "model": "A1397 (EMC 2424)",
+    "ram": "512 MB*",
+    "storage": "16, 32, 64 GB",
+    "appleOrderNo": "MC755LL/A*",
+    "releaseDate": "March 2, 2011*",
+    "color": "Black or White/Silver*"
+  },
+  {
+    "deviceName": "Apple iPad Pro 12.9\" (Wi-Fi/Cell - 2nd Gen) 64, 256, 512 GB Specs",
+    "processor": "Apple A10X Fusion",
+    "model": "A1671 (EMC 3150*)",
+    "ram": "4 GB*",
+    "storage": "64, 256, 512 GB",
+    "appleOrderNo": "MQEE2LL/A*",
+    "releaseDate": "June 5, 2017*",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad 4th Gen (Wi-Fi/AT&T/GPS) 16, 32, 64, 128 GB* Specs",
+    "processor": "Apple A6X",
+    "model": "A1459 (EMC 2605*)",
+    "ram": "1 GB*",
+    "storage": "16, 32, 64, 128 GB*",
+    "appleOrderNo": "MD516LL/A*",
+    "releaseDate": "October 23, 2012*",
+    "color": "Black or White/Silver*"
+  },
+  {
+    "deviceName": "Apple iPad Wi-Fi/3G/GPS (Original/1st Gen) 16, 32, 64 GB Specs",
+    "processor": "Apple A4",
+    "model": "A1337 (EMC 2328)",
+    "ram": "256 MB*",
+    "storage": "16, 32, 64 GB",
+    "appleOrderNo": "MC349LL/A*",
+    "releaseDate": "January 27, 2010*",
+    "color": "Black/Silver*"
+  },
+  {
+    "deviceName": "Apple iPad Pro 12.9\" (Wi-Fi/Cell China - 4th Gen) 128, 256, 512 GB; 1 TB Specs",
+    "processor": "Apple A12Z Bionic",
+    "model": "A2233 (EMC 3354)",
+    "ram": "6 GB*",
+    "storage": "128, 256, 512 GB; 1 TB",
+    "appleOrderNo": "MY3H2CH/A*",
+    "releaseDate": "March 18, 2020",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad Air 3rd Gen (Wi-Fi+Cell Global) 64, 256 GB Specs",
+    "processor": "Apple A12 Bionic",
+    "model": "A2123 (EMC 3316*)",
+    "ram": "3 GB*",
+    "storage": "64, 256 GB",
+    "appleOrderNo": "MV0E2B/A*",
+    "releaseDate": "March 18, 2019",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad mini 5th Gen (Wi-Fi+Cell US/CA) 64, 256 GB Specs",
+    "processor": "Apple A12 Bionic",
+    "model": "A2126 (EMC 3314*)",
+    "ram": "3 GB*",
+    "storage": "64, 256 GB",
+    "appleOrderNo": "MUXG2LL/A*",
+    "releaseDate": "March 18, 2019",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad 10.2\" 7th Gen (Wi-Fi/Cellular, China) 32, 128 GB Specs",
+    "processor": "Apple A10 Fusion",
+    "model": "A2199 (EMC 3324*)",
+    "ram": "3 GB*",
+    "storage": "32, 128 GB",
+    "appleOrderNo": "MW6Q2CH/A*",
+    "releaseDate": "September 10, 2019",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad 2 (Wi-Fi Only, iPad2,4) 16 GB Specs",
+    "processor": "Apple A5",
+    "model": "A1395 (EMC 2560)",
+    "ram": "512 MB*",
+    "storage": "16 GB",
+    "appleOrderNo": "MC769LL/A*",
+    "releaseDate": "March 25, 2012*",
+    "color": "Black or White/Silver*"
+  },
+  {
+    "deviceName": "Apple iPad 2 (Wi-Fi Only) 16, 32, 64 GB Specs",
+    "processor": "Apple A5",
+    "model": "A1395 (EMC 2415)",
+    "ram": "512 MB*",
+    "storage": "16, 32, 64 GB",
+    "appleOrderNo": "MC769LL/A*",
+    "releaseDate": "March 2, 2011*",
+    "color": "Black or White/Silver*"
+  },
+  {
+    "deviceName": "Apple iPad 10.2\" 7th Gen (Wi-Fi Only) 32, 128 GB Specs",
+    "processor": "Apple A10 Fusion",
+    "model": "A2197 (EMC 3323*)",
+    "ram": "3 GB*",
+    "storage": "32, 128 GB",
+    "appleOrderNo": "MW752LL/A*",
+    "releaseDate": "September 10, 2019",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad 10.2\" 8th Gen (Wi-Fi/Cellular, US/CA) 32, 128 GB Specs",
+    "processor": "Apple A12 Bionic",
+    "model": "A2428 (EMC 3575*)",
+    "ram": "3 GB*",
+    "storage": "32, 128 GB",
+    "appleOrderNo": "MYN52LL/A*",
+    "releaseDate": "September 15, 2020",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad 10.2\" 8th Gen (Wi-Fi/Cellular, China) 32, 128 GB Specs",
+    "processor": "Apple A12 Bionic",
+    "model": "A2430 (EMC 3575*)",
+    "ram": "3 GB*",
+    "storage": "32, 128 GB",
+    "appleOrderNo": "MYMX2CH/A*",
+    "releaseDate": "September 15, 2020",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad Pro 11\" (Wi-Fi/Cell US/CA - 2nd Gen) 128, 256, 512 GB; 1 TB Specs",
+    "processor": "Apple A12Z Bionic",
+    "model": "A2068 (EMC 3350)",
+    "ram": "6 GB*",
+    "storage": "128, 256, 512 GB; 1 TB",
+    "appleOrderNo": "MY342LL/A*",
+    "releaseDate": "March 18, 2020",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad Pro 12.9\" (Wi-Fi/Cell US/CA - 4th Gen) 128, 256, 512 GB; 1 TB Specs",
+    "processor": "Apple A12Z Bionic",
+    "model": "A2069 (EMC 3354)",
+    "ram": "6 GB*",
+    "storage": "128, 256, 512 GB; 1 TB",
+    "appleOrderNo": "MY3K2LL/A*",
+    "releaseDate": "March 18, 2020",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad Pro 11\" (Wi-Fi/Cell China - 2nd Gen) 128, 256, 512 GB; 1 TB Specs",
+    "processor": "Apple A12Z Bionic",
+    "model": "A2231 (EMC 3350)",
+    "ram": "6 GB*",
+    "storage": "128, 256, 512 GB; 1 TB",
+    "appleOrderNo": "MY322CH/A*",
+    "releaseDate": "March 18, 2020",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad Air 4th Gen (Wi-Fi+Cell Global) 64, 256 GB Specs",
+    "processor": "Apple A14 Bionic",
+    "model": "A2072 (EMC 3571*)",
+    "ram": "4 GB*",
+    "storage": "64, 256 GB",
+    "appleOrderNo": "MYGX2ZP/A*",
+    "releaseDate": "September 15, 2020*",
+    "color": "Black (Colors)*"
+  },
+  {
+    "deviceName": "Apple iPad Air 4th Gen (Wi-Fi Only) 64, 256 GB Specs",
+    "processor": "Apple A14 Bionic",
+    "model": "A2316 (EMC 3570*)",
+    "ram": "4 GB*",
+    "storage": "64, 256 GB",
+    "appleOrderNo": "MYFN2LL/A*",
+    "releaseDate": "September 15, 2020*",
+    "color": "Black (Colors)*"
+  },
+  {
+    "deviceName": "Apple iPad 10.2\" 9th Gen (Wi-Fi/Cellular, Global) 64, 256 GB Specs",
+    "processor": "Apple A13 Bionic",
+    "model": "A2604 (EMC 4046*)",
+    "ram": "3 GB*",
+    "storage": "64, 256 GB",
+    "appleOrderNo": "MK493B/A*",
+    "releaseDate": "September 14, 2021*",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad 10.2\" 8th Gen (Wi-Fi Only) 32, 128 GB Specs",
+    "processor": "Apple A12 Bionic",
+    "model": "A2270 (EMC 3574*)",
+    "ram": "3 GB*",
+    "storage": "32, 128 GB",
+    "appleOrderNo": "MYLA2LL/A*",
+    "releaseDate": "September 15, 2020",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad Pro 12.9\" (Wi-Fi Only - 4th Gen) 128, 256, 512 GB; 1 TB Specs",
+    "processor": "Apple A12Z Bionic",
+    "model": "A2229 (EMC 3353)",
+    "ram": "6 GB*",
+    "storage": "128, 256, 512 GB; 1 TB",
+    "appleOrderNo": "MY2J2LL/A*",
+    "releaseDate": "March 18, 2020",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad mini 6th Gen (Wi-Fi Only) 64, 256 GB Specs",
+    "processor": "Apple A15 Bionic",
+    "model": "A2567 (EMC 4043*)",
+    "ram": "4 GB*",
+    "storage": "64, 256 GB",
+    "appleOrderNo": "MK7M3LL/A*",
+    "releaseDate": "September 14, 2021*",
+    "color": "Black (Colors)*"
+  },
+  {
+    "deviceName": "Apple iPad 10.2\" 8th Gen (Wi-Fi/Cellular, Global) 32, 128 GB Specs",
+    "processor": "Apple A12 Bionic",
+    "model": "A2429 (EMC 3575*)",
+    "ram": "3 GB*",
+    "storage": "32, 128 GB",
+    "appleOrderNo": "MYMJ2B/A*",
+    "releaseDate": "September 15, 2020",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad Air 4th Gen (Wi-Fi+Cell US/CA) 64, 256 GB Specs",
+    "processor": "Apple A14 Bionic",
+    "model": "A2324 (EMC 3571*)",
+    "ram": "4 GB*",
+    "storage": "64, 256 GB",
+    "appleOrderNo": "MYHY2LL/A*",
+    "releaseDate": "September 15, 2020*",
+    "color": "Black (Colors)*"
+  },
+  {
+    "deviceName": "Apple iPad Pro 12.9\" (Wi-Fi/Cell China - 5th Gen) 128, 256, 512 GB; 1, 2 TB Specs",
+    "processor": "Apple M1",
+    "model": "A2462 (EMC 3688)",
+    "ram": "8 GB, 16 GB*",
+    "storage": "128, 256, 512 GB; 1, 2 TB",
+    "appleOrderNo": "MHRG3CH/A*",
+    "releaseDate": "April 20, 2021*",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad 10.2\" 9th Gen (Wi-Fi/Cellular, China) 64, 256 GB Specs",
+    "processor": "Apple A13 Bionic",
+    "model": "A2605 (EMC 4046*)",
+    "ram": "3 GB*",
+    "storage": "64, 256 GB",
+    "appleOrderNo": "MK613CH/A*",
+    "releaseDate": "September 14, 2021*",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad Air 4th Gen (Wi-Fi+Cell China) 64, 256 GB Specs",
+    "processor": "Apple A14 Bionic",
+    "model": "A2325 (EMC 3571*)",
+    "ram": "4 GB*",
+    "storage": "64, 256 GB",
+    "appleOrderNo": "MYHM2CH/A*",
+    "releaseDate": "September 15, 2020*",
+    "color": "Black (Colors)*"
+  },
+  {
+    "deviceName": "Apple iPad mini 6th Gen (Wi-Fi/Cell China) 64, 256 GB Specs",
+    "processor": "Apple A15 Bionic",
+    "model": "A2569 (EMC 4044*)",
+    "ram": "4 GB*",
+    "storage": "64, 256 GB",
+    "appleOrderNo": "MK8Y3CH/A*",
+    "releaseDate": "September 14, 2021*",
+    "color": "Black (Colors)*"
+  },
+  {
+    "deviceName": "Apple iPad Pro 12.9\" (Wi-Fi/Cell Global - 5th Gen) 128, 256, 512 GB; 1, 2 TB Specs",
+    "processor": "Apple M1",
+    "model": "A2461 (EMC 3687)",
+    "ram": "8 GB, 16 GB*",
+    "storage": "128, 256, 512 GB; 1, 2 TB",
+    "appleOrderNo": "MHR53X/A*",
+    "releaseDate": "April 20, 2021*",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad Air 5th Gen (Wi-Fi+Cell China) 64, 256 GB Specs",
+    "processor": "Apple M1",
+    "model": "A2591 (EMC 4042*)",
+    "ram": "8 GB*",
+    "storage": "64, 256 GB",
+    "appleOrderNo": "MM753CH/A*",
+    "releaseDate": "March 8, 2022",
+    "color": "Black (Colors)*"
+  },
+  {
+    "deviceName": "Apple iPad 10.9\" 10th Gen (Wi-Fi Only) 64, 256 GB Specs",
+    "processor": "Apple A14 Bionic",
+    "model": "A2696 (EMC 8137*)",
+    "ram": "4 GB*",
+    "storage": "64, 256 GB",
+    "appleOrderNo": "MPQ03LL/A*",
+    "releaseDate": "October 18, 2022",
+    "color": "Black (Colors)*"
+  },
+  {
+    "deviceName": "Apple iPad 10.2\" 9th Gen (Wi-Fi Only) 64, 256 GB Specs",
+    "processor": "Apple A13 Bionic",
+    "model": "A2602 (EMC 4045*)",
+    "ram": "3 GB*",
+    "storage": "64, 256 GB",
+    "appleOrderNo": "MK2L3LL/A*",
+    "releaseDate": "September 14, 2021*",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad Pro 11\" (Wi-Fi/Cell China - 3rd Gen) 128, 256, 512 GB; 1, 2 TB Specs",
+    "processor": "Apple M1",
+    "model": "A2460 (EMC 3684)",
+    "ram": "8 GB, 16 GB*",
+    "storage": "128, 256, 512 GB; 1, 2 TB",
+    "appleOrderNo": "MHWH3CH/A*",
+    "releaseDate": "April 20, 2021*",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad mini 5th Gen (Wi-Fi Only) 64, 256 GB Specs",
+    "processor": "Apple A12 Bionic",
+    "model": "A2133 (EMC 3313*)",
+    "ram": "3 GB*",
+    "storage": "64, 256 GB",
+    "appleOrderNo": "MUQX2LL/A*",
+    "releaseDate": "March 18, 2019",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad 10.2\" 7th Gen (Wi-Fi/Cellular, Global) 32, 128 GB Specs",
+    "processor": "Apple A10 Fusion",
+    "model": "A2198 (EMC 3324*)",
+    "ram": "3 GB*",
+    "storage": "32, 128 GB",
+    "appleOrderNo": "MW6C2B/A*",
+    "releaseDate": "September 10, 2019",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad Pro 12.9\" (Wi-Fi/Cell US - 5th Gen) 128, 256, 512 GB; 1, 2 TB Specs",
+    "processor": "Apple M1",
+    "model": "A2379 (EMC 3686)",
+    "ram": "8 GB, 16 GB*",
+    "storage": "128, 256, 512 GB; 1, 2 TB",
+    "appleOrderNo": "MHNT3LL/A*",
+    "releaseDate": "April 20, 2021*",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad Air 5th Gen (Wi-Fi+Cell A2589) 64, 256 GB Specs",
+    "processor": "Apple M1",
+    "model": "A2589 (EMC 4042*)",
+    "ram": "8 GB*",
+    "storage": "64, 256 GB",
+    "appleOrderNo": "MM6R3LL/A*",
+    "releaseDate": "March 8, 2022",
+    "color": "Black (Colors)*"
+  },
+  {
+    "deviceName": "Apple iPad Pro 11\" (Wi-Fi/Cell Global - 3rd Gen) 128, 256, 512 GB; 1, 2 TB Specs",
+    "processor": "Apple M1",
+    "model": "A2459 (EMC 3683)",
+    "ram": "8 GB, 16 GB*",
+    "storage": "128, 256, 512 GB; 1, 2 TB",
+    "appleOrderNo": "MHW63X/A*",
+    "releaseDate": "April 20, 2021*",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad mini 6th Gen (Wi-Fi/Cell US/Global) 64, 256 GB Specs",
+    "processor": "Apple A15 Bionic",
+    "model": "A2568 (EMC 4044*)",
+    "ram": "4 GB*",
+    "storage": "64, 256 GB",
+    "appleOrderNo": "MK893LL/A*",
+    "releaseDate": "September 14, 2021*",
+    "color": "Black (Colors)*"
+  },
+  {
+    "deviceName": "Apple iPad Pro 11\" (Wi-Fi Only - 4th Gen) 128, 256, 512 GB; 1, 2 TB Specs",
+    "processor": "Apple M2",
+    "model": "A2759 (EMC 8166*)",
+    "ram": "8 GB, 16 GB*",
+    "storage": "128, 256, 512 GB; 1, 2 TB",
+    "appleOrderNo": "MNXE3LL/A*",
+    "releaseDate": "October 18, 2022",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad Air 5th Gen (Wi-Fi Only) 64, 256 GB Specs",
+    "processor": "Apple M1",
+    "model": "A2588 (EMC 4041*)",
+    "ram": "8 GB*",
+    "storage": "64, 256 GB",
+    "appleOrderNo": "MM9C3LL/A*",
+    "releaseDate": "March 8, 2022",
+    "color": "Black (Colors)*"
+  },
+  {
+    "deviceName": "Apple iPad Air M2 13\" (Wi-Fi+Cell) 128, 256, 512 GB; 1 TB Specs",
+    "processor": "Apple M2",
+    "model": "A2899 (EMC 8395*)",
+    "ram": "8 GB*",
+    "storage": "128, 256, 512 GB; 1 TB",
+    "appleOrderNo": "MV6R3LL/A*",
+    "releaseDate": "May 7, 2024",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad 10.9\" 10th Gen (Wi-Fi/Cellular, China) 64, 256 GB Specs",
+    "processor": "Apple A14 Bionic",
+    "model": "A2777 (EMC 8135*)",
+    "ram": "4 GB*",
+    "storage": "64, 256 GB",
+    "appleOrderNo": "MQ6X3CH/A*",
+    "releaseDate": "October 18, 2022",
+    "color": "Black (Colors)*"
+  },
+  {
+    "deviceName": "Apple iPad Pro 11\" (Wi-Fi/Cell US - 4th Gen) 128, 256, 512 GB; 1, 2 TB Specs",
+    "processor": "Apple M2",
+    "model": "A2435 (EMC 8167*)",
+    "ram": "8 GB, 16 GB*",
+    "storage": "128, 256, 512 GB; 1, 2 TB",
+    "appleOrderNo": "MP563LL/A*",
+    "releaseDate": "October 18, 2022",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad Air M2 13\" (Wi-Fi Only) 128, 256, 512 GB; 1 TB Specs",
+    "processor": "Apple M2",
+    "model": "A2898 (EMC 8394*)",
+    "ram": "8 GB*",
+    "storage": "128, 256, 512 GB; 1 TB",
+    "appleOrderNo": "MV283LL/A*",
+    "releaseDate": "May 7, 2024",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad Pro 11\" (Wi-Fi/Cell China - 4th Gen) 128, 256, 512 GB; 1, 2 TB Specs",
+    "processor": "Apple M2",
+    "model": "A2762 (EMC 8168*)",
+    "ram": "8 GB, 16 GB*",
+    "storage": "128, 256, 512 GB; 1, 2 TB",
+    "appleOrderNo": "MNYP3CH/A*",
+    "releaseDate": "October 18, 2022",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad Pro M4 13\" (Wi-Fi Only) 256, 512 GB; 1, 2 TB Specs",
+    "processor": "Apple M4",
+    "model": "A2925 (EMC 8474*)",
+    "ram": "8 GB, 16 GB*",
+    "storage": "256, 512 GB; 1, 2 TB",
+    "appleOrderNo": "MVX33LL/A*",
+    "releaseDate": "May 7, 2024",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad 10.9\" 10th Gen (Wi-Fi/Cellular) 64, 256 GB Specs",
+    "processor": "Apple A14 Bionic",
+    "model": "A2757 (EMC 8135*)",
+    "ram": "4 GB*",
+    "storage": "64, 256 GB",
+    "appleOrderNo": "MQ6J3LL/A*",
+    "releaseDate": "October 18, 2022",
+    "color": "Black (Colors)*"
+  },
+  {
+    "deviceName": "Apple iPad Pro 12.9\" (Wi-Fi/Cell Global - 6th Gen) 128, 256, 512 GB; 1, 2 TB Specs",
+    "processor": "Apple M2",
+    "model": "A2437 (EMC 8177*)",
+    "ram": "8 GB, 16 GB*",
+    "storage": "128, 256, 512 GB; 1, 2 TB",
+    "appleOrderNo": "MP1Y3B/A*",
+    "releaseDate": "October 18, 2022",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad Pro M4 11\" (Wi-Fi Only) 256, 512 GB; 1, 2 TB Specs",
+    "processor": "Apple M4",
+    "model": "A2836 (EMC 8472*)",
+    "ram": "8 GB, 16 GB*",
+    "storage": "256, 512 GB; 1, 2 TB",
+    "appleOrderNo": "MVV93LL/A*",
+    "releaseDate": "May 7, 2024",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad Pro 12.9\" (Wi-Fi/Cell US - 6th Gen) 128, 256, 512 GB; 1, 2 TB Specs",
+    "processor": "Apple M2",
+    "model": "A2764 (EMC 8176*)",
+    "ram": "8 GB, 16 GB*",
+    "storage": "128, 256, 512 GB; 1, 2 TB",
+    "appleOrderNo": "MP5Y3LL/A*",
+    "releaseDate": "October 18, 2022",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad Air M2 11\" (Wi-Fi+Cell China) 128, 256, 512 GB; 1 TB Specs",
+    "processor": "Apple M2",
+    "model": "A2904 (EMC 8393*)",
+    "ram": "8 GB*",
+    "storage": "128, 256, 512 GB; 1 TB",
+    "appleOrderNo": "MUXX3CH/A*",
+    "releaseDate": "May 7, 2024",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad Air M2 13\" (Wi-Fi+Cell China) 128, 256, 512 GB; 1 TB Specs",
+    "processor": "Apple M2",
+    "model": "A2900 (EMC 8395*)",
+    "ram": "8 GB*",
+    "storage": "128, 256, 512 GB; 1 TB",
+    "appleOrderNo": "MV793CH/A*",
+    "releaseDate": "May 7, 2024",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad Pro M4 11\" (Wi-Fi+Cell China) 256, 512 GB; 1, 2 TB Specs",
+    "processor": "Apple M4",
+    "model": "A3006 (EMC 8473*)",
+    "ram": "8 GB, 16 GB*",
+    "storage": "256, 512 GB; 1, 2 TB",
+    "appleOrderNo": "MVWA3CH/A*",
+    "releaseDate": "May 7, 2024",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad Pro M4 11\" (Wi-Fi+Cell) 256, 512 GB; 1, 2 TB Specs",
+    "processor": "Apple M4",
+    "model": "A2837 (EMC 8473*)",
+    "ram": "8 GB, 16 GB*",
+    "storage": "256, 512 GB; 1, 2 TB",
+    "appleOrderNo": "MVW23LL/A*",
+    "releaseDate": "May 7, 2024",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad mini A17 Pro - 7th Gen (Wi-Fi Only) 128, 256, 512 GB Specs",
+    "processor": "Apple A17 Pro",
+    "model": "A2993 (EMC 8470*)",
+    "ram": "8 GB*",
+    "storage": "128, 256, 512 GB",
+    "appleOrderNo": "MXN73LL/A*",
+    "releaseDate": "October 15, 2024*",
+    "color": "Black (Colors)*"
+  },
+  {
+    "deviceName": "Apple iPad mini A17 Pro - 7th Gen (Wi-Fi/Cell) 128, 256, 512 GB Specs",
+    "processor": "Apple A17 Pro",
+    "model": "A2995 (EMC 8471*)",
+    "ram": "8 GB*",
+    "storage": "128, 256, 512 GB",
+    "appleOrderNo": "MXPP3LL/A*",
+    "releaseDate": "October 15, 2024*",
+    "color": "Black (Colors)*"
+  },
+  {
+    "deviceName": "Apple iPad Pro M4 13\" (Wi-Fi+Cell China) 256, 512 GB; 1, 2 TB Specs",
+    "processor": "Apple M4",
+    "model": "A3007 (EMC 8475*)",
+    "ram": "8 GB, 16 GB*",
+    "storage": "256, 512 GB; 1, 2 TB",
+    "appleOrderNo": "MVY23CH/A*",
+    "releaseDate": "May 7, 2024",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad mini A17 Pro - 7th Gen (Wi-Fi/Cell China) 128, 256, 512 GB Specs",
+    "processor": "Apple A17 Pro",
+    "model": "A2996 (EMC 8471*)",
+    "ram": "8 GB*",
+    "storage": "128, 256, 512 GB",
+    "appleOrderNo": "MXQ13CH/A*",
+    "releaseDate": "October 15, 2024*",
+    "color": "Black (Colors)*"
+  },
+  {
+    "deviceName": "Apple iPad 10.2\" 9th Gen (Wi-Fi/Cellular, US/CA) 64, 256 GB Specs",
+    "processor": "Apple A13 Bionic",
+    "model": "A2603 (EMC 4046*)",
+    "ram": "3 GB*",
+    "storage": "64, 256 GB",
+    "appleOrderNo": "MK673LL/A*",
+    "releaseDate": "September 14, 2021*",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad Pro M4 13\" (Wi-Fi+Cell) 256, 512 GB; 1, 2 TB Specs",
+    "processor": "Apple M4",
+    "model": "A2926 (EMC 8475*)",
+    "ram": "8 GB, 16 GB*",
+    "storage": "256, 512 GB; 1, 2 TB",
+    "appleOrderNo": "MVXT3LL/A*",
+    "releaseDate": "May 7, 2024",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad Pro 11\" (Wi-Fi/Cell US - 3rd Gen) 128, 256, 512 GB; 1, 2 TB Specs",
+    "processor": "Apple M1",
+    "model": "A2301 (EMC 3682)",
+    "ram": "8 GB, 16 GB*",
+    "storage": "128, 256, 512 GB; 1, 2 TB",
+    "appleOrderNo": "MHMU3LL/A*",
+    "releaseDate": "April 20, 2021*",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad Pro 12.9\" (Wi-Fi/Cell China - 6th Gen) 128, 256, 512 GB; 1, 2 TB Specs",
+    "processor": "Apple M2",
+    "model": "A2766 (EMC 8177*)",
+    "ram": "8 GB, 16 GB*",
+    "storage": "128, 256, 512 GB; 1, 2 TB",
+    "appleOrderNo": "MP293CH/A*",
+    "releaseDate": "October 18, 2022",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad Pro 11\" (Wi-Fi/Cell Global - 4th Gen) 128, 256, 512 GB; 1, 2 TB Specs",
+    "processor": "Apple M2",
+    "model": "A2761 (EMC 8168*)",
+    "ram": "8 GB, 16 GB*",
+    "storage": "128, 256, 512 GB; 1, 2 TB",
+    "appleOrderNo": "MNYD3B/A*",
+    "releaseDate": "October 18, 2022",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad Air M2 11\" (Wi-Fi Only) 128, 256, 512 GB; 1 TB Specs",
+    "processor": "Apple M2",
+    "model": "A2902 (EMC 8392*)",
+    "ram": "8 GB*",
+    "storage": "128, 256, 512 GB; 1 TB",
+    "appleOrderNo": "MUWD3LL/A*",
+    "releaseDate": "May 7, 2024",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad Pro 12.9\" (Wi-Fi Only - 6th Gen) 128, 256, 512 GB; 1, 2 TB Specs",
+    "processor": "Apple M2",
+    "model": "A2436 (EMC 8169*)",
+    "ram": "8 GB, 16 GB*",
+    "storage": "128, 256, 512 GB; 1, 2 TB",
+    "appleOrderNo": "MNXQ3LL/A*",
+    "releaseDate": "October 18, 2022",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad Air M2 11\" (Wi-Fi+Cell) 128, 256, 512 GB; 1 TB Specs",
+    "processor": "Apple M2",
+    "model": "A2903 (EMC 8393*)",
+    "ram": "8 GB*",
+    "storage": "128, 256, 512 GB; 1 TB",
+    "appleOrderNo": "MUXE3LL/A*",
+    "releaseDate": "May 7, 2024",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad Pro 11\" (Wi-Fi Only - 3rd Gen) 128, 256, 512 GB; 1, 2 TB Specs",
+    "processor": "Apple M1",
+    "model": "A2377 (EMC 3681)",
+    "ram": "8 GB, 16 GB*",
+    "storage": "128, 256, 512 GB; 1, 2 TB",
+    "appleOrderNo": "MHQT3LL/A*",
+    "releaseDate": "April 20, 2021*",
+    "color": "Black*"
+  },
+  {
+    "deviceName": "Apple iPad mini 5th Gen (Wi-Fi+Cell Global) 64, 256 GB Specs",
+    "processor": "Apple A12 Bionic",
+    "model": "A2124 (EMC 3314*)",
+    "ram": "3 GB*",
+    "storage": "64, 256 GB",
+    "appleOrderNo": "MUX62B/A*",
+    "releaseDate": "March 18, 2019",
+    "color": "Black or White*"
+  },
+  {
+    "deviceName": "Apple iPad Pro 12.9\" (Wi-Fi Only - 5th Gen) 128, 256, 512 GB; 1, 2 TB Specs",
+    "processor": "Apple M1",
+    "model": "A2378 (EMC 3689)",
+    "ram": "8 GB, 16 GB*",
+    "storage": "128, 256, 512 GB; 1, 2 TB",
+    "appleOrderNo": "MHNG3LL/A*",
+    "releaseDate": "April 20, 2021*",
+    "color": "Black*"
+  }
+]

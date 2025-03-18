@@ -1,0 +1,70 @@
+ /* Estilos CSS aquí */
+ body {
+    font-family: sans-serif;
+    margin: 20px;
+    background-color: #070B0D;
+  }
+  h1 {
+    text-align: center;
+    color: #6D7C83;
+  }
+  #filters {
+    display: flex;
+    justify-content: center; /* Centrar los botones */
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  #filters button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #A41715;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  #filters button:hover {
+    background-color: #DB2D28;
+  }
+  #phone-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+  }
+  .phone-item {
+    border: 1px solid #40080A;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+    background-color: #A41715;
+    transition: transform 0.2s;
+  }
+  .phone-item:hover {
+    transform: translateY(-5px);
+  }
+  .phone-item h3 {
+    margin-top: 0;
+    color: white;
+  }
+  .phone-item p {
+    margin-bottom: 5px;
+    color: #d6d6d6;
+  }
+  .phone-item strong {
+    font-weight: bold;
+  }
+  #Buscador {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+  #phone-list .error-message {
+    text-align: center;
+    color: red;
+    font-style: italic;
+  }
+  
+  

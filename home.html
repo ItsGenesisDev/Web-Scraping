@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Listado de Dispositivos Apple</title>
+    <link rel="stylesheet" href="../index.css">
+    
+</head>
+<body>
+    <div class="header">
+        <img src="../Logo_oficial.png" alt="Apple Logo" id="reconextLogo">
+        <h1>Listado de Dispositivos Apple</h1>
+        <a href="./auth/login.html" id="back-to-home">Cerrar sesión</a>
+        
+    </div>
+
+    <!--- Filtros -->
+    <div id="filters">
+        <button data-filter="iphones">iPhone</button>
+        <button data-filter="ipads">iPad</button>
+        <button data-filter="imacbook">iMacBook</button>
+        <button data-filter="applewatches">Apple Watch</button>
+        <button data-filter="imacs">iMac</button>
+        <button id="crud" onclick="location.href='./crudDevice/crudDevice.html'">Editar Dispositivo</button>
+    </div>
+
+
+    <!-- Buscador -->
+    <div id="search">
+        <input type="search" placeholder="Busca tu Archivo" id="Buscador" />
+        <button id="refreshButton">Actualizar Datos</button>
+    </div>
+    
+    
+    <div id="phone-list"></div>
+    <script type="module"  src="../script.js"></script>
+    
+</body>
+</html>
