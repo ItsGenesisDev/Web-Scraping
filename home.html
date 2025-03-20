@@ -4,12 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Listado de Dispositivos Apple</title>
-    <link rel="stylesheet" href="../index.css">
+    <link rel="stylesheet" href="../index.css"> 
+    <!-- <link rel="stylesheet" href="/styles/index.css"> -->
     
 </head>
 <body>
     <div class="header">
-        <img src="../Logo_oficial.png" alt="Apple Logo" id="reconextLogo">
+        <img src="../Logo_oficial.png" alt="Apple Logo" id="reconextLogo"> <!-- Verifica que este archivo exista -->
         <h1>Listado de Dispositivos Apple</h1>
         <a href="/logout" id="back-to-home">Cerrar sesión</a>
         
@@ -22,7 +23,7 @@
         <button data-filter="imacbook">iMacBook</button>
         <button data-filter="applewatches">Apple Watch</button>
         <button data-filter="imacs">iMac</button>
-        <button id="crud" onclick="location.href='./crudDevice/crudDevice.html'">Editar Dispositivo</button>
+        <button id="crud" onclick="location.href='../../crudDevice.html'">Editar Dispositivo</button>
     </div>
 
 
@@ -35,6 +36,7 @@
     
     <div id="phone-list"></div>
     <script type="module"  src="../script.js"></script>
+    <!-- <script type="module"  src="/scripts/script.js"></script> -->
     
 </body>
 </html>

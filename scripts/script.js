@@ -1,9 +1,9 @@
 const deviceTypes = {
-    iphones: '/models/Iphone/jsons/allPhonesInfo.json',
-    ipads: '/models/Iphone/jsons/alliPadInfo.json',
-    imacbook: '/models/Iphone/jsons/allMacbookAirInfo.json',
-    applewatches: '/models/Iphone/jsons/allSmartwatchInfo.json',
-    imacs: '/models/Iphone/jsons/alliMacInfo.json'
+    iphones: '/Iphone/jsons/allPhonesInfo.json',
+    ipads: '/Iphone/jsons/alliPadInfo.json',
+    imacbook: '/Iphone/jsons/allMacbookAirInfo.json',
+    applewatches: '/Iphone/jsons/allSmartwatchInfo.json',
+    imacs: '/Iphone/jsons/alliMacInfo.json'
 }
 
 const phoneListDiv = document.getElementById('phone-list');

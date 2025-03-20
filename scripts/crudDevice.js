@@ -6,7 +6,7 @@ let devices = []; // Local array to store devices
 // Fetch existing devices from JSON files
 async function loadDevices() {
     try {
-        const response = await fetch('../models/Iphone/jsons/allPhonesInfo.json');
+        const response = await fetch('/Iphone/jsons/allPhonesInfo.json');
         devices = await response.json();
         renderDevices();
     } catch (error) {
@@ -109,12 +109,17 @@ function deleteDevice(index) {
 // Save devices to the JSON file
 async function saveDevices() {
     try {
-        await fetch('../models/Iphone/jsons/allPhonesInfo.json', {
+        const response = await fetch('/saveDevices', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify(devices, null, 2),
+            body: JSON.stringify(devices),
         });
-        console.log('Dispositivos guardados correctamente.');
+        if (response.ok) {
+            console.log('Dispositivos guardados correctamente.');
+        } else {
+            console.error('Error al guardar los dispositivos:', response.statusText);
+        }
+
     } catch (error) {
         console.error('Error al guardar los dispositivos:', error);
     }

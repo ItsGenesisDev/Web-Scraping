@@ -10,6 +10,9 @@ const session = require('express-session');
 // Importa el módulo path para trabajar con rutas de archivos
 const path = require('path');
 
+// Importa el modulo fs para leer archivos
+const fs = require('fs');
+
 // Configura la conexión a la base de datos MySQL
 const connection = mysql.createConnection({
 	host     : 'localhost', // Dirección del servidor de base de datos
@@ -37,7 +40,14 @@ app.use(express.static('styles'));
 // imágenes assets/
 app.use(express.static('assets'));
 // scripts//
+app.use(express.static('scripts'));
+// crudDevice//
+app.use(express.static('crudDevice'));
+// models//
 app.use(express.static('models'));
+
+
+
 
 
 // Ruta principal (GET) para mostrar la página de inicio de sesión
@@ -80,6 +90,20 @@ app.post('/auth', function(request, response) {
 		response.send('Please enter Username and Password!'); // Envía un mensaje de error al cliente
 		response.end(); // Finaliza la respuesta
 	}
+});
+
+app.post('/saveDevices', express.json(), (req, res) => {
+    const devices = req.body;
+    const filePath = path.join(__dirname, 'models', 'Iphone', 'jsons', 'allPhonesInfo.json');
+
+    fs.writeFile(filePath, JSON.stringify(devices, null, 2), (err) => {
+        if (err) {
+            console.error('Error al guardar los dispositivos:', err);
+            return res.status(500).send('Error al guardar los dispositivos.');
+        }
+        console.log('Dispositivos guardados correctamente en el servidor.');
+        res.send('Dispositivos guardados correctamente.');
+    });
 });
 
 // Ruta para la página de inicio (GET)
