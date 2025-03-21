@@ -12,11 +12,11 @@
         <form id="device-form">
             <label for="deviceType">Tipo de Dispositivo:</label>
             <select id="deviceType" name="deviceType" required>
-                <option value="iphones">iPhone</option>
-                <option value="ipads">iPad</option>
-                <option value="imacbook">iMacBook</option>
-                <option value="applewatches">Apple Watch</option>
-                <option value="imacs">iMac</option>
+                <option value="/Iphone/jsons/allPhonesInfo.json">iPhone</option>
+                <option value="/Iphone/jsons/alliPadInfo.json">iPad</option>
+                <option value="/Iphone/jsons/allMacbookAirInfo.json">MacBook Air</option>
+                <option value="/Iphone/jsons/allSmartwatchInfo.json">Apple Watch</option>
+                <option value="/Iphone/jsons/allIMacInfo.json">iMac</option>
             </select>
             
             <label for="deviceName">Nombre del Dispositivo:</label>
@@ -40,8 +40,8 @@
             <label for="color">Color:</label>
             <input type="text" id="color" name="color">
             
-            <button type="button-1" id="add-button" style="display: inline-block;">Agregar</button>
-            <button type="button-2" id="update-button" style="display: none;" disabled>Actualizar</button>
+            <button type="button" id="add-button" style="display: inline-block;">Agregar</button>
+            <button type="button" id="update-button" style="display: none;" disabled>Actualizar</button>
         </form>
         <div id="device-list">
             <h2>Lista de Dispositivos</h2>
@@ -54,7 +54,7 @@
             </ul>
         </div>
     </div>
-    <a href="../../home.html" id="back-to-home">Regresar a la Página Principal</a>
+    <a href="../home.html" id="back-to-home">Regresar a la Página Principal</a>
     <script src="../crudDevice.js"></script>
 </body>
 </html>

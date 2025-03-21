@@ -1,7 +1,7 @@
 // Importa la función scrapeAllDevices desde scripts/scrapeDevices.js
 // const scrapeAllDevices = require('./scrapeDevices'); // Ruta relativa a scrapeDevices.js
 
-//import scrapeAllDevices from './scrapeDevices.js';
+// import scrapeAllDevices from './scrapeDevices.js';
 
 
 // Definir los tipos de dispositivos y las rutas de sus archivos JSON

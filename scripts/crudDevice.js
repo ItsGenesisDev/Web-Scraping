@@ -1,18 +1,23 @@
 const deviceForm = document.getElementById('device-form');
 const deviceList = document.getElementById('devices');
+const deviceTypeSelect = document.getElementById('deviceType');
 
 let devices = []; // Local array to store devices
 
-// Fetch existing devices from JSON files
+// Fetch existing devices from the selected JSON file
 async function loadDevices() {
     try {
-        const response = await fetch('/Iphone/jsons/allPhonesInfo.json');
+        const selectedType = deviceTypeSelect.value; // Get selected device type
+        const response = await fetch(selectedType);
         devices = await response.json();
         renderDevices();
     } catch (error) {
         console.error('Error al cargar los dispositivos:', error);
     }
 }
+
+// Reload devices when the device type changes
+deviceTypeSelect.addEventListener('change', loadDevices);
 
 const addButton = document.getElementById('add-button');
 const updateButton = document.getElementById('update-button');

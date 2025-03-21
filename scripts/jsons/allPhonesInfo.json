@@ -9,76 +9,130 @@
     "color": "Black"
   },
   {
-    "deviceName": "Apple iPhone SE (China Mobile/A1724) 16, 32, 64, 128 GB* Specs",
-    "model": "A1724 (EMC 3042*)",
+    "deviceName": "Apple iPhone 13 Pro (Global/A2638) 128, 256, 512 GB; 1 TB Specs",
+    "model": "A2638* (EMC 4033*)",
+    "ram": "6 GB*",
+    "storage": "128, 256, 512 GB; 1 TB",
+    "appleOrderNo": "MLVD3B/A*",
+    "releaseDate": "September 14, 2021*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 8 (China Mobile/A1907) 64, 128, 256 GB Specs",
+    "model": "A1907* (EMC N/A*)",
     "ram": "2 GB*",
-    "storage": "16, 32, 64, 128 GB*",
-    "appleOrderNo": "MLLP2CH/A*",
-    "releaseDate": "March 21, 2016*",
-    "color": "Metallic*"
+    "storage": "64, 128, 256 GB",
+    "appleOrderNo": "N/A*",
+    "releaseDate": "September 12, 2017*",
+    "color": "Metallic Glass*"
   },
   {
-    "deviceName": "Apple iPhone 6 (GSM/North America/A1549) 16, 32, 64, 128 GB* Specs",
-    "model": "A1549 (EMC 2816*)",
-    "ram": "1 GB*",
-    "storage": "16, 32, 64, 128 GB*",
-    "appleOrderNo": "MG4P2LL/A*",
-    "releaseDate": "September 9, 2014*",
-    "color": "Metallic*"
-  },
-  {
-    "deviceName": "Apple iPhone 6s (AT&T/SIM Free/A1633) 16, 32, 64, 128 GB Specs",
-    "model": "A1633 (EMC 2946*)",
-    "ram": "2 GB*",
-    "storage": "16, 32, 64, 128 GB",
-    "appleOrderNo": "MKQ62LL/A*",
-    "releaseDate": "September 9, 2015*",
-    "color": "Metallic*"
-  },
-  {
-    "deviceName": "Apple iPhone 15 Pro Max (China/A3108) 256, 512 GB; 1 TB Specs",
-    "model": "A3108* (EMC 8442*)",
-    "ram": "8 GB*",
-    "storage": "256, 512 GB; 1 TB",
-    "appleOrderNo": "MU2Q3CH/A*",
-    "releaseDate": "September 12, 2023*",
-    "color": "Titanium Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 12 (Global/A2403) 64, 128, 256 GB Specs",
-    "model": "A2403* (EMC 3544*)",
+    "deviceName": "Apple iPhone 12 mini (US/A2176) 64, 128, 256 GB Specs",
+    "model": "A2176* (EMC 3539*)",
     "ram": "4 GB*",
     "storage": "64, 128, 256 GB",
-    "appleOrderNo": "MGJ83B/A*",
+    "appleOrderNo": "MG633LL/A*",
     "releaseDate": "October 13, 2020*",
     "color": "Metallic Glass*"
   },
   {
-    "deviceName": "Apple iPhone 11 (Global/A2221) 64, 128, 256 GB* Specs",
-    "model": "A2221* (EMC 3304*)",
+    "deviceName": "Apple iPhone 8 Plus (AT&T/T-Mobile/Global/A1897) 64, 128, 256 GB Specs",
+    "model": "A1897* (EMC 3174*)",
+    "ram": "3 GB*",
+    "storage": "64, 128, 256 GB",
+    "appleOrderNo": "MQ8V2LL/A*",
+    "releaseDate": "September 12, 2017*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 12 Pro (China/A2408) 128, 256, 512 GB Specs",
+    "model": "A2408* (EMC 3547*)",
+    "ram": "6 GB*",
+    "storage": "128, 256, 512 GB",
+    "appleOrderNo": "MGLD3CH/A*",
+    "releaseDate": "October 13, 2020*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 12 mini (Global/A2399) 64, 128, 256 GB Specs",
+    "model": "A2399* (EMC 3541*)",
     "ram": "4 GB*",
-    "storage": "64, 128, 256 GB*",
-    "appleOrderNo": "MWLU2B/A*",
+    "storage": "64, 128, 256 GB",
+    "appleOrderNo": "MGE13B/A*",
+    "releaseDate": "October 13, 2020*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 3GS 8, 16, 32 GB* Specs",
+    "model": "A1303 (EMC 2315*)",
+    "ram": "256 MB*",
+    "storage": "8, 16, 32 GB*",
+    "appleOrderNo": "MB715LL/A*",
+    "releaseDate": "June 8, 2009*",
+    "color": "Black & White*"
+  },
+  {
+    "deviceName": "Apple iPhone 11 Pro Max (CN/HK/A2220) 64, 256, 512 GB Specs",
+    "model": "A2220* (EMC 3306*)",
+    "ram": "4 GB*",
+    "storage": "64, 256, 512 GB",
+    "appleOrderNo": "MWEX2ZA/A*",
     "releaseDate": "September 10, 2019",
     "color": "Metallic Glass*"
   },
   {
-    "deviceName": "Apple iPhone 5 (CDMA China/UIM/WAPI) 16, 32, 64 GB Specs",
-    "model": "A1442 (EMC N/A)",
+    "deviceName": "Apple iPhone 7 (Japan/A1779) 32, 128, 256 GB Specs",
+    "model": "A1779 (EMC 3091*)",
+    "ram": "2 GB*",
+    "storage": "32, 128, 256 GB",
+    "appleOrderNo": "MNCF2J/A*",
+    "releaseDate": "September 7, 2016*",
+    "color": "Metallic*"
+  },
+  {
+    "deviceName": "Apple iPhone 13 Pro (Russia/A2640) 128, 256, 512 GB; 1 TB Specs",
+    "model": "A2640* (EMC 4034*)",
+    "ram": "6 GB*",
+    "storage": "128, 256, 512 GB; 1 TB",
+    "appleOrderNo": "MLW43RU/A*",
+    "releaseDate": "September 14, 2021*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 7 (Verizon/Sprint/China/A1660) 32, 128, 256 GB Specs",
+    "model": "A1660 (EMC 3091*)",
+    "ram": "2 GB*",
+    "storage": "32, 128, 256 GB",
+    "appleOrderNo": "MNAD2LL/A*",
+    "releaseDate": "September 7, 2016*",
+    "color": "Metallic*"
+  },
+  {
+    "deviceName": "Apple iPhone 5 (GSM/LTE 1, 3, 5/International) 16, 32, 64 GB Specs",
+    "model": "A1429 (EMC 2610*)",
     "ram": "1 GB*",
     "storage": "16, 32, 64 GB",
-    "appleOrderNo": "ME039CH/A*",
-    "releaseDate": "December 14, 2012*",
+    "appleOrderNo": "MD297B/A*",
+    "releaseDate": "September 12, 2012",
     "color": "Black & White"
   },
   {
-    "deviceName": "Apple iPhone 6s (Global/A1688) 16, 32, 64, 128 GB Specs",
-    "model": "A1688 (EMC 2946*)",
+    "deviceName": "Apple iPhone 8 (Japan/A1906) 64, 128, 256 GB Specs",
+    "model": "A1906* (EMC 3171*)",
     "ram": "2 GB*",
-    "storage": "16, 32, 64, 128 GB",
-    "appleOrderNo": "MKT82LL/A*",
-    "releaseDate": "September 9, 2015*",
-    "color": "Metallic*"
+    "storage": "64, 128, 256 GB",
+    "appleOrderNo": "MQ7A2J/A*",
+    "releaseDate": "September 12, 2017*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 13 mini (Russia/A2630) 128, 256, 512 GB Specs",
+    "model": "A2630* (EMC 4030*)",
+    "ram": "4 GB*",
+    "storage": "128, 256, 512 GB",
+    "appleOrderNo": "MLLX3RU/A*",
+    "releaseDate": "September 14, 2021*",
+    "color": "Metallic Glass*"
   },
   {
     "deviceName": "Apple iPhone 6 Plus (Global/Sprint/A1524) 16, 64, 128 GB* Specs",
@@ -90,11 +144,353 @@
     "color": "Metallic*"
   },
   {
-    "deviceName": "Apple iPhone 12 (China/A2404) 64, 128, 256 GB Specs",
-    "model": "A2404* (EMC 3544*)",
+    "deviceName": "Apple iPhone 14 (US/A2649) 128, 256, 512 GB Specs",
+    "model": "A2649* (EMC 8138*)",
+    "ram": "6 GB*",
+    "storage": "128, 256, 512 GB",
+    "appleOrderNo": "MPVH3LL/A*",
+    "releaseDate": "September 7, 2022*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 13 (Russia/A2635) 128, 256, 512 GB Specs",
+    "model": "A2635* (EMC 4032*)",
+    "ram": "4 GB*",
+    "storage": "128, 256, 512 GB",
+    "appleOrderNo": "MLNY3RU/A*",
+    "releaseDate": "September 14, 2021*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 16 (Global/A3287) 128, 256, 512 GB Specs",
+    "model": "A3287* (EMC 8690*)",
+    "ram": "8 GB*",
+    "storage": "128, 256, 512 GB",
+    "appleOrderNo": "MYEC3QN/A*",
+    "releaseDate": "September 9, 2024",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 12 (Global/A2403) 64, 128, 256 GB Specs",
+    "model": "A2403* (EMC 3544*)",
     "ram": "4 GB*",
     "storage": "64, 128, 256 GB",
-    "appleOrderNo": "MGGQ3CH/A*",
+    "appleOrderNo": "MGJ83B/A*",
+    "releaseDate": "October 13, 2020*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 5c (UK/Europe/Middle East/A1507) 8, 16, 32 GB Specs",
+    "model": "A1507 (EMC 2694*)",
+    "ram": "1 GB*",
+    "storage": "8, 16, 32 GB",
+    "appleOrderNo": "ME499B/A*",
+    "releaseDate": "September 10, 2013*",
+    "color": "Colors*"
+  },
+  {
+    "deviceName": "Apple iPhone 15 Plus (US/A2847) 128, 256, 512 GB Specs",
+    "model": "A2847* (EMC 8431*)",
+    "ram": "6 GB*",
+    "storage": "128, 256, 512 GB",
+    "appleOrderNo": "MTXV3LL/A*",
+    "releaseDate": "September 12, 2023*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 5c (CDMA/China Telecom/A1532) 8, 16, 32 GB Specs",
+    "model": "A1532 (EMC 2644*)",
+    "ram": "1 GB*",
+    "storage": "8, 16, 32 GB",
+    "appleOrderNo": "MF364CH/A*",
+    "releaseDate": "September 10, 2013*",
+    "color": "Colors*"
+  },
+  {
+    "deviceName": "Apple iPhone 5c (GSM/North America/A1532) 8, 16, 32 GB Specs",
+    "model": "A1532 (EMC 2644*)",
+    "ram": "1 GB*",
+    "storage": "8, 16, 32 GB",
+    "appleOrderNo": "ME505LL/A*",
+    "releaseDate": "September 10, 2013*",
+    "color": "Colors*"
+  },
+  {
+    "deviceName": "Apple iPhone 4S (GSM China/WAPI) 8, 16, 32, 64 GB Specs",
+    "model": "A1431 (EMC N/A)",
+    "ram": "512 MB*",
+    "storage": "8, 16, 32, 64 GB",
+    "appleOrderNo": "MD235CH/A*",
+    "releaseDate": "January 13, 2012*",
+    "color": "Black & White"
+  },
+  {
+    "deviceName": "Apple iPhone 4 (GSM, Revision A) 8 GB Specs",
+    "model": "A1332 (EMC 380A/380B*)",
+    "ram": "512 MB*",
+    "storage": "8 GB",
+    "appleOrderNo": "MD126LL/A*",
+    "releaseDate": "October 4, 2011*",
+    "color": "Black & White*"
+  },
+  {
+    "deviceName": "Apple iPhone 6 Plus (China Mobile/A1593) 16, 64, 128 GB* Specs",
+    "model": "A1593 (EMC 2817*)",
+    "ram": "1 GB*",
+    "storage": "16, 64, 128 GB*",
+    "appleOrderNo": "N/A*",
+    "releaseDate": "September 9, 2014*",
+    "color": "Metallic*"
+  },
+  {
+    "deviceName": "Apple iPhone 5s (GSM/North America/A1533) 16, 32, 64 GB Specs",
+    "model": "A1533 (EMC 2642*)",
+    "ram": "1 GB*",
+    "storage": "16, 32, 64 GB",
+    "appleOrderNo": "ME305LL/A*",
+    "releaseDate": "September 10, 2013*",
+    "color": "Metallic*"
+  },
+  {
+    "deviceName": "Apple iPhone 5c (CDMA/Verizon/A1532) 8, 16, 32 GB Specs",
+    "model": "A1532 (EMC 2644*)",
+    "ram": "1 GB*",
+    "storage": "8, 16, 32 GB",
+    "appleOrderNo": "ME553LL/A*",
+    "releaseDate": "September 10, 2013*",
+    "color": "Colors*"
+  },
+  {
+    "deviceName": "Apple iPhone 5s (Asia Pacific/A1530) 16, 32, 64 GB Specs",
+    "model": "A1530 (EMC 2643*)",
+    "ram": "1 GB*",
+    "storage": "16, 32, 64 GB",
+    "appleOrderNo": "MF352X/A*",
+    "releaseDate": "September 10, 2013*",
+    "color": "Metallic*"
+  },
+  {
+    "deviceName": "Apple iPhone 6s (China Mobile/A1691) 16, 32, 64, 128 GB Specs",
+    "model": "A1691 (EMC 2946*)",
+    "ram": "2 GB*",
+    "storage": "16, 32, 64, 128 GB",
+    "appleOrderNo": "N/A*",
+    "releaseDate": "September 9, 2015*",
+    "color": "Metallic*"
+  },
+  {
+    "deviceName": "Apple iPhone 6 (CDMA/Verizon/A1549) 16, 64, 128 GB* Specs",
+    "model": "A1549 (EMC 2816*)",
+    "ram": "1 GB*",
+    "storage": "16, 64, 128 GB*",
+    "appleOrderNo": "MG5X2LL/A*",
+    "releaseDate": "September 9, 2014*",
+    "color": "Metallic*"
+  },
+  {
+    "deviceName": "Apple iPhone 7 (China Mobile/A1780) 32, 128, 256 GB Specs",
+    "model": "A1780 (EMC 3091*)",
+    "ram": "2 GB*",
+    "storage": "32, 128, 256 GB",
+    "appleOrderNo": "N/A*",
+    "releaseDate": "September 7, 2016*",
+    "color": "Metallic*"
+  },
+  {
+    "deviceName": "Apple iPhone 7 Plus (AT&T/T-Mobile/Global/A1784) 32, 128, 256 GB Specs",
+    "model": "A1784 (EMC 3092*)",
+    "ram": "3 GB*",
+    "storage": "32, 128, 256 GB",
+    "appleOrderNo": "MNQT2LL/A*",
+    "releaseDate": "September 7, 2016*",
+    "color": "Metallic*"
+  },
+  {
+    "deviceName": "Apple iPhone 5c (China Unicom/A1526) 8, 16, 32 GB Specs",
+    "model": "A1526 (EMC N/A)",
+    "ram": "1 GB*",
+    "storage": "8, 16, 32 GB",
+    "appleOrderNo": "ME679CH/A*",
+    "releaseDate": "September 10, 2013*",
+    "color": "Colors*"
+  },
+  {
+    "deviceName": "Apple iPhone 7 Plus (China Mobile/A1786) 32, 128, 256 GB Specs",
+    "model": "A1786 (EMC 3092*)",
+    "ram": "3 GB*",
+    "storage": "32, 128, 256 GB",
+    "appleOrderNo": "N/A*",
+    "releaseDate": "September 7, 2016*",
+    "color": "Metallic*"
+  },
+  {
+    "deviceName": "Apple iPhone SE (Global/Sprint/A1723) 16, 32, 64, 128 GB* Specs",
+    "model": "A1723 (EMC 3042*)",
+    "ram": "2 GB*",
+    "storage": "16, 32, 64, 128 GB*",
+    "appleOrderNo": "MLM32LL/A*",
+    "releaseDate": "March 21, 2016*",
+    "color": "Metallic*"
+  },
+  {
+    "deviceName": "Apple iPhone 4 (CDMA/Verizon/Sprint) 8, 16, 32 GB Specs",
+    "model": "A1349 (EMC 2422)",
+    "ram": "512 MB*",
+    "storage": "8, 16, 32 GB",
+    "appleOrderNo": "MC676LL/A*",
+    "releaseDate": "January 11, 2011*",
+    "color": "Black & White*"
+  },
+  {
+    "deviceName": "Apple iPhone 3G (China/No Wi-Fi) 8 GB Specs",
+    "model": "A1324 (EMC N/A)",
+    "ram": "128 MB*",
+    "storage": "8 GB",
+    "appleOrderNo": "MC176CH/A",
+    "releaseDate": "October 30, 2009*",
+    "color": "Black"
+  },
+  {
+    "deviceName": "Apple iPhone 6s Plus (AT&T/SIM Free/A1634) 16, 32, 64, 128 GB Specs",
+    "model": "A1634 (EMC 2944*)",
+    "ram": "2 GB*",
+    "storage": "16, 32, 64, 128 GB",
+    "appleOrderNo": "MKTM2LL/A*",
+    "releaseDate": "September 9, 2015*",
+    "color": "Metallic*"
+  },
+  {
+    "deviceName": "Apple iPhone 7 Plus (Japan/A1785) 32, 128, 256 GB Specs",
+    "model": "A1785 (EMC 3092*)",
+    "ram": "3 GB*",
+    "storage": "32, 128, 256 GB",
+    "appleOrderNo": "MNRA2J/A*",
+    "releaseDate": "September 7, 2016*",
+    "color": "Metallic*"
+  },
+  {
+    "deviceName": "Apple iPhone 6 Plus (CDMA/Verizon/A1522) 16, 64, 128 GB* Specs",
+    "model": "A1522 (EMC 2817*)",
+    "ram": "1 GB*",
+    "storage": "16, 64, 128 GB*",
+    "appleOrderNo": "MGCL2LL/A*",
+    "releaseDate": "September 9, 2014*",
+    "color": "Metallic*"
+  },
+  {
+    "deviceName": "Apple iPhone 5s (CDMA/Verizon/A1533) 16, 32, 64 GB Specs",
+    "model": "A1533 (EMC 2642*)",
+    "ram": "1 GB*",
+    "storage": "16, 32, 64 GB",
+    "appleOrderNo": "ME341LL/A*",
+    "releaseDate": "September 10, 2013*",
+    "color": "Metallic*"
+  },
+  {
+    "deviceName": "Apple iPhone 5c (China Mobile/A1516) 8, 16, 32 GB Specs",
+    "model": "A1516 (EMC N/A*)",
+    "ram": "1 GB*",
+    "storage": "8, 16, 32 GB",
+    "appleOrderNo": "N/A*",
+    "releaseDate": "December 22, 2013*",
+    "color": "Colors*"
+  },
+  {
+    "deviceName": "Apple iPhone Xs Max (US/Canada/A1921) 64, 256, 512 GB Specs",
+    "model": "A1921* (EMC 3219*)",
+    "ram": "4 GB*",
+    "storage": "64, 256, 512 GB",
+    "appleOrderNo": "MT5A2LL/A*",
+    "releaseDate": "September 12, 2018*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 5s (China Unicom/A1528) 16, 32, 64 GB Specs",
+    "model": "A1528 (EMC N/A)",
+    "ram": "1 GB*",
+    "storage": "16, 32, 64 GB",
+    "appleOrderNo": "ME450CH/A*",
+    "releaseDate": "September 10, 2013*",
+    "color": "Metallic*"
+  },
+  {
+    "deviceName": "Apple iPhone 11 (China/Hong Kong/A2223) 64, 128, 256 GB* Specs",
+    "model": "A2223* (EMC 3309*)",
+    "ram": "4 GB*",
+    "storage": "64, 128, 256 GB*",
+    "appleOrderNo": "MWN12ZA/A*",
+    "releaseDate": "September 10, 2019",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 16 Pro Max (US/A3084) 256 GB, 512 GB, 1 TB Specs",
+    "model": "A3084* (EMC 8684*)",
+    "ram": "8 GB*",
+    "storage": "256 GB, 512 GB, 1 TB",
+    "appleOrderNo": "MYW53LL/A*",
+    "releaseDate": "September 9, 2024",
+    "color": "Titanium Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 8 Plus (Japan/A1898) 64, 128, 256 GB Specs",
+    "model": "A1898* (EMC 3173*)",
+    "ram": "3 GB*",
+    "storage": "64, 128, 256 GB",
+    "appleOrderNo": "MQ9M2J/A*",
+    "releaseDate": "September 12, 2017*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 12 Pro Max (Canada/Japan/A2410) 128, 256, 512 GB Specs",
+    "model": "A2410* (EMC 3549*)",
+    "ram": "6 GB*",
+    "storage": "128, 256, 512 GB",
+    "appleOrderNo": "MGCX3VC/A*",
+    "releaseDate": "October 13, 2020*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone SE (2 - 4.7\" 2020 Global A2296) 64, 128, 256 GB* Specs",
+    "model": "A2296* (EMC 3500*)",
+    "ram": "3 GB*",
+    "storage": "64, 128, 256 GB*",
+    "appleOrderNo": "MX9T2B/A*",
+    "releaseDate": "April 15, 2020",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 8 (AT&T/T-Mobile/Global/A1905) 64, 128, 256 GB Specs",
+    "model": "A1905* (EMC 3172*)",
+    "ram": "2 GB*",
+    "storage": "64, 128, 256 GB",
+    "appleOrderNo": "MQ6X2LL/A*",
+    "releaseDate": "September 12, 2017*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 4S (4s*) 8, 16, 32, 64 GB Specs",
+    "model": "A1387 (EMC 2430)",
+    "ram": "512 MB*",
+    "storage": "8, 16, 32, 64 GB",
+    "appleOrderNo": "MC918LL/A*",
+    "releaseDate": "October 4, 2011*",
+    "color": "Black & White"
+  },
+  {
+    "deviceName": "Apple iPhone 12 (US/A2172) 64, 128, 256 GB Specs",
+    "model": "A2172* (EMC 3542*)",
+    "ram": "4 GB*",
+    "storage": "64, 128, 256 GB",
+    "appleOrderNo": "MGEK3LL/A*",
+    "releaseDate": "October 13, 2020*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 12 mini (Canada/Japan/A2398) 64, 128, 256 GB Specs",
+    "model": "A2398* (EMC 3540*)",
+    "ram": "4 GB*",
+    "storage": "64, 128, 256 GB",
+    "appleOrderNo": "MGAP3VC/A*",
     "releaseDate": "October 13, 2020*",
     "color": "Metallic Glass*"
   },
@@ -117,85 +513,22 @@
     "color": "Black & White*"
   },
   {
-    "deviceName": "Apple iPhone 11 Pro (China/Hong Kong/A2217) 64, 256, 512 GB Specs",
-    "model": "A2217* (EMC 3305*)",
-    "ram": "4 GB*",
-    "storage": "64, 256, 512 GB",
-    "appleOrderNo": "MWDC2ZA/A*",
-    "releaseDate": "September 10, 2019",
+    "deviceName": "Apple iPhone 12 Pro Max (China/A2412) 128, 256, 512 GB Specs",
+    "model": "A2412* (EMC 3550*)",
+    "ram": "6 GB*",
+    "storage": "128, 256, 512 GB",
+    "appleOrderNo": "MGC33CH/A*",
+    "releaseDate": "October 13, 2020*",
     "color": "Metallic Glass*"
   },
   {
-    "deviceName": "Apple iPhone 7 (Verizon/Sprint/China/A1660) 32, 128, 256 GB Specs",
-    "model": "A1660 (EMC 3091*)",
+    "deviceName": "Apple iPhone 6s (Global/A1688) 16, 32, 64, 128 GB Specs",
+    "model": "A1688 (EMC 2946*)",
     "ram": "2 GB*",
-    "storage": "32, 128, 256 GB",
-    "appleOrderNo": "MNAD2LL/A*",
-    "releaseDate": "September 7, 2016*",
+    "storage": "16, 32, 64, 128 GB",
+    "appleOrderNo": "MKT82LL/A*",
+    "releaseDate": "September 9, 2015*",
     "color": "Metallic*"
-  },
-  {
-    "deviceName": "Apple iPhone Xs (Japan/A2098) 64, 256, 512 GB Specs",
-    "model": "A2098* (EMC 3233*)",
-    "ram": "4 GB*",
-    "storage": "64, 256, 512 GB",
-    "appleOrderNo": "MTAX2J/A*",
-    "releaseDate": "September 12, 2018*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 15 Plus (US/A2847) 128, 256, 512 GB Specs",
-    "model": "A2847* (EMC 8431*)",
-    "ram": "6 GB*",
-    "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MTXV3LL/A*",
-    "releaseDate": "September 12, 2023*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 14 Plus (US/A2632) 128, 256, 512 GB Specs",
-    "model": "A2632* (EMC 8139*)",
-    "ram": "6 GB*",
-    "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MQ3W3LL/A*",
-    "releaseDate": "September 7, 2022*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 15 Pro (US/A2848) 128, 256, 512 GB; 1 TB Specs",
-    "model": "A2848* (EMC 8435*)",
-    "ram": "8 GB*",
-    "storage": "128, 256, 512 GB; 1 TB",
-    "appleOrderNo": "MTQP3LL/A*",
-    "releaseDate": "September 12, 2023*",
-    "color": "Titanium Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 5c (GSM/North America/A1532) 8, 16, 32 GB Specs",
-    "model": "A1532 (EMC 2644*)",
-    "ram": "1 GB*",
-    "storage": "8, 16, 32 GB",
-    "appleOrderNo": "ME505LL/A*",
-    "releaseDate": "September 10, 2013*",
-    "color": "Colors*"
-  },
-  {
-    "deviceName": "Apple iPhone 15 Pro (Global/A3102) 128, 256, 512 GB; 1 TB Specs",
-    "model": "A3102* (EMC 8437*)",
-    "ram": "8 GB*",
-    "storage": "128, 256, 512 GB; 1 TB",
-    "appleOrderNo": "MTUX3ZD/A*",
-    "releaseDate": "September 12, 2023*",
-    "color": "Titanium Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 13 Pro Max (China/A2644) 128, 256, 512 GB; 1 TB Specs",
-    "model": "A2644* (EMC 4036*)",
-    "ram": "6 GB*",
-    "storage": "128, 256, 512 GB; 1 TB",
-    "appleOrderNo": "MLH73CH/A*",
-    "releaseDate": "September 14, 2021*",
-    "color": "Metallic Glass*"
   },
   {
     "deviceName": "Apple iPhone 5 (CDMA/LTE, Sprint/Verizon/KDDI) 16, 32, 64 GB Specs",
@@ -207,69 +540,6 @@
     "color": "Black & White"
   },
   {
-    "deviceName": "Apple iPhone 5c (CDMA/Verizon/A1532) 8, 16, 32 GB Specs",
-    "model": "A1532 (EMC 2644*)",
-    "ram": "1 GB*",
-    "storage": "8, 16, 32 GB",
-    "appleOrderNo": "ME553LL/A*",
-    "releaseDate": "September 10, 2013*",
-    "color": "Colors*"
-  },
-  {
-    "deviceName": "Apple iPhone 5 (GSM/LTE/AWS/North America) 16, 32, 64 GB Specs",
-    "model": "A1428 (EMC N/A)",
-    "ram": "1 GB*",
-    "storage": "16, 32, 64 GB",
-    "appleOrderNo": "ME486LL/A*",
-    "releaseDate": "March 26, 2013*",
-    "color": "Black & White"
-  },
-  {
-    "deviceName": "Apple iPhone 14 Pro (US/A2650) 128, 256, 512 GB; 1 TB Specs",
-    "model": "A2650* (EMC 8140*)",
-    "ram": "6 GB*",
-    "storage": "128, 256, 512 GB; 1 TB",
-    "appleOrderNo": "MQ0E3LL/A*",
-    "releaseDate": "September 7, 2022*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 4S (GSM China/WAPI) 8, 16, 32, 64 GB Specs",
-    "model": "A1431 (EMC N/A)",
-    "ram": "512 MB*",
-    "storage": "8, 16, 32, 64 GB",
-    "appleOrderNo": "MD235CH/A*",
-    "releaseDate": "January 13, 2012*",
-    "color": "Black & White"
-  },
-  {
-    "deviceName": "Apple iPhone 5 (GSM/LTE 1, 3, 5/International) 16, 32, 64 GB Specs",
-    "model": "A1429 (EMC 2610*)",
-    "ram": "1 GB*",
-    "storage": "16, 32, 64 GB",
-    "appleOrderNo": "MD297B/A*",
-    "releaseDate": "September 12, 2012",
-    "color": "Black & White"
-  },
-  {
-    "deviceName": "Apple iPhone 6 Plus (China Mobile/A1593) 16, 64, 128 GB* Specs",
-    "model": "A1593 (EMC 2817*)",
-    "ram": "1 GB*",
-    "storage": "16, 64, 128 GB*",
-    "appleOrderNo": "N/A*",
-    "releaseDate": "September 9, 2014*",
-    "color": "Metallic*"
-  },
-  {
-    "deviceName": "Apple iPhone 5s (China Mobile/A1518) 16, 32, 64 GB Specs",
-    "model": "A1518 (EMC N/A*)",
-    "ram": "1 GB*",
-    "storage": "16, 32, 64 GB",
-    "appleOrderNo": "MF341CH/A*",
-    "releaseDate": "December 22, 2013*",
-    "color": "Metallic*"
-  },
-  {
     "deviceName": "Apple iPhone 16 Pro (CA/MX/JP/SA/A3292) 128, 256, 512 GB; 1 TB Specs",
     "model": "A3292* (EMC 8667*)",
     "ram": "8 GB*",
@@ -279,337 +549,13 @@
     "color": "Titanium Glass*"
   },
   {
-    "deviceName": "Apple iPhone X (AT&T/T-Mobile/Global/A1901) 64, 256 GB Specs",
-    "model": "A1901* (EMC 3175*)",
-    "ram": "3 GB*",
-    "storage": "64, 256 GB",
-    "appleOrderNo": "MQAJ2LL/A*",
-    "releaseDate": "September 12, 2017*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone Xs (China/A2100) 64, 256, 512 GB Specs",
-    "model": "A2100* (EMC 3262*)",
-    "ram": "4 GB*",
-    "storage": "64, 256, 512 GB",
-    "appleOrderNo": "MT9Q2CH/A*",
-    "releaseDate": "September 12, 2018*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 12 (Canada/Japan/A2402) 64, 128, 256 GB Specs",
-    "model": "A2402* (EMC 3543*)",
-    "ram": "4 GB*",
-    "storage": "64, 128, 256 GB",
-    "appleOrderNo": "MGHR3VC/A*",
-    "releaseDate": "October 13, 2020*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 6s (Mainland China/A1700) 16, 32, 64, 128 GB Specs",
-    "model": "A1700 (EMC 2946*)",
-    "ram": "2 GB*",
-    "storage": "16, 32, 64, 128 GB",
-    "appleOrderNo": "ML7D2CH/A*",
-    "releaseDate": "September 9, 2015*",
-    "color": "Metallic*"
-  },
-  {
-    "deviceName": "Apple iPhone 14 Pro Max (China/A2896) 128, 256, 512 GB; 1 TB Specs",
-    "model": "A2896* (EMC 8156*)",
-    "ram": "6 GB*",
-    "storage": "128, 256, 512 GB; 1 TB",
-    "appleOrderNo": "MQ863ZA/A*",
-    "releaseDate": "September 7, 2022*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 7 Plus (AT&T/T-Mobile/Global/A1784) 32, 128, 256 GB Specs",
-    "model": "A1784 (EMC 3092*)",
-    "ram": "3 GB*",
-    "storage": "32, 128, 256 GB",
-    "appleOrderNo": "MNQT2LL/A*",
-    "releaseDate": "September 7, 2016*",
-    "color": "Metallic*"
-  },
-  {
-    "deviceName": "Apple iPhone 6 Plus (CDMA/Verizon/A1522) 16, 64, 128 GB* Specs",
-    "model": "A1522 (EMC 2817*)",
-    "ram": "1 GB*",
-    "storage": "16, 64, 128 GB*",
-    "appleOrderNo": "MGCL2LL/A*",
-    "releaseDate": "September 9, 2014*",
-    "color": "Metallic*"
-  },
-  {
-    "deviceName": "Apple iPhone 11 (US/Canada/A2111) 64, 128, 256 GB* Specs",
-    "model": "A2111* (EMC 3309*)",
-    "ram": "4 GB*",
-    "storage": "64, 128, 256 GB*",
-    "appleOrderNo": "MWHU2LL/A*",
-    "releaseDate": "September 10, 2019",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 6s Plus (Global/A1687) 16, 32, 64, 128 GB Specs",
-    "model": "A1687 (EMC 2944*)",
-    "ram": "2 GB*",
-    "storage": "16, 32, 64, 128 GB",
-    "appleOrderNo": "MKVP2LL/A*",
-    "releaseDate": "September 9, 2015*",
-    "color": "Metallic*"
-  },
-  {
-    "deviceName": "Apple iPhone 12 Pro (China/A2408) 128, 256, 512 GB Specs",
-    "model": "A2408* (EMC 3547*)",
-    "ram": "6 GB*",
-    "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MGLD3CH/A*",
-    "releaseDate": "October 13, 2020*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 7 Plus (Verizon/Sprint/China/A1661) 32, 128, 256 GB Specs",
-    "model": "A1661 (EMC 3092*)",
-    "ram": "3 GB*",
-    "storage": "32, 128, 256 GB",
-    "appleOrderNo": "MNR22LL/A*",
-    "releaseDate": "September 7, 2016*",
-    "color": "Metallic*"
-  },
-  {
-    "deviceName": "Apple iPhone 3G (China/No Wi-Fi) 8 GB Specs",
-    "model": "A1324 (EMC N/A)",
-    "ram": "128 MB*",
-    "storage": "8 GB",
-    "appleOrderNo": "MC176CH/A",
-    "releaseDate": "October 30, 2009*",
-    "color": "Black"
-  },
-  {
-    "deviceName": "Apple iPhone 7 Plus (Japan/A1785) 32, 128, 256 GB Specs",
-    "model": "A1785 (EMC 3092*)",
-    "ram": "3 GB*",
-    "storage": "32, 128, 256 GB",
-    "appleOrderNo": "MNRA2J/A*",
-    "releaseDate": "September 7, 2016*",
-    "color": "Metallic*"
-  },
-  {
-    "deviceName": "Apple iPhone 3GS 8, 16, 32 GB* Specs",
-    "model": "A1303 (EMC 2315*)",
-    "ram": "256 MB*",
-    "storage": "8, 16, 32 GB*",
-    "appleOrderNo": "MB715LL/A*",
-    "releaseDate": "June 8, 2009*",
-    "color": "Black & White*"
-  },
-  {
-    "deviceName": "Apple iPhone 14 Pro Max (Russia/A2895) 128, 256, 512 GB; 1 TB Specs",
-    "model": "A2895* (EMC 8156*)",
-    "ram": "6 GB*",
-    "storage": "128, 256, 512 GB; 1 TB",
-    "appleOrderNo": "MQC93RU/A*",
-    "releaseDate": "September 7, 2022*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 15 (CA/MX/JP/SA/A3089) 128, 256, 512 GB Specs",
-    "model": "A3089* (EMC 8428*)",
-    "ram": "6 GB*",
-    "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MTML3VC/A*",
-    "releaseDate": "September 12, 2023*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 5c (China Unicom/A1526) 8, 16, 32 GB Specs",
-    "model": "A1526 (EMC N/A)",
-    "ram": "1 GB*",
-    "storage": "8, 16, 32 GB",
-    "appleOrderNo": "ME679CH/A*",
-    "releaseDate": "September 10, 2013*",
-    "color": "Colors*"
-  },
-  {
-    "deviceName": "Apple iPhone 8 (AT&T/T-Mobile/Global/A1905) 64, 128, 256 GB Specs",
-    "model": "A1905* (EMC 3172*)",
-    "ram": "2 GB*",
-    "storage": "64, 128, 256 GB",
-    "appleOrderNo": "MQ6X2LL/A*",
-    "releaseDate": "September 12, 2017*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 7 Plus (China Mobile/A1786) 32, 128, 256 GB Specs",
-    "model": "A1786 (EMC 3092*)",
-    "ram": "3 GB*",
-    "storage": "32, 128, 256 GB",
-    "appleOrderNo": "N/A*",
-    "releaseDate": "September 7, 2016*",
-    "color": "Metallic*"
-  },
-  {
-    "deviceName": "Apple iPhone 8 (Verizon/Sprint/China/A1863) 64, 128, 256 GB Specs",
-    "model": "A1863* (EMC 3159*)",
-    "ram": "2 GB*",
-    "storage": "64, 128, 256 GB",
-    "appleOrderNo": "MQ742LL/A*",
-    "releaseDate": "September 12, 2017*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 5c (CDMA/China Telecom/A1532) 8, 16, 32 GB Specs",
-    "model": "A1532 (EMC 2644*)",
-    "ram": "1 GB*",
-    "storage": "8, 16, 32 GB",
-    "appleOrderNo": "MF364CH/A*",
-    "releaseDate": "September 10, 2013*",
-    "color": "Colors*"
-  },
-  {
-    "deviceName": "Apple iPhone 16 Pro Max (CA/MX/JP/SA/A3295) 256 GB, 512 GB, 1 TB Specs",
-    "model": "A3295* (EMC 8685*)",
-    "ram": "8 GB*",
-    "storage": "256 GB, 512 GB, 1 TB",
-    "appleOrderNo": "MYWJ3VC/A*",
-    "releaseDate": "September 9, 2024",
-    "color": "Titanium Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 6 (China Mobile/A1589) 16, 64, 128 GB* Specs",
-    "model": "A1589 (EMC 2816*)",
-    "ram": "1 GB*",
-    "storage": "16, 64, 128 GB*",
-    "appleOrderNo": "N/A*",
-    "releaseDate": "September 9, 2014*",
-    "color": "Metallic*"
-  },
-  {
-    "deviceName": "Apple iPhone 16 Pro (US/A3083) 128, 256, 512 GB; 1 TB Specs",
-    "model": "A3083* (EMC 8666*)",
-    "ram": "8 GB*",
-    "storage": "128, 256, 512 GB; 1 TB",
-    "appleOrderNo": "MYMC3LL/A*",
-    "releaseDate": "September 9, 2024",
-    "color": "Titanium Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 12 Pro Max (Canada/Japan/A2410) 128, 256, 512 GB Specs",
-    "model": "A2410* (EMC 3549*)",
-    "ram": "6 GB*",
-    "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MGCX3VC/A*",
-    "releaseDate": "October 13, 2020*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 5c (UK/Europe/Middle East/A1507) 8, 16, 32 GB Specs",
-    "model": "A1507 (EMC 2694*)",
-    "ram": "1 GB*",
-    "storage": "8, 16, 32 GB",
-    "appleOrderNo": "ME499B/A*",
-    "releaseDate": "September 10, 2013*",
-    "color": "Colors*"
-  },
-  {
-    "deviceName": "Apple iPhone 6s (China Mobile/A1691) 16, 32, 64, 128 GB Specs",
-    "model": "A1691 (EMC 2946*)",
+    "deviceName": "Apple iPhone 6s Plus (China Mobile/A1690) 16, 32, 64, 128 GB Specs",
+    "model": "A1690 (EMC 2944*)",
     "ram": "2 GB*",
     "storage": "16, 32, 64, 128 GB",
     "appleOrderNo": "N/A*",
     "releaseDate": "September 9, 2015*",
     "color": "Metallic*"
-  },
-  {
-    "deviceName": "Apple iPhone SE (3 - 4.7\" 2022 US/CA A2595) 64, 128, 256 GB* Specs",
-    "model": "A2595* (EMC 4082*)",
-    "ram": "4 GB*",
-    "storage": "64, 128, 256 GB*",
-    "appleOrderNo": "MMX63LL/A*",
-    "releaseDate": "March 8, 2022",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 14 Pro (Russia/A2891) 128, 256, 512 GB; 1 TB Specs",
-    "model": "A2891* (EMC 8152*)",
-    "ram": "6 GB*",
-    "storage": "128, 256, 512 GB; 1 TB",
-    "appleOrderNo": "MQ0H3RU/A*",
-    "releaseDate": "September 7, 2022*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 8 (Japan/A1906) 64, 128, 256 GB Specs",
-    "model": "A1906* (EMC 3171*)",
-    "ram": "2 GB*",
-    "storage": "64, 128, 256 GB",
-    "appleOrderNo": "MQ7A2J/A*",
-    "releaseDate": "September 12, 2017*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone Xs Max (Global/A2101) 64, 256, 512 GB Specs",
-    "model": "A2101* (EMC 3234*)",
-    "ram": "4 GB*",
-    "storage": "64, 256, 512 GB",
-    "appleOrderNo": "MT512B/A*",
-    "releaseDate": "September 12, 2018*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone SE (3 - 4.7\" 2022 Japan A2782) 64, 128, 256 GB* Specs",
-    "model": "A2782* (EMC 8064*)",
-    "ram": "4 GB*",
-    "storage": "64, 128, 256 GB*",
-    "appleOrderNo": "MMYD3J/A*",
-    "releaseDate": "March 8, 2022",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 16 (US/A3081) 128, 256, 512 GB Specs",
-    "model": "A3081* (EMC 8688*)",
-    "ram": "8 GB*",
-    "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MYAT3LL/A*",
-    "releaseDate": "September 9, 2024",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone SE (3 - 4.7\" 2022 China A2785) 64, 128, 256 GB* Specs",
-    "model": "A2785* (EMC 8076*)",
-    "ram": "4 GB*",
-    "storage": "64, 128, 256 GB*",
-    "appleOrderNo": "MMWW3CH/A*",
-    "releaseDate": "March 8, 2022",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone X (Verizon/Sprint/China/A1865) 64, 256 GB Specs",
-    "model": "A1865* (EMC 3161*)",
-    "ram": "3 GB*",
-    "storage": "64, 256 GB",
-    "appleOrderNo": "MQCK2LL/A*",
-    "releaseDate": "September 12, 2017*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone Xs Max (Japan/A2102) 64, 256, 512 GB Specs",
-    "model": "A2102* (EMC 3235*)",
-    "ram": "4 GB*",
-    "storage": "64, 256, 512 GB",
-    "appleOrderNo": "MT6R2J/A*",
-    "releaseDate": "September 12, 2018*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone Xs (Global/A2097) 64, 256, 512 GB Specs",
-    "model": "A2097* (EMC 3232*)",
-    "ram": "4 GB*",
-    "storage": "64, 256, 512 GB",
-    "appleOrderNo": "MT9F2B/A*",
-    "releaseDate": "September 12, 2018*",
-    "color": "Metallic Glass*"
   },
   {
     "deviceName": "Apple iPhone 5 (GSM/LTE 4, 17/North America) 16, 32, 64 GB Specs",
@@ -621,321 +567,6 @@
     "color": "Black & White"
   },
   {
-    "deviceName": "Apple iPhone 14 Plus (China/A2888) 128, 256, 512 GB Specs",
-    "model": "A2888* (EMC 8148*)",
-    "ram": "6 GB*",
-    "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MQ3A3ZA/A*",
-    "releaseDate": "September 7, 2022*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 5c (CDMA/US/Japan/A1456) 8, 16, 32 GB Specs",
-    "model": "A1456 (EMC 2644*)",
-    "ram": "1 GB*",
-    "storage": "8, 16, 32 GB",
-    "appleOrderNo": "ME565LL/A*",
-    "releaseDate": "September 10, 2013*",
-    "color": "Colors*"
-  },
-  {
-    "deviceName": "Apple iPhone 4 (CDMA/Verizon/Sprint) 8, 16, 32 GB Specs",
-    "model": "A1349 (EMC 2422)",
-    "ram": "512 MB*",
-    "storage": "8, 16, 32 GB",
-    "appleOrderNo": "MC676LL/A*",
-    "releaseDate": "January 11, 2011*",
-    "color": "Black & White*"
-  },
-  {
-    "deviceName": "Apple iPhone X (Japan/A1902) 64, 256 GB Specs",
-    "model": "A1902* (EMC 3176*)",
-    "ram": "3 GB*",
-    "storage": "64, 256 GB",
-    "appleOrderNo": "MQAX2J/A*",
-    "releaseDate": "September 12, 2017*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 4S (4s*) 8, 16, 32, 64 GB Specs",
-    "model": "A1387 (EMC 2430)",
-    "ram": "512 MB*",
-    "storage": "8, 16, 32, 64 GB",
-    "appleOrderNo": "MC918LL/A*",
-    "releaseDate": "October 4, 2011*",
-    "color": "Black & White"
-  },
-  {
-    "deviceName": "Apple iPhone 13 Pro (Global/A2638) 128, 256, 512 GB; 1 TB Specs",
-    "model": "A2638* (EMC 4033*)",
-    "ram": "6 GB*",
-    "storage": "128, 256, 512 GB; 1 TB",
-    "appleOrderNo": "MLVD3B/A*",
-    "releaseDate": "September 14, 2021*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 15 Pro Max (US/A2849) 256, 512 GB; 1 TB Specs",
-    "model": "A2849* (EMC 8439*)",
-    "ram": "8 GB*",
-    "storage": "256, 512 GB; 1 TB",
-    "appleOrderNo": "MU683LL/A*",
-    "releaseDate": "September 12, 2023*",
-    "color": "Titanium Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 4 (GSM) 16, 32 GB Specs",
-    "model": "A1332 (EMC 380A/380B*)",
-    "ram": "512 MB*",
-    "storage": "16, 32 GB",
-    "appleOrderNo": "MC318LL/A*",
-    "releaseDate": "June 7, 2010*",
-    "color": "Black & White*"
-  },
-  {
-    "deviceName": "Apple iPhone Xs Max (China/Hong Kong/A2104) 64, 256, 512 GB Specs",
-    "model": "A2104* (EMC 3261*)",
-    "ram": "4 GB*",
-    "storage": "64, 256, 512 GB",
-    "appleOrderNo": "MT722CH/A*",
-    "releaseDate": "September 12, 2018*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 5s (CDMA/US/Japan/A1453) 16, 32, 64 GB Specs",
-    "model": "A1453 (EMC 2642*)",
-    "ram": "1 GB*",
-    "storage": "16, 32, 64 GB",
-    "appleOrderNo": "ME350LL/A*",
-    "releaseDate": "September 10, 2013*",
-    "color": "Metallic*"
-  },
-  {
-    "deviceName": "Apple iPhone 8 Plus (AT&T/T-Mobile/Global/A1897) 64, 128, 256 GB Specs",
-    "model": "A1897* (EMC 3174*)",
-    "ram": "3 GB*",
-    "storage": "64, 128, 256 GB",
-    "appleOrderNo": "MQ8V2LL/A*",
-    "releaseDate": "September 12, 2017*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 15 Plus (CA/MX/JP/SA/A3093) 128, 256, 512 GB Specs",
-    "model": "A3093* (EMC 8432*)",
-    "ram": "6 GB*",
-    "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MU0D3VC/A*",
-    "releaseDate": "September 12, 2023*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 11 Pro (Global/A2215) 64, 256, 512 GB Specs",
-    "model": "A2215* (EMC 3307*)",
-    "ram": "4 GB*",
-    "storage": "64, 256, 512 GB",
-    "appleOrderNo": "MWC52B/A*",
-    "releaseDate": "September 10, 2019",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 11 (China/Hong Kong/A2223) 64, 128, 256 GB* Specs",
-    "model": "A2223* (EMC 3309*)",
-    "ram": "4 GB*",
-    "storage": "64, 128, 256 GB*",
-    "appleOrderNo": "MWN12ZA/A*",
-    "releaseDate": "September 10, 2019",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 16e (China/A3410) 128, 256, 512 GB Specs",
-    "model": "A3410* (EMC 8728*)",
-    "ram": "8 GB*",
-    "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MD2C4CH/A*",
-    "releaseDate": "February 19, 2025",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone SE (2 - 4.7\" 2020 US/CA A2275) 64, 128, 256 GB* Specs",
-    "model": "A2275* (EMC 3500*)",
-    "ram": "3 GB*",
-    "storage": "64, 128, 256 GB*",
-    "appleOrderNo": "MX9A2LL/A*",
-    "releaseDate": "April 15, 2020",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 8 Plus (Japan/A1898) 64, 128, 256 GB Specs",
-    "model": "A1898* (EMC 3173*)",
-    "ram": "3 GB*",
-    "storage": "64, 128, 256 GB",
-    "appleOrderNo": "MQ9M2J/A*",
-    "releaseDate": "September 12, 2017*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 14 Pro (Global/A2890) 128, 256, 512 GB; 1 TB Specs",
-    "model": "A2890* (EMC 8151*)",
-    "ram": "6 GB*",
-    "storage": "128, 256, 512 GB; 1 TB",
-    "appleOrderNo": "MQ0G3ZD/A*",
-    "releaseDate": "September 7, 2022*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 11 Pro Max (US/CA/A2161) 64, 256, 512 GB Specs",
-    "model": "A2161* (EMC 3306*)",
-    "ram": "4 GB*",
-    "storage": "64, 256, 512 GB",
-    "appleOrderNo": "MWFC2LL/A*",
-    "releaseDate": "September 10, 2019",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 13 Pro (Russia/A2640) 128, 256, 512 GB; 1 TB Specs",
-    "model": "A2640* (EMC 4034*)",
-    "ram": "6 GB*",
-    "storage": "128, 256, 512 GB; 1 TB",
-    "appleOrderNo": "MLW43RU/A*",
-    "releaseDate": "September 14, 2021*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 13 Pro (CA/MX/JP/SA/A2636) 128, 256, 512 GB; 1 TB Specs",
-    "model": "A2636* (EMC 4002*)",
-    "ram": "6 GB*",
-    "storage": "128, 256, 512 GB; 1 TB",
-    "appleOrderNo": "MLUK3VC/A*",
-    "releaseDate": "September 14, 2021*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 16 Pro Max (US/A3084) 256 GB, 512 GB, 1 TB Specs",
-    "model": "A3084* (EMC 8684*)",
-    "ram": "8 GB*",
-    "storage": "256 GB, 512 GB, 1 TB",
-    "appleOrderNo": "MYW53LL/A*",
-    "releaseDate": "September 9, 2024",
-    "color": "Titanium Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 13 mini (Global/A2628) 128, 256, 512 GB Specs",
-    "model": "A2628* (EMC 4029*)",
-    "ram": "4 GB*",
-    "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MLK23B/A*",
-    "releaseDate": "September 14, 2021*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 4 (GSM, Revision A) 8 GB Specs",
-    "model": "A1332 (EMC 380A/380B*)",
-    "ram": "512 MB*",
-    "storage": "8 GB",
-    "appleOrderNo": "MD126LL/A*",
-    "releaseDate": "October 4, 2011*",
-    "color": "Black & White*"
-  },
-  {
-    "deviceName": "Apple iPhone 15 Pro Max (Global/A3106) 256, 512 GB; 1 TB Specs",
-    "model": "A3106* (EMC 8441*)",
-    "ram": "8 GB*",
-    "storage": "256, 512 GB; 1 TB",
-    "appleOrderNo": "MU793ZD/A*",
-    "releaseDate": "September 12, 2023*",
-    "color": "Titanium Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 15 Pro Max (CA/MX/JP/SA/A3105) 256, 512 GB; 1 TB Specs",
-    "model": "A3105* (EMC 8440*)",
-    "ram": "8 GB*",
-    "storage": "256, 512 GB; 1 TB",
-    "appleOrderNo": "MU6R3VC/A*",
-    "releaseDate": "September 12, 2023*",
-    "color": "Titanium Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 16 (Global/A3287) 128, 256, 512 GB Specs",
-    "model": "A3287* (EMC 8690*)",
-    "ram": "8 GB*",
-    "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MYEC3QN/A*",
-    "releaseDate": "September 9, 2024",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 6 (Global/Sprint/A1586) 16, 32, 64, 128 GB* Specs",
-    "model": "A1586 (EMC 2816*)",
-    "ram": "1 GB*",
-    "storage": "16, 32, 64, 128 GB*",
-    "appleOrderNo": "MG6A2LL/A*",
-    "releaseDate": "September 9, 2014*",
-    "color": "Metallic*"
-  },
-  {
-    "deviceName": "Apple iPhone 13 Pro Max (Global/A2643) 128, 256, 512 GB; 1 TB Specs",
-    "model": "A2643* (EMC 4035*)",
-    "ram": "6 GB*",
-    "storage": "128, 256, 512 GB; 1 TB",
-    "appleOrderNo": "MLL93B/A*",
-    "releaseDate": "September 14, 2021*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 16 Pro Max (Global/A3296) 256 GB, 512 GB, 1 TB Specs",
-    "model": "A3296* (EMC 8686*)",
-    "ram": "8 GB*",
-    "storage": "256 GB, 512 GB, 1 TB",
-    "appleOrderNo": "MYWX3QN/A*",
-    "releaseDate": "September 9, 2024",
-    "color": "Titanium Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone SE (United States/A1662) 16, 32, 64, 128 GB* Specs",
-    "model": "A1662 (EMC 3042*)",
-    "ram": "2 GB*",
-    "storage": "16, 32, 64, 128 GB*",
-    "appleOrderNo": "MLLX2LL/A*",
-    "releaseDate": "March 21, 2016*",
-    "color": "Metallic*"
-  },
-  {
-    "deviceName": "Apple iPhone 3GS (China/No Wi-Fi) 16, 32 GB Specs",
-    "model": "A1325 (EMC N/A)",
-    "ram": "256 MB*",
-    "storage": "16, 32 GB",
-    "appleOrderNo": "N/A",
-    "releaseDate": "October 30, 2009*",
-    "color": "Black & White*"
-  },
-  {
-    "deviceName": "Apple iPhone 13 (Global/A2633) 128, 256, 512 GB Specs",
-    "model": "A2633* (EMC 4031*)",
-    "ram": "4 GB*",
-    "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MLPH3B/A*",
-    "releaseDate": "September 14, 2021*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 13 (CA/MX/JP/SA/A2631) 128, 256, 512 GB Specs",
-    "model": "A2631* (EMC 3999*)",
-    "ram": "4 GB*",
-    "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MLNE3VC/A*",
-    "releaseDate": "September 14, 2021*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 16 (China/A3288) 128, 256, 512 GB Specs",
-    "model": "A3288* (EMC 8691*)",
-    "ram": "8 GB*",
-    "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MYEY3CH/A*",
-    "releaseDate": "September 9, 2024",
-    "color": "Metallic Glass*"
-  },
-  {
     "deviceName": "Apple iPhone 5s (UK/Europe/Middle East/A1457) 16, 32, 64 GB Specs",
     "model": "A1457 (EMC 2643*)",
     "ram": "1 GB*",
@@ -943,15 +574,6 @@
     "appleOrderNo": "ME432B/A*",
     "releaseDate": "September 10, 2013*",
     "color": "Metallic*"
-  },
-  {
-    "deviceName": "Apple iPhone 13 Pro Max (US/A2484) 128, 256, 512 GB; 1 TB Specs",
-    "model": "A2484* (EMC 4003*)",
-    "ram": "6 GB*",
-    "storage": "128, 256, 512 GB; 1 TB",
-    "appleOrderNo": "MLKP3LL/A*",
-    "releaseDate": "September 14, 2021*",
-    "color": "Metallic Glass*"
   },
   {
     "deviceName": "Apple iPhone 13 mini (CA/MX/JP/SA/A2626) 128, 256, 512 GB Specs",
@@ -963,13 +585,67 @@
     "color": "Metallic Glass*"
   },
   {
-    "deviceName": "Apple iPhone 15 Pro (China/A3104) 128, 256, 512 GB; 1 TB Specs",
-    "model": "A3104* (EMC 8438*)",
-    "ram": "8 GB*",
-    "storage": "128, 256, 512 GB; 1 TB",
-    "appleOrderNo": "MTQ63CH/A*",
-    "releaseDate": "September 12, 2023*",
-    "color": "Titanium Glass*"
+    "deviceName": "Apple iPhone 4 (GSM) 16, 32 GB Specs",
+    "model": "A1332 (EMC 380A/380B*)",
+    "ram": "512 MB*",
+    "storage": "16, 32 GB",
+    "appleOrderNo": "MC318LL/A*",
+    "releaseDate": "June 7, 2010*",
+    "color": "Black & White*"
+  },
+  {
+    "deviceName": "Apple iPhone 13 (China/A2634) 128, 256, 512 GB Specs",
+    "model": "A2634* (EMC 4032*)",
+    "ram": "4 GB*",
+    "storage": "128, 256, 512 GB",
+    "appleOrderNo": "MLDW3CH/A*",
+    "releaseDate": "September 14, 2021*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 5 (CDMA China/UIM/WAPI) 16, 32, 64 GB Specs",
+    "model": "A1442 (EMC N/A)",
+    "ram": "1 GB*",
+    "storage": "16, 32, 64 GB",
+    "appleOrderNo": "ME039CH/A*",
+    "releaseDate": "December 14, 2012*",
+    "color": "Black & White"
+  },
+  {
+    "deviceName": "Apple iPhone 6 Plus (GSM/North America/A1522) 16, 64, 128 GB* Specs",
+    "model": "A1522 (EMC 2817*)",
+    "ram": "1 GB*",
+    "storage": "16, 64, 128 GB*",
+    "appleOrderNo": "MGAM2LL/A*",
+    "releaseDate": "September 9, 2014*",
+    "color": "Metallic*"
+  },
+  {
+    "deviceName": "Apple iPhone 8 Plus (China Mobile/A1899) 64, 128, 256 GB Specs",
+    "model": "A1899* (EMC N/A*)",
+    "ram": "3 GB*",
+    "storage": "64, 128, 256 GB",
+    "appleOrderNo": "N/A*",
+    "releaseDate": "September 12, 2017*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 5s (China Mobile/A1518) 16, 32, 64 GB Specs",
+    "model": "A1518 (EMC N/A*)",
+    "ram": "1 GB*",
+    "storage": "16, 32, 64 GB",
+    "appleOrderNo": "MF341CH/A*",
+    "releaseDate": "December 22, 2013*",
+    "color": "Metallic*"
+  },
+  {
+    "deviceName": "Apple iPhone SE (China Mobile/A1724) 16, 32, 64, 128 GB* Specs",
+    "model": "A1724 (EMC 3042*)",
+    "ram": "2 GB*",
+    "storage": "16, 32, 64, 128 GB*",
+    "appleOrderNo": "MLLP2CH/A*",
+    "releaseDate": "March 21, 2016*",
+    "color": "Metallic*"
   },
   {
     "deviceName": "Apple iPhone 7 (AT&T/T-Mobile/Global/A1778) 32, 128, 256 GB Specs",
@@ -981,93 +657,21 @@
     "color": "Metallic*"
   },
   {
-    "deviceName": "Apple iPhone 14 Plus (Global/A2886) 128, 256, 512 GB Specs",
-    "model": "A2886* (EMC 8147*)",
-    "ram": "6 GB*",
-    "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MQ523ZD/A*",
-    "releaseDate": "September 7, 2022*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone XR (Japan/A2106) 64, 128, 256 GB Specs",
-    "model": "A2106* (EMC 3238*)",
-    "ram": "3 GB*",
-    "storage": "64, 128, 256 GB",
-    "appleOrderNo": "MT032J/A*",
-    "releaseDate": "September 12, 2018*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 5s (GSM/North America/A1533) 16, 32, 64 GB Specs",
-    "model": "A1533 (EMC 2642*)",
-    "ram": "1 GB*",
-    "storage": "16, 32, 64 GB",
-    "appleOrderNo": "ME305LL/A*",
-    "releaseDate": "September 10, 2013*",
-    "color": "Metallic*"
-  },
-  {
-    "deviceName": "Apple iPhone 13 (US/A2482) 128, 256, 512 GB Specs",
-    "model": "A2482* (EMC 3997*)",
-    "ram": "4 GB*",
-    "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MLMN3LL/A*",
-    "releaseDate": "September 14, 2021*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 13 mini (Russia/A2630) 128, 256, 512 GB Specs",
-    "model": "A2630* (EMC 4030*)",
-    "ram": "4 GB*",
-    "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MLLX3RU/A*",
-    "releaseDate": "September 14, 2021*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 5c (China Mobile/A1516) 8, 16, 32 GB Specs",
-    "model": "A1516 (EMC N/A*)",
+    "deviceName": "Apple iPhone 5c (CDMA/US/Japan/A1456) 8, 16, 32 GB Specs",
+    "model": "A1456 (EMC 2644*)",
     "ram": "1 GB*",
     "storage": "8, 16, 32 GB",
-    "appleOrderNo": "N/A*",
-    "releaseDate": "December 22, 2013*",
+    "appleOrderNo": "ME565LL/A*",
+    "releaseDate": "September 10, 2013*",
     "color": "Colors*"
   },
   {
-    "deviceName": "Apple iPhone 11 Pro Max (Global/A2218) 64, 256, 512 GB Specs",
-    "model": "A2218* (EMC 3308*)",
-    "ram": "4 GB*",
-    "storage": "64, 256, 512 GB",
-    "appleOrderNo": "MWHG2B/A*",
-    "releaseDate": "September 10, 2019",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 14 Pro Max (US/A2651) 128, 256, 512 GB; 1 TB Specs",
-    "model": "A2651* (EMC 8141*)",
-    "ram": "6 GB*",
-    "storage": "128, 256, 512 GB; 1 TB",
-    "appleOrderNo": "MQ8R3LL/A*",
-    "releaseDate": "September 7, 2022*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 14 (Global/A2882) 128, 256, 512 GB Specs",
-    "model": "A2882* (EMC 8143*)",
+    "deviceName": "Apple iPhone 14 (CA/MX/JP/SA/A2881) 128, 256, 512 GB Specs",
+    "model": "A2881* (EMC 8142*)",
     "ram": "6 GB*",
     "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MPVN3ZD/A*",
+    "appleOrderNo": "MPVJ3VC/A*",
     "releaseDate": "September 7, 2022*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 16 (CA/MX/JP/SA/A3286) 128, 256, 512 GB Specs",
-    "model": "A3286* (EMC 8689*)",
-    "ram": "8 GB*",
-    "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MYDU3VC/A*",
-    "releaseDate": "September 9, 2024",
     "color": "Metallic Glass*"
   },
   {
@@ -1080,6 +684,69 @@
     "color": "Colors*"
   },
   {
+    "deviceName": "Apple iPhone Xs (Global/A2097) 64, 256, 512 GB Specs",
+    "model": "A2097* (EMC 3232*)",
+    "ram": "4 GB*",
+    "storage": "64, 256, 512 GB",
+    "appleOrderNo": "MT9F2B/A*",
+    "releaseDate": "September 12, 2018*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 14 (China/A2884) 128, 256, 512 GB Specs",
+    "model": "A2884* (EMC 8144*)",
+    "ram": "6 GB*",
+    "storage": "128, 256, 512 GB",
+    "appleOrderNo": "MPVG3ZA/A*",
+    "releaseDate": "September 7, 2022*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 12 Pro (Global/A2407) 128, 256, 512 GB Specs",
+    "model": "A2407* (EMC 3547*)",
+    "ram": "6 GB*",
+    "storage": "128, 256, 512 GB",
+    "appleOrderNo": "MGMN3B/A*",
+    "releaseDate": "October 13, 2020*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 5 (GSM/LTE/AWS/North America) 16, 32, 64 GB Specs",
+    "model": "A1428 (EMC N/A)",
+    "ram": "1 GB*",
+    "storage": "16, 32, 64 GB",
+    "appleOrderNo": "ME486LL/A*",
+    "releaseDate": "March 26, 2013*",
+    "color": "Black & White"
+  },
+  {
+    "deviceName": "Apple iPhone 5s (CDMA/US/Japan/A1453) 16, 32, 64 GB Specs",
+    "model": "A1453 (EMC 2642*)",
+    "ram": "1 GB*",
+    "storage": "16, 32, 64 GB",
+    "appleOrderNo": "ME350LL/A*",
+    "releaseDate": "September 10, 2013*",
+    "color": "Metallic*"
+  },
+  {
+    "deviceName": "Apple iPhone 14 Pro (US/A2650) 128, 256, 512 GB; 1 TB Specs",
+    "model": "A2650* (EMC 8140*)",
+    "ram": "6 GB*",
+    "storage": "128, 256, 512 GB; 1 TB",
+    "appleOrderNo": "MQ0E3LL/A*",
+    "releaseDate": "September 7, 2022*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone SE (United States/A1662) 16, 32, 64, 128 GB* Specs",
+    "model": "A1662 (EMC 3042*)",
+    "ram": "2 GB*",
+    "storage": "16, 32, 64, 128 GB*",
+    "appleOrderNo": "MLLX2LL/A*",
+    "releaseDate": "March 21, 2016*",
+    "color": "Metallic*"
+  },
+  {
     "deviceName": "Apple iPhone 5s (CDMA/China Telecom/A1533) 16, 32, 64 GB Specs",
     "model": "A1533 (EMC 2642*)",
     "ram": "1 GB*",
@@ -1089,93 +756,12 @@
     "color": "Metallic*"
   },
   {
-    "deviceName": "Apple iPhone 6s Plus (China Mobile/A1690) 16, 32, 64, 128 GB Specs",
-    "model": "A1690 (EMC 2944*)",
-    "ram": "2 GB*",
-    "storage": "16, 32, 64, 128 GB",
-    "appleOrderNo": "N/A*",
-    "releaseDate": "September 9, 2015*",
-    "color": "Metallic*"
-  },
-  {
-    "deviceName": "Apple iPhone 16 Plus (CA/MX/JP/SA/A3289) 128, 256, 512 GB Specs",
-    "model": "A3289* (EMC 8693*)",
-    "ram": "8 GB*",
-    "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MXVE3VC/A*",
-    "releaseDate": "September 9, 2024",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 6s Plus (Mainland China/A1699) 16, 32, 64, 128 GB Specs",
-    "model": "A1699 (EMC 2944*)",
-    "ram": "2 GB*",
-    "storage": "16, 32, 64, 128 GB",
-    "appleOrderNo": "ML6C2CH/A*",
-    "releaseDate": "September 9, 2015*",
-    "color": "Metallic*"
-  },
-  {
-    "deviceName": "Apple iPhone 12 mini (US/A2176) 64, 128, 256 GB Specs",
-    "model": "A2176* (EMC 3539*)",
-    "ram": "4 GB*",
-    "storage": "64, 128, 256 GB",
-    "appleOrderNo": "MG633LL/A*",
-    "releaseDate": "October 13, 2020*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone Xs Max (US/Canada/A1921) 64, 256, 512 GB Specs",
-    "model": "A1921* (EMC 3219*)",
-    "ram": "4 GB*",
-    "storage": "64, 256, 512 GB",
-    "appleOrderNo": "MT5A2LL/A*",
-    "releaseDate": "September 12, 2018*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 8 Plus (China Mobile/A1899) 64, 128, 256 GB Specs",
-    "model": "A1899* (EMC N/A*)",
-    "ram": "3 GB*",
-    "storage": "64, 128, 256 GB",
-    "appleOrderNo": "N/A*",
-    "releaseDate": "September 12, 2017*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone Xs (US/Canada/Hong Kong/A1920) 64, 256, 512 GB Specs",
-    "model": "A1920* (EMC 3218*)",
-    "ram": "4 GB*",
-    "storage": "64, 256, 512 GB",
-    "appleOrderNo": "MT952LL/A*",
-    "releaseDate": "September 12, 2018*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone SE (2 - 4.7\" 2020 China A2298) 64, 128, 256 GB* Specs",
-    "model": "A2298* (EMC 3500*)",
-    "ram": "3 GB*",
-    "storage": "64, 128, 256 GB*",
-    "appleOrderNo": "MXAN2CH/A*",
-    "releaseDate": "April 15, 2020",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 14 Pro (China/A2892) 128, 256, 512 GB; 1 TB Specs",
-    "model": "A2892* (EMC 8152*)",
+    "deviceName": "Apple iPhone 14 Pro (Global/A2890) 128, 256, 512 GB; 1 TB Specs",
+    "model": "A2890* (EMC 8151*)",
     "ram": "6 GB*",
     "storage": "128, 256, 512 GB; 1 TB",
-    "appleOrderNo": "MQ0D3ZA/A*",
+    "appleOrderNo": "MQ0G3ZD/A*",
     "releaseDate": "September 7, 2022*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 12 (US/A2172) 64, 128, 256 GB Specs",
-    "model": "A2172* (EMC 3542*)",
-    "ram": "4 GB*",
-    "storage": "64, 128, 256 GB",
-    "appleOrderNo": "MGEK3LL/A*",
-    "releaseDate": "October 13, 2020*",
     "color": "Metallic Glass*"
   },
   {
@@ -1188,74 +774,29 @@
     "color": "Metallic Glass*"
   },
   {
-    "deviceName": "Apple iPhone SE (Global/Sprint/A1723) 16, 32, 64, 128 GB* Specs",
-    "model": "A1723 (EMC 3042*)",
-    "ram": "2 GB*",
-    "storage": "16, 32, 64, 128 GB*",
-    "appleOrderNo": "MLM32LL/A*",
-    "releaseDate": "March 21, 2016*",
-    "color": "Metallic*"
-  },
-  {
-    "deviceName": "Apple iPhone 5s (Asia Pacific/A1530) 16, 32, 64 GB Specs",
-    "model": "A1530 (EMC 2643*)",
-    "ram": "1 GB*",
-    "storage": "16, 32, 64 GB",
-    "appleOrderNo": "MF352X/A*",
-    "releaseDate": "September 10, 2013*",
-    "color": "Metallic*"
-  },
-  {
-    "deviceName": "Apple iPhone 16e (US/A3212) 128, 256, 512 GB Specs",
-    "model": "A3212* (EMC 8725*)",
-    "ram": "8 GB*",
+    "deviceName": "Apple iPhone 14 Plus (China/A2888) 128, 256, 512 GB Specs",
+    "model": "A2888* (EMC 8148*)",
+    "ram": "6 GB*",
     "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MD0E4LL/A*",
-    "releaseDate": "February 19, 2025",
+    "appleOrderNo": "MQ3A3ZA/A*",
+    "releaseDate": "September 7, 2022*",
     "color": "Metallic Glass*"
   },
   {
-    "deviceName": "Apple iPhone 12 mini (Canada/Japan/A2398) 64, 128, 256 GB Specs",
-    "model": "A2398* (EMC 3540*)",
-    "ram": "4 GB*",
-    "storage": "64, 128, 256 GB",
-    "appleOrderNo": "MGAP3VC/A*",
-    "releaseDate": "October 13, 2020*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone SE (2 - 4.7\" 2020 Global A2296) 64, 128, 256 GB* Specs",
-    "model": "A2296* (EMC 3500*)",
-    "ram": "3 GB*",
-    "storage": "64, 128, 256 GB*",
-    "appleOrderNo": "MX9T2B/A*",
-    "releaseDate": "April 15, 2020",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 16 Plus (US/A3082) 128, 256, 512 GB Specs",
-    "model": "A3082* (EMC 8692*)",
-    "ram": "8 GB*",
-    "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MXUW3LL/A*",
-    "releaseDate": "September 9, 2024",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone SE (3 - 4.7\" 2022 Global A2783) 64, 128, 256 GB* Specs",
-    "model": "A2783* (EMC 4083*)",
-    "ram": "4 GB*",
-    "storage": "64, 128, 256 GB*",
-    "appleOrderNo": "MMXG3B/A*",
-    "releaseDate": "March 8, 2022",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 14 Pro Max (CA/MX/JP/SA/A2893) 128, 256, 512 GB; 1 TB Specs",
-    "model": "A2893* (EMC 8154*)",
+    "deviceName": "Apple iPhone 13 Pro Max (China/A2644) 128, 256, 512 GB; 1 TB Specs",
+    "model": "A2644* (EMC 4036*)",
     "ram": "6 GB*",
     "storage": "128, 256, 512 GB; 1 TB",
-    "appleOrderNo": "MQ993VC/A*",
+    "appleOrderNo": "MLH73CH/A*",
+    "releaseDate": "September 14, 2021*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 14 (Global/A2882) 128, 256, 512 GB Specs",
+    "model": "A2882* (EMC 8143*)",
+    "ram": "6 GB*",
+    "storage": "128, 256, 512 GB",
+    "appleOrderNo": "MPVN3ZD/A*",
     "releaseDate": "September 7, 2022*",
     "color": "Metallic Glass*"
   },
@@ -1269,112 +810,67 @@
     "color": "Metallic Glass*"
   },
   {
-    "deviceName": "Apple iPhone 12 Pro (Canada/Japan/A2406) 128, 256, 512 GB Specs",
-    "model": "A2406* (EMC 3546*)",
-    "ram": "6 GB*",
+    "deviceName": "Apple iPhone 13 mini (Global/A2628) 128, 256, 512 GB Specs",
+    "model": "A2628* (EMC 4029*)",
+    "ram": "4 GB*",
     "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MGM83VC/A*",
-    "releaseDate": "October 13, 2020*",
+    "appleOrderNo": "MLK23B/A*",
+    "releaseDate": "September 14, 2021*",
     "color": "Metallic Glass*"
   },
   {
-    "deviceName": "Apple iPhone 16 Pro (Global/A3293) 128, 256, 512 GB; 1 TB Specs",
-    "model": "A3293* (EMC 8668*)",
-    "ram": "8 GB*",
+    "deviceName": "Apple iPhone 14 Pro Max (US/A2651) 128, 256, 512 GB; 1 TB Specs",
+    "model": "A2651* (EMC 8141*)",
+    "ram": "6 GB*",
     "storage": "128, 256, 512 GB; 1 TB",
-    "appleOrderNo": "MYNF3QN/A*",
-    "releaseDate": "September 9, 2024",
-    "color": "Titanium Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 15 Plus (China/A3096) 128, 256, 512 GB Specs",
-    "model": "A3096* (EMC 8434*)",
-    "ram": "6 GB*",
-    "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MTXD3CH/A*",
-    "releaseDate": "September 12, 2023*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 12 Pro (Global/A2407) 128, 256, 512 GB Specs",
-    "model": "A2407* (EMC 3547*)",
-    "ram": "6 GB*",
-    "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MGMN3B/A*",
-    "releaseDate": "October 13, 2020*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 14 (Russia/A2883) 128, 256, 512 GB Specs",
-    "model": "A2883* (EMC 8144*)",
-    "ram": "6 GB*",
-    "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MPVQ3RU/A*",
+    "appleOrderNo": "MQ8R3LL/A*",
     "releaseDate": "September 7, 2022*",
     "color": "Metallic Glass*"
   },
   {
-    "deviceName": "Apple iPhone 15 Pro (CA/MX/JP/SA/A3101) 128, 256, 512 GB; 1 TB Specs",
-    "model": "A3101* (EMC 8436*)",
-    "ram": "8 GB*",
-    "storage": "128, 256, 512 GB; 1 TB",
-    "appleOrderNo": "MTU93VC/A*",
-    "releaseDate": "September 12, 2023*",
-    "color": "Titanium Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 16 Plus (China/A3291) 128, 256, 512 GB Specs",
-    "model": "A3291* (EMC 8695*)",
-    "ram": "8 GB*",
-    "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MXUD3CH/A*",
-    "releaseDate": "September 9, 2024",
+    "deviceName": "Apple iPhone XR (Japan/A2106) 64, 128, 256 GB Specs",
+    "model": "A2106* (EMC 3238*)",
+    "ram": "3 GB*",
+    "storage": "64, 128, 256 GB",
+    "appleOrderNo": "MT032J/A*",
+    "releaseDate": "September 12, 2018*",
     "color": "Metallic Glass*"
   },
   {
-    "deviceName": "Apple iPhone 15 (Global/A3090) 128, 256, 512 GB Specs",
-    "model": "A3090* (EMC 8429*)",
-    "ram": "6 GB*",
-    "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MTP43ZD/A*",
-    "releaseDate": "September 12, 2023*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 14 Plus (CA/MX/JP/SA/A2885) 128, 256, 512 GB Specs",
-    "model": "A2885* (EMC 8146*)",
-    "ram": "6 GB*",
-    "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MQ4H3VC/A*",
-    "releaseDate": "September 7, 2022*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 15 (US/A2846) 128, 256, 512 GB Specs",
-    "model": "A2846* (EMC 8427*)",
-    "ram": "6 GB*",
-    "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MTLY3LL/A*",
-    "releaseDate": "September 12, 2023*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 6s Plus (AT&T/SIM Free/A1634) 16, 32, 64, 128 GB Specs",
-    "model": "A1634 (EMC 2944*)",
+    "deviceName": "Apple iPhone 6s (Mainland China/A1700) 16, 32, 64, 128 GB Specs",
+    "model": "A1700 (EMC 2946*)",
     "ram": "2 GB*",
     "storage": "16, 32, 64, 128 GB",
-    "appleOrderNo": "MKTM2LL/A*",
+    "appleOrderNo": "ML7D2CH/A*",
     "releaseDate": "September 9, 2015*",
     "color": "Metallic*"
   },
   {
-    "deviceName": "Apple iPhone 13 Pro Max (Russia/A2645) 128, 256, 512 GB; 1 TB Specs",
-    "model": "A2645* (EMC 4036*)",
-    "ram": "6 GB*",
-    "storage": "128, 256, 512 GB; 1 TB",
-    "appleOrderNo": "MLLU3RU/A*",
+    "deviceName": "Apple iPhone 13 (US/A2482) 128, 256, 512 GB Specs",
+    "model": "A2482* (EMC 3997*)",
+    "ram": "4 GB*",
+    "storage": "128, 256, 512 GB",
+    "appleOrderNo": "MLMN3LL/A*",
     "releaseDate": "September 14, 2021*",
     "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 16e (China/A3410) 128, 256, 512 GB Specs",
+    "model": "A3410* (EMC 8728*)",
+    "ram": "8 GB*",
+    "storage": "128, 256, 512 GB",
+    "appleOrderNo": "MD2C4CH/A*",
+    "releaseDate": "February 19, 2025",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 15 Pro (China/A3104) 128, 256, 512 GB; 1 TB Specs",
+    "model": "A3104* (EMC 8438*)",
+    "ram": "8 GB*",
+    "storage": "128, 256, 512 GB; 1 TB",
+    "appleOrderNo": "MTQ63CH/A*",
+    "releaseDate": "September 12, 2023*",
+    "color": "Titanium Glass*"
   },
   {
     "deviceName": "Apple iPhone 12 Pro Max (Global/A2411) 128, 256, 512 GB Specs",
@@ -1386,147 +882,30 @@
     "color": "Metallic Glass*"
   },
   {
-    "deviceName": "Apple iPhone 15 Plus (Global/A3094) 128, 256, 512 GB Specs",
-    "model": "A3094* (EMC 8433*)",
-    "ram": "6 GB*",
-    "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MU163ZD/A*",
+    "deviceName": "Apple iPhone 15 Pro Max (CA/MX/JP/SA/A3105) 256, 512 GB; 1 TB Specs",
+    "model": "A3105* (EMC 8440*)",
+    "ram": "8 GB*",
+    "storage": "256, 512 GB; 1 TB",
+    "appleOrderNo": "MU6R3VC/A*",
     "releaseDate": "September 12, 2023*",
-    "color": "Metallic Glass*"
+    "color": "Titanium Glass*"
   },
   {
-    "deviceName": "Apple iPhone 12 mini (China/A2400) 64, 128, 256 GB Specs",
-    "model": "A2400* (EMC 3541*)",
-    "ram": "4 GB*",
-    "storage": "64, 128, 256 GB",
-    "appleOrderNo": "MG823CH/A*",
-    "releaseDate": "October 13, 2020*",
-    "color": "Metallic Glass*"
+    "deviceName": "Apple iPhone 7 Plus (Verizon/Sprint/China/A1661) 32, 128, 256 GB Specs",
+    "model": "A1661 (EMC 3092*)",
+    "ram": "3 GB*",
+    "storage": "32, 128, 256 GB",
+    "appleOrderNo": "MNR22LL/A*",
+    "releaseDate": "September 7, 2016*",
+    "color": "Metallic*"
   },
   {
-    "deviceName": "Apple iPhone 6 (CDMA/Verizon/A1549) 16, 64, 128 GB* Specs",
+    "deviceName": "Apple iPhone 6 (GSM/North America/A1549) 16, 32, 64, 128 GB* Specs",
     "model": "A1549 (EMC 2816*)",
     "ram": "1 GB*",
-    "storage": "16, 64, 128 GB*",
-    "appleOrderNo": "MG5X2LL/A*",
+    "storage": "16, 32, 64, 128 GB*",
+    "appleOrderNo": "MG4P2LL/A*",
     "releaseDate": "September 9, 2014*",
-    "color": "Metallic*"
-  },
-  {
-    "deviceName": "Apple iPhone 12 Pro Max (China/A2412) 128, 256, 512 GB Specs",
-    "model": "A2412* (EMC 3550*)",
-    "ram": "6 GB*",
-    "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MGC33CH/A*",
-    "releaseDate": "October 13, 2020*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 5s (CDMA/Verizon/A1533) 16, 32, 64 GB Specs",
-    "model": "A1533 (EMC 2642*)",
-    "ram": "1 GB*",
-    "storage": "16, 32, 64 GB",
-    "appleOrderNo": "ME341LL/A*",
-    "releaseDate": "September 10, 2013*",
-    "color": "Metallic*"
-  },
-  {
-    "deviceName": "Apple iPhone 11 Pro Max (CN/HK/A2220) 64, 256, 512 GB Specs",
-    "model": "A2220* (EMC 3306*)",
-    "ram": "4 GB*",
-    "storage": "64, 256, 512 GB",
-    "appleOrderNo": "MWEX2ZA/A*",
-    "releaseDate": "September 10, 2019",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 13 mini (US/A2481) 128, 256, 512 GB Specs",
-    "model": "A2481* (EMC 3994*)",
-    "ram": "4 GB*",
-    "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MLHP3LL/A*",
-    "releaseDate": "September 14, 2021*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 13 (China/A2634) 128, 256, 512 GB Specs",
-    "model": "A2634* (EMC 4032*)",
-    "ram": "4 GB*",
-    "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MLDW3CH/A*",
-    "releaseDate": "September 14, 2021*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 5s (China Unicom/A1528) 16, 32, 64 GB Specs",
-    "model": "A1528 (EMC N/A)",
-    "ram": "1 GB*",
-    "storage": "16, 32, 64 GB",
-    "appleOrderNo": "ME450CH/A*",
-    "releaseDate": "September 10, 2013*",
-    "color": "Metallic*"
-  },
-  {
-    "deviceName": "Apple iPhone 14 (CA/MX/JP/SA/A2881) 128, 256, 512 GB Specs",
-    "model": "A2881* (EMC 8142*)",
-    "ram": "6 GB*",
-    "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MPVJ3VC/A*",
-    "releaseDate": "September 7, 2022*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 12 Pro (US/A2341) 128, 256, 512 GB Specs",
-    "model": "A2341* (EMC 3545*)",
-    "ram": "6 GB*",
-    "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MGJQ3LL/A*",
-    "releaseDate": "October 13, 2020*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 14 Pro (CA/MX/JP/SA/A2889) 128, 256, 512 GB; 1 TB Specs",
-    "model": "A2889* (EMC 8150*)",
-    "ram": "6 GB*",
-    "storage": "128, 256, 512 GB; 1 TB",
-    "appleOrderNo": "MQ0F3VC/A*",
-    "releaseDate": "September 7, 2022*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 6 Plus (GSM/North America/A1522) 16, 64, 128 GB* Specs",
-    "model": "A1522 (EMC 2817*)",
-    "ram": "1 GB*",
-    "storage": "16, 64, 128 GB*",
-    "appleOrderNo": "MGAM2LL/A*",
-    "releaseDate": "September 9, 2014*",
-    "color": "Metallic*"
-  },
-  {
-    "deviceName": "Apple iPhone 15 (China/A3092) 128, 256, 512 GB Specs",
-    "model": "A3092* (EMC 8430*)",
-    "ram": "6 GB*",
-    "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MTLG3CH/A*",
-    "releaseDate": "September 12, 2023*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 8 (China Mobile/A1907) 64, 128, 256 GB Specs",
-    "model": "A1907* (EMC N/A*)",
-    "ram": "2 GB*",
-    "storage": "64, 128, 256 GB",
-    "appleOrderNo": "N/A*",
-    "releaseDate": "September 12, 2017*",
-    "color": "Metallic Glass*"
-  },
-  {
-    "deviceName": "Apple iPhone 7 (China Mobile/A1780) 32, 128, 256 GB Specs",
-    "model": "A1780 (EMC 3091*)",
-    "ram": "2 GB*",
-    "storage": "32, 128, 256 GB",
-    "appleOrderNo": "N/A*",
-    "releaseDate": "September 7, 2016*",
     "color": "Metallic*"
   },
   {
@@ -1539,48 +918,102 @@
     "color": "Titanium Glass*"
   },
   {
-    "deviceName": "Apple iPhone 16 Pro Max (China/A3297) 256 GB, 512 GB, 1 TB Specs",
-    "model": "A3297* (EMC 8687*)",
-    "ram": "8 GB*",
-    "storage": "256 GB, 512 GB, 1 TB",
-    "appleOrderNo": "MYTP3CH/A*",
-    "releaseDate": "September 9, 2024",
-    "color": "Titanium Glass*"
+    "deviceName": "Apple iPhone 3GS (China/No Wi-Fi) 16, 32 GB Specs",
+    "model": "A1325 (EMC N/A)",
+    "ram": "256 MB*",
+    "storage": "16, 32 GB",
+    "appleOrderNo": "N/A",
+    "releaseDate": "October 30, 2009*",
+    "color": "Black & White*"
   },
   {
-    "deviceName": "Apple iPhone XR (Global/A2105) 64, 128, 256 GB Specs",
-    "model": "A2105* (EMC 3227*)",
-    "ram": "3 GB*",
-    "storage": "64, 128, 256 GB",
-    "appleOrderNo": "MRY52B/A*",
+    "deviceName": "Apple iPhone SE (3 - 4.7\" 2022 US/CA A2595) 64, 128, 256 GB* Specs",
+    "model": "A2595* (EMC 4082*)",
+    "ram": "4 GB*",
+    "storage": "64, 128, 256 GB*",
+    "appleOrderNo": "MMX63LL/A*",
+    "releaseDate": "March 8, 2022",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 14 (Russia/A2883) 128, 256, 512 GB Specs",
+    "model": "A2883* (EMC 8144*)",
+    "ram": "6 GB*",
+    "storage": "128, 256, 512 GB",
+    "appleOrderNo": "MPVQ3RU/A*",
+    "releaseDate": "September 7, 2022*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 11 Pro Max (Global/A2218) 64, 256, 512 GB Specs",
+    "model": "A2218* (EMC 3308*)",
+    "ram": "4 GB*",
+    "storage": "64, 256, 512 GB",
+    "appleOrderNo": "MWHG2B/A*",
+    "releaseDate": "September 10, 2019",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone Xs Max (Global/A2101) 64, 256, 512 GB Specs",
+    "model": "A2101* (EMC 3234*)",
+    "ram": "4 GB*",
+    "storage": "64, 256, 512 GB",
+    "appleOrderNo": "MT512B/A*",
     "releaseDate": "September 12, 2018*",
     "color": "Metallic Glass*"
   },
   {
-    "deviceName": "Apple iPhone 7 (Japan/A1779) 32, 128, 256 GB Specs",
-    "model": "A1779 (EMC 3091*)",
+    "deviceName": "Apple iPhone 6s (AT&T/SIM Free/A1633) 16, 32, 64, 128 GB Specs",
+    "model": "A1633 (EMC 2946*)",
     "ram": "2 GB*",
-    "storage": "32, 128, 256 GB",
-    "appleOrderNo": "MNCF2J/A*",
-    "releaseDate": "September 7, 2016*",
+    "storage": "16, 32, 64, 128 GB",
+    "appleOrderNo": "MKQ62LL/A*",
+    "releaseDate": "September 9, 2015*",
     "color": "Metallic*"
   },
   {
-    "deviceName": "Apple iPhone 13 (Russia/A2635) 128, 256, 512 GB Specs",
-    "model": "A2635* (EMC 4032*)",
-    "ram": "4 GB*",
+    "deviceName": "Apple iPhone 15 Pro Max (US/A2849) 256, 512 GB; 1 TB Specs",
+    "model": "A2849* (EMC 8439*)",
+    "ram": "8 GB*",
+    "storage": "256, 512 GB; 1 TB",
+    "appleOrderNo": "MU683LL/A*",
+    "releaseDate": "September 12, 2023*",
+    "color": "Titanium Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 16 Plus (US/A3082) 128, 256, 512 GB Specs",
+    "model": "A3082* (EMC 8692*)",
+    "ram": "8 GB*",
     "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MLNY3RU/A*",
-    "releaseDate": "September 14, 2021*",
+    "appleOrderNo": "MXUW3LL/A*",
+    "releaseDate": "September 9, 2024",
     "color": "Metallic Glass*"
   },
   {
-    "deviceName": "Apple iPhone 16e (Global/A3409) 128, 256, 512 GB Specs",
-    "model": "A3409* (EMC 8727*)",
+    "deviceName": "Apple iPhone 6 (China Mobile/A1589) 16, 64, 128 GB* Specs",
+    "model": "A1589 (EMC 2816*)",
+    "ram": "1 GB*",
+    "storage": "16, 64, 128 GB*",
+    "appleOrderNo": "N/A*",
+    "releaseDate": "September 9, 2014*",
+    "color": "Metallic*"
+  },
+  {
+    "deviceName": "Apple iPhone 16 Plus (Global/A3290) 128, 256, 512 GB Specs",
+    "model": "A3290* (EMC 8694*)",
     "ram": "8 GB*",
     "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MD1R4QN/A*",
-    "releaseDate": "February 19, 2025",
+    "appleOrderNo": "MXVX3QN/A*",
+    "releaseDate": "September 9, 2024",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 14 Plus (US/A2632) 128, 256, 512 GB Specs",
+    "model": "A2632* (EMC 8139*)",
+    "ram": "6 GB*",
+    "storage": "128, 256, 512 GB",
+    "appleOrderNo": "MQ3W3LL/A*",
+    "releaseDate": "September 7, 2022*",
     "color": "Metallic Glass*"
   },
   {
@@ -1593,49 +1026,139 @@
     "color": "Metallic Glass*"
   },
   {
-    "deviceName": "Apple iPhone 13 mini (China/A2629) 128, 256, 512 GB Specs",
-    "model": "A2629* (EMC 4030*)",
-    "ram": "4 GB*",
+    "deviceName": "Apple iPhone 15 Pro (Global/A3102) 128, 256, 512 GB; 1 TB Specs",
+    "model": "A3102* (EMC 8437*)",
+    "ram": "8 GB*",
+    "storage": "128, 256, 512 GB; 1 TB",
+    "appleOrderNo": "MTUX3ZD/A*",
+    "releaseDate": "September 12, 2023*",
+    "color": "Titanium Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 15 (Global/A3090) 128, 256, 512 GB Specs",
+    "model": "A3090* (EMC 8429*)",
+    "ram": "6 GB*",
     "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MLDE3CH/A*",
-    "releaseDate": "September 14, 2021*",
+    "appleOrderNo": "MTP43ZD/A*",
+    "releaseDate": "September 12, 2023*",
     "color": "Metallic Glass*"
   },
   {
-    "deviceName": "Apple iPhone 14 (China/A2884) 128, 256, 512 GB Specs",
-    "model": "A2884* (EMC 8144*)",
+    "deviceName": "Apple iPhone 6 (Global/Sprint/A1586) 16, 32, 64, 128 GB* Specs",
+    "model": "A1586 (EMC 2816*)",
+    "ram": "1 GB*",
+    "storage": "16, 32, 64, 128 GB*",
+    "appleOrderNo": "MG6A2LL/A*",
+    "releaseDate": "September 9, 2014*",
+    "color": "Metallic*"
+  },
+  {
+    "deviceName": "Apple iPhone XR (Global/A2105) 64, 128, 256 GB Specs",
+    "model": "A2105* (EMC 3227*)",
+    "ram": "3 GB*",
+    "storage": "64, 128, 256 GB",
+    "appleOrderNo": "MRY52B/A*",
+    "releaseDate": "September 12, 2018*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 14 Plus (CA/MX/JP/SA/A2885) 128, 256, 512 GB Specs",
+    "model": "A2885* (EMC 8146*)",
     "ram": "6 GB*",
     "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MPVG3ZA/A*",
+    "appleOrderNo": "MQ4H3VC/A*",
     "releaseDate": "September 7, 2022*",
     "color": "Metallic Glass*"
   },
   {
-    "deviceName": "Apple iPhone 16 Plus (Global/A3290) 128, 256, 512 GB Specs",
-    "model": "A3290* (EMC 8694*)",
+    "deviceName": "Apple iPhone 15 Pro (US/A2848) 128, 256, 512 GB; 1 TB Specs",
+    "model": "A2848* (EMC 8435*)",
+    "ram": "8 GB*",
+    "storage": "128, 256, 512 GB; 1 TB",
+    "appleOrderNo": "MTQP3LL/A*",
+    "releaseDate": "September 12, 2023*",
+    "color": "Titanium Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone X (AT&T/T-Mobile/Global/A1901) 64, 256 GB Specs",
+    "model": "A1901* (EMC 3175*)",
+    "ram": "3 GB*",
+    "storage": "64, 256 GB",
+    "appleOrderNo": "MQAJ2LL/A*",
+    "releaseDate": "September 12, 2017*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 16 Pro Max (Global/A3296) 256 GB, 512 GB, 1 TB Specs",
+    "model": "A3296* (EMC 8686*)",
+    "ram": "8 GB*",
+    "storage": "256 GB, 512 GB, 1 TB",
+    "appleOrderNo": "MYWX3QN/A*",
+    "releaseDate": "September 9, 2024",
+    "color": "Titanium Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 16 (China/A3288) 128, 256, 512 GB Specs",
+    "model": "A3288* (EMC 8691*)",
     "ram": "8 GB*",
     "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MXVX3QN/A*",
+    "appleOrderNo": "MYEY3CH/A*",
     "releaseDate": "September 9, 2024",
     "color": "Metallic Glass*"
   },
   {
-    "deviceName": "Apple iPhone 12 mini (Global/A2399) 64, 128, 256 GB Specs",
-    "model": "A2399* (EMC 3541*)",
-    "ram": "4 GB*",
-    "storage": "64, 128, 256 GB",
-    "appleOrderNo": "MGE13B/A*",
-    "releaseDate": "October 13, 2020*",
+    "deviceName": "Apple iPhone 15 Plus (Global/A3094) 128, 256, 512 GB Specs",
+    "model": "A3094* (EMC 8433*)",
+    "ram": "6 GB*",
+    "storage": "128, 256, 512 GB",
+    "appleOrderNo": "MU163ZD/A*",
+    "releaseDate": "September 12, 2023*",
     "color": "Metallic Glass*"
   },
   {
-    "deviceName": "Apple iPhone 14 (US/A2649) 128, 256, 512 GB Specs",
-    "model": "A2649* (EMC 8138*)",
-    "ram": "6 GB*",
-    "storage": "128, 256, 512 GB",
-    "appleOrderNo": "MPVH3LL/A*",
-    "releaseDate": "September 7, 2022*",
+    "deviceName": "Apple iPhone 6s Plus (Global/A1687) 16, 32, 64, 128 GB Specs",
+    "model": "A1687 (EMC 2944*)",
+    "ram": "2 GB*",
+    "storage": "16, 32, 64, 128 GB",
+    "appleOrderNo": "MKVP2LL/A*",
+    "releaseDate": "September 9, 2015*",
+    "color": "Metallic*"
+  },
+  {
+    "deviceName": "Apple iPhone SE (3 - 4.7\" 2022 China A2785) 64, 128, 256 GB* Specs",
+    "model": "A2785* (EMC 8076*)",
+    "ram": "4 GB*",
+    "storage": "64, 128, 256 GB*",
+    "appleOrderNo": "MMWW3CH/A*",
+    "releaseDate": "March 8, 2022",
     "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone Xs Max (China/Hong Kong/A2104) 64, 256, 512 GB Specs",
+    "model": "A2104* (EMC 3261*)",
+    "ram": "4 GB*",
+    "storage": "64, 256, 512 GB",
+    "appleOrderNo": "MT722CH/A*",
+    "releaseDate": "September 12, 2018*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone X (Japan/A1902) 64, 256 GB Specs",
+    "model": "A1902* (EMC 3176*)",
+    "ram": "3 GB*",
+    "storage": "64, 256 GB",
+    "appleOrderNo": "MQAX2J/A*",
+    "releaseDate": "September 12, 2017*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 15 Pro Max (China/A3108) 256, 512 GB; 1 TB Specs",
+    "model": "A3108* (EMC 8442*)",
+    "ram": "8 GB*",
+    "storage": "256, 512 GB; 1 TB",
+    "appleOrderNo": "MU2Q3CH/A*",
+    "releaseDate": "September 12, 2023*",
+    "color": "Titanium Glass*"
   },
   {
     "deviceName": "Apple iPhone 14 Pro Max (Global/A2894) 128, 256, 512 GB; 1 TB Specs",
@@ -1647,20 +1170,65 @@
     "color": "Metallic Glass*"
   },
   {
-    "deviceName": "Apple iPhone 13 Pro Max (CA/MX/JP/SA/A2641) 128, 256, 512 GB; 1 TB Specs",
-    "model": "A2641* (EMC 4005*)",
-    "ram": "6 GB*",
-    "storage": "128, 256, 512 GB; 1 TB",
-    "appleOrderNo": "MLJ73VC/A*",
-    "releaseDate": "September 14, 2021*",
+    "deviceName": "Apple iPhone 11 Pro Max (US/CA/A2161) 64, 256, 512 GB Specs",
+    "model": "A2161* (EMC 3306*)",
+    "ram": "4 GB*",
+    "storage": "64, 256, 512 GB",
+    "appleOrderNo": "MWFC2LL/A*",
+    "releaseDate": "September 10, 2019",
     "color": "Metallic Glass*"
   },
   {
-    "deviceName": "Apple iPhone XR (China/Hong Kong/A2108) 64, 128, 256 GB Specs",
-    "model": "A2108* (EMC 3260*)",
-    "ram": "3 GB*",
-    "storage": "64, 128, 256 GB",
-    "appleOrderNo": "MT132CH/A*",
+    "deviceName": "Apple iPhone 11 (Global/A2221) 64, 128, 256 GB* Specs",
+    "model": "A2221* (EMC 3304*)",
+    "ram": "4 GB*",
+    "storage": "64, 128, 256 GB*",
+    "appleOrderNo": "MWLU2B/A*",
+    "releaseDate": "September 10, 2019",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 14 Pro (Russia/A2891) 128, 256, 512 GB; 1 TB Specs",
+    "model": "A2891* (EMC 8152*)",
+    "ram": "6 GB*",
+    "storage": "128, 256, 512 GB; 1 TB",
+    "appleOrderNo": "MQ0H3RU/A*",
+    "releaseDate": "September 7, 2022*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone Xs Max (Japan/A2102) 64, 256, 512 GB Specs",
+    "model": "A2102* (EMC 3235*)",
+    "ram": "4 GB*",
+    "storage": "64, 256, 512 GB",
+    "appleOrderNo": "MT6R2J/A*",
+    "releaseDate": "September 12, 2018*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 16 (US/A3081) 128, 256, 512 GB Specs",
+    "model": "A3081* (EMC 8688*)",
+    "ram": "8 GB*",
+    "storage": "128, 256, 512 GB",
+    "appleOrderNo": "MYAT3LL/A*",
+    "releaseDate": "September 9, 2024",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 16 Plus (CA/MX/JP/SA/A3289) 128, 256, 512 GB Specs",
+    "model": "A3289* (EMC 8693*)",
+    "ram": "8 GB*",
+    "storage": "128, 256, 512 GB",
+    "appleOrderNo": "MXVE3VC/A*",
+    "releaseDate": "September 9, 2024",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone Xs (Japan/A2098) 64, 256, 512 GB Specs",
+    "model": "A2098* (EMC 3233*)",
+    "ram": "4 GB*",
+    "storage": "64, 256, 512 GB",
+    "appleOrderNo": "MTAX2J/A*",
     "releaseDate": "September 12, 2018*",
     "color": "Metallic Glass*"
   },
@@ -1674,12 +1242,57 @@
     "color": "Metallic Glass*"
   },
   {
-    "deviceName": "Apple iPhone 13 Pro (US/A2483) 128, 256, 512 GB; 1 TB Specs",
-    "model": "A2483* (EMC 4000*)",
-    "ram": "6 GB*",
+    "deviceName": "Apple iPhone 16 Pro (US/A3083) 128, 256, 512 GB; 1 TB Specs",
+    "model": "A3083* (EMC 8666*)",
+    "ram": "8 GB*",
     "storage": "128, 256, 512 GB; 1 TB",
-    "appleOrderNo": "MLTT3LL/A*",
+    "appleOrderNo": "MYMC3LL/A*",
+    "releaseDate": "September 9, 2024",
+    "color": "Titanium Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone Xs (China/A2100) 64, 256, 512 GB Specs",
+    "model": "A2100* (EMC 3262*)",
+    "ram": "4 GB*",
+    "storage": "64, 256, 512 GB",
+    "appleOrderNo": "MT9Q2CH/A*",
+    "releaseDate": "September 12, 2018*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone SE (2 - 4.7\" 2020 China A2298) 64, 128, 256 GB* Specs",
+    "model": "A2298* (EMC 3500*)",
+    "ram": "3 GB*",
+    "storage": "64, 128, 256 GB*",
+    "appleOrderNo": "MXAN2CH/A*",
+    "releaseDate": "April 15, 2020",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 11 (US/Canada/A2111) 64, 128, 256 GB* Specs",
+    "model": "A2111* (EMC 3309*)",
+    "ram": "4 GB*",
+    "storage": "64, 128, 256 GB*",
+    "appleOrderNo": "MWHU2LL/A*",
+    "releaseDate": "September 10, 2019",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 13 mini (US/A2481) 128, 256, 512 GB Specs",
+    "model": "A2481* (EMC 3994*)",
+    "ram": "4 GB*",
+    "storage": "128, 256, 512 GB",
+    "appleOrderNo": "MLHP3LL/A*",
     "releaseDate": "September 14, 2021*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 12 Pro (US/A2341) 128, 256, 512 GB Specs",
+    "model": "A2341* (EMC 3545*)",
+    "ram": "6 GB*",
+    "storage": "128, 256, 512 GB",
+    "appleOrderNo": "MGJQ3LL/A*",
+    "releaseDate": "October 13, 2020*",
     "color": "Metallic Glass*"
   },
   {
@@ -1692,12 +1305,399 @@
     "color": "Metallic Glass*"
   },
   {
+    "deviceName": "Apple iPhone 13 Pro (US/A2483) 128, 256, 512 GB; 1 TB Specs",
+    "model": "A2483* (EMC 4000*)",
+    "ram": "6 GB*",
+    "storage": "128, 256, 512 GB; 1 TB",
+    "appleOrderNo": "MLTT3LL/A*",
+    "releaseDate": "September 14, 2021*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone X (Verizon/Sprint/China/A1865) 64, 256 GB Specs",
+    "model": "A1865* (EMC 3161*)",
+    "ram": "3 GB*",
+    "storage": "64, 256 GB",
+    "appleOrderNo": "MQCK2LL/A*",
+    "releaseDate": "September 12, 2017*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 13 (CA/MX/JP/SA/A2631) 128, 256, 512 GB Specs",
+    "model": "A2631* (EMC 3999*)",
+    "ram": "4 GB*",
+    "storage": "128, 256, 512 GB",
+    "appleOrderNo": "MLNE3VC/A*",
+    "releaseDate": "September 14, 2021*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 12 (China/A2404) 64, 128, 256 GB Specs",
+    "model": "A2404* (EMC 3544*)",
+    "ram": "4 GB*",
+    "storage": "64, 128, 256 GB",
+    "appleOrderNo": "MGGQ3CH/A*",
+    "releaseDate": "October 13, 2020*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 12 (Canada/Japan/A2402) 64, 128, 256 GB Specs",
+    "model": "A2402* (EMC 3543*)",
+    "ram": "4 GB*",
+    "storage": "64, 128, 256 GB",
+    "appleOrderNo": "MGHR3VC/A*",
+    "releaseDate": "October 13, 2020*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 13 mini (China/A2629) 128, 256, 512 GB Specs",
+    "model": "A2629* (EMC 4030*)",
+    "ram": "4 GB*",
+    "storage": "128, 256, 512 GB",
+    "appleOrderNo": "MLDE3CH/A*",
+    "releaseDate": "September 14, 2021*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone XR (China/Hong Kong/A2108) 64, 128, 256 GB Specs",
+    "model": "A2108* (EMC 3260*)",
+    "ram": "3 GB*",
+    "storage": "64, 128, 256 GB",
+    "appleOrderNo": "MT132CH/A*",
+    "releaseDate": "September 12, 2018*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone SE (3 - 4.7\" 2022 Global A2783) 64, 128, 256 GB* Specs",
+    "model": "A2783* (EMC 4083*)",
+    "ram": "4 GB*",
+    "storage": "64, 128, 256 GB*",
+    "appleOrderNo": "MMXG3B/A*",
+    "releaseDate": "March 8, 2022",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 14 Plus (Global/A2886) 128, 256, 512 GB Specs",
+    "model": "A2886* (EMC 8147*)",
+    "ram": "6 GB*",
+    "storage": "128, 256, 512 GB",
+    "appleOrderNo": "MQ523ZD/A*",
+    "releaseDate": "September 7, 2022*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 13 Pro Max (US/A2484) 128, 256, 512 GB; 1 TB Specs",
+    "model": "A2484* (EMC 4003*)",
+    "ram": "6 GB*",
+    "storage": "128, 256, 512 GB; 1 TB",
+    "appleOrderNo": "MLKP3LL/A*",
+    "releaseDate": "September 14, 2021*",
+    "color": "Metallic Glass*"
+  },
+  {
     "deviceName": "Apple iPhone 12 Pro Max (US/A2342) 128, 256, 512 GB Specs",
     "model": "A2342* (EMC 3548*)",
     "ram": "6 GB*",
     "storage": "128, 256, 512 GB",
     "appleOrderNo": "MG913LL/A*",
     "releaseDate": "October 13, 2020*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 15 (CA/MX/JP/SA/A3089) 128, 256, 512 GB Specs",
+    "model": "A3089* (EMC 8428*)",
+    "ram": "6 GB*",
+    "storage": "128, 256, 512 GB",
+    "appleOrderNo": "MTML3VC/A*",
+    "releaseDate": "September 12, 2023*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 12 Pro (Canada/Japan/A2406) 128, 256, 512 GB Specs",
+    "model": "A2406* (EMC 3546*)",
+    "ram": "6 GB*",
+    "storage": "128, 256, 512 GB",
+    "appleOrderNo": "MGM83VC/A*",
+    "releaseDate": "October 13, 2020*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 8 (Verizon/Sprint/China/A1863) 64, 128, 256 GB Specs",
+    "model": "A1863* (EMC 3159*)",
+    "ram": "2 GB*",
+    "storage": "64, 128, 256 GB",
+    "appleOrderNo": "MQ742LL/A*",
+    "releaseDate": "September 12, 2017*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 14 Pro Max (Russia/A2895) 128, 256, 512 GB; 1 TB Specs",
+    "model": "A2895* (EMC 8156*)",
+    "ram": "6 GB*",
+    "storage": "128, 256, 512 GB; 1 TB",
+    "appleOrderNo": "MQC93RU/A*",
+    "releaseDate": "September 7, 2022*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone SE (3 - 4.7\" 2022 Japan A2782) 64, 128, 256 GB* Specs",
+    "model": "A2782* (EMC 8064*)",
+    "ram": "4 GB*",
+    "storage": "64, 128, 256 GB*",
+    "appleOrderNo": "MMYD3J/A*",
+    "releaseDate": "March 8, 2022",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone SE (2 - 4.7\" 2020 US/CA A2275) 64, 128, 256 GB* Specs",
+    "model": "A2275* (EMC 3500*)",
+    "ram": "3 GB*",
+    "storage": "64, 128, 256 GB*",
+    "appleOrderNo": "MX9A2LL/A*",
+    "releaseDate": "April 15, 2020",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 15 Plus (CA/MX/JP/SA/A3093) 128, 256, 512 GB Specs",
+    "model": "A3093* (EMC 8432*)",
+    "ram": "6 GB*",
+    "storage": "128, 256, 512 GB",
+    "appleOrderNo": "MU0D3VC/A*",
+    "releaseDate": "September 12, 2023*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 16 Pro (Global/A3293) 128, 256, 512 GB; 1 TB Specs",
+    "model": "A3293* (EMC 8668*)",
+    "ram": "8 GB*",
+    "storage": "128, 256, 512 GB; 1 TB",
+    "appleOrderNo": "MYNF3QN/A*",
+    "releaseDate": "September 9, 2024",
+    "color": "Titanium Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 12 mini (China/A2400) 64, 128, 256 GB Specs",
+    "model": "A2400* (EMC 3541*)",
+    "ram": "4 GB*",
+    "storage": "64, 128, 256 GB",
+    "appleOrderNo": "MG823CH/A*",
+    "releaseDate": "October 13, 2020*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 13 Pro Max (Russia/A2645) 128, 256, 512 GB; 1 TB Specs",
+    "model": "A2645* (EMC 4036*)",
+    "ram": "6 GB*",
+    "storage": "128, 256, 512 GB; 1 TB",
+    "appleOrderNo": "MLLU3RU/A*",
+    "releaseDate": "September 14, 2021*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 13 (Global/A2633) 128, 256, 512 GB Specs",
+    "model": "A2633* (EMC 4031*)",
+    "ram": "4 GB*",
+    "storage": "128, 256, 512 GB",
+    "appleOrderNo": "MLPH3B/A*",
+    "releaseDate": "September 14, 2021*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 16 Plus (China/A3291) 128, 256, 512 GB Specs",
+    "model": "A3291* (EMC 8695*)",
+    "ram": "8 GB*",
+    "storage": "128, 256, 512 GB",
+    "appleOrderNo": "MXUD3CH/A*",
+    "releaseDate": "September 9, 2024",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 13 Pro Max (Global/A2643) 128, 256, 512 GB; 1 TB Specs",
+    "model": "A2643* (EMC 4035*)",
+    "ram": "6 GB*",
+    "storage": "128, 256, 512 GB; 1 TB",
+    "appleOrderNo": "MLL93B/A*",
+    "releaseDate": "September 14, 2021*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 15 Pro Max (Global/A3106) 256, 512 GB; 1 TB Specs",
+    "model": "A3106* (EMC 8441*)",
+    "ram": "8 GB*",
+    "storage": "256, 512 GB; 1 TB",
+    "appleOrderNo": "MU793ZD/A*",
+    "releaseDate": "September 12, 2023*",
+    "color": "Titanium Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 11 Pro (Global/A2215) 64, 256, 512 GB Specs",
+    "model": "A2215* (EMC 3307*)",
+    "ram": "4 GB*",
+    "storage": "64, 256, 512 GB",
+    "appleOrderNo": "MWC52B/A*",
+    "releaseDate": "September 10, 2019",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 15 (China/A3092) 128, 256, 512 GB Specs",
+    "model": "A3092* (EMC 8430*)",
+    "ram": "6 GB*",
+    "storage": "128, 256, 512 GB",
+    "appleOrderNo": "MTLG3CH/A*",
+    "releaseDate": "September 12, 2023*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 15 Plus (China/A3096) 128, 256, 512 GB Specs",
+    "model": "A3096* (EMC 8434*)",
+    "ram": "6 GB*",
+    "storage": "128, 256, 512 GB",
+    "appleOrderNo": "MTXD3CH/A*",
+    "releaseDate": "September 12, 2023*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone Xs (US/Canada/Hong Kong/A1920) 64, 256, 512 GB Specs",
+    "model": "A1920* (EMC 3218*)",
+    "ram": "4 GB*",
+    "storage": "64, 256, 512 GB",
+    "appleOrderNo": "MT952LL/A*",
+    "releaseDate": "September 12, 2018*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 14 Pro Max (China/A2896) 128, 256, 512 GB; 1 TB Specs",
+    "model": "A2896* (EMC 8156*)",
+    "ram": "6 GB*",
+    "storage": "128, 256, 512 GB; 1 TB",
+    "appleOrderNo": "MQ863ZA/A*",
+    "releaseDate": "September 7, 2022*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 13 Pro Max (CA/MX/JP/SA/A2641) 128, 256, 512 GB; 1 TB Specs",
+    "model": "A2641* (EMC 4005*)",
+    "ram": "6 GB*",
+    "storage": "128, 256, 512 GB; 1 TB",
+    "appleOrderNo": "MLJ73VC/A*",
+    "releaseDate": "September 14, 2021*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 16e (Global/A3409) 128, 256, 512 GB Specs",
+    "model": "A3409* (EMC 8727*)",
+    "ram": "8 GB*",
+    "storage": "128, 256, 512 GB",
+    "appleOrderNo": "MD1R4QN/A*",
+    "releaseDate": "February 19, 2025",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 16e (US/A3212) 128, 256, 512 GB Specs",
+    "model": "A3212* (EMC 8725*)",
+    "ram": "8 GB*",
+    "storage": "128, 256, 512 GB",
+    "appleOrderNo": "MD0E4LL/A*",
+    "releaseDate": "February 19, 2025",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 16 (CA/MX/JP/SA/A3286) 128, 256, 512 GB Specs",
+    "model": "A3286* (EMC 8689*)",
+    "ram": "8 GB*",
+    "storage": "128, 256, 512 GB",
+    "appleOrderNo": "MYDU3VC/A*",
+    "releaseDate": "September 9, 2024",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 11 Pro (China/Hong Kong/A2217) 64, 256, 512 GB Specs",
+    "model": "A2217* (EMC 3305*)",
+    "ram": "4 GB*",
+    "storage": "64, 256, 512 GB",
+    "appleOrderNo": "MWDC2ZA/A*",
+    "releaseDate": "September 10, 2019",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 6s Plus (Mainland China/A1699) 16, 32, 64, 128 GB Specs",
+    "model": "A1699 (EMC 2944*)",
+    "ram": "2 GB*",
+    "storage": "16, 32, 64, 128 GB",
+    "appleOrderNo": "ML6C2CH/A*",
+    "releaseDate": "September 9, 2015*",
+    "color": "Metallic*"
+  },
+  {
+    "deviceName": "Apple iPhone 15 Pro (CA/MX/JP/SA/A3101) 128, 256, 512 GB; 1 TB Specs",
+    "model": "A3101* (EMC 8436*)",
+    "ram": "8 GB*",
+    "storage": "128, 256, 512 GB; 1 TB",
+    "appleOrderNo": "MTU93VC/A*",
+    "releaseDate": "September 12, 2023*",
+    "color": "Titanium Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 14 Pro (China/A2892) 128, 256, 512 GB; 1 TB Specs",
+    "model": "A2892* (EMC 8152*)",
+    "ram": "6 GB*",
+    "storage": "128, 256, 512 GB; 1 TB",
+    "appleOrderNo": "MQ0D3ZA/A*",
+    "releaseDate": "September 7, 2022*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 13 Pro (CA/MX/JP/SA/A2636) 128, 256, 512 GB; 1 TB Specs",
+    "model": "A2636* (EMC 4002*)",
+    "ram": "6 GB*",
+    "storage": "128, 256, 512 GB; 1 TB",
+    "appleOrderNo": "MLUK3VC/A*",
+    "releaseDate": "September 14, 2021*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 16 Pro Max (China/A3297) 256 GB, 512 GB, 1 TB Specs",
+    "model": "A3297* (EMC 8687*)",
+    "ram": "8 GB*",
+    "storage": "256 GB, 512 GB, 1 TB",
+    "appleOrderNo": "MYTP3CH/A*",
+    "releaseDate": "September 9, 2024",
+    "color": "Titanium Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 16 Pro Max (CA/MX/JP/SA/A3295) 256 GB, 512 GB, 1 TB Specs",
+    "model": "A3295* (EMC 8685*)",
+    "ram": "8 GB*",
+    "storage": "256 GB, 512 GB, 1 TB",
+    "appleOrderNo": "MYWJ3VC/A*",
+    "releaseDate": "September 9, 2024",
+    "color": "Titanium Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 15 (US/A2846) 128, 256, 512 GB Specs",
+    "model": "A2846* (EMC 8427*)",
+    "ram": "6 GB*",
+    "storage": "128, 256, 512 GB",
+    "appleOrderNo": "MTLY3LL/A*",
+    "releaseDate": "September 12, 2023*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 14 Pro (CA/MX/JP/SA/A2889) 128, 256, 512 GB; 1 TB Specs",
+    "model": "A2889* (EMC 8150*)",
+    "ram": "6 GB*",
+    "storage": "128, 256, 512 GB; 1 TB",
+    "appleOrderNo": "MQ0F3VC/A*",
+    "releaseDate": "September 7, 2022*",
+    "color": "Metallic Glass*"
+  },
+  {
+    "deviceName": "Apple iPhone 14 Pro Max (CA/MX/JP/SA/A2893) 128, 256, 512 GB; 1 TB Specs",
+    "model": "A2893* (EMC 8154*)",
+    "ram": "6 GB*",
+    "storage": "128, 256, 512 GB; 1 TB",
+    "appleOrderNo": "MQ993VC/A*",
+    "releaseDate": "September 7, 2022*",
     "color": "Metallic Glass*"
   }
 ]
