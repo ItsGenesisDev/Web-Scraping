@@ -23,6 +23,11 @@ addButton.addEventListener('click', () => {
     const formData = new FormData(deviceForm);
     const newDevice = Object.fromEntries(formData.entries());
 
+    // Format the releaseDate field if it's a valid date
+    if (newDevice.releaseDate) {
+        newDevice.releaseDate = formatDateToYYYYMMDD(newDevice.releaseDate);
+    }
+
     devices.push(newDevice); // Add new device
     renderDevices();
     saveDevices();
@@ -37,6 +42,11 @@ updateButton.addEventListener('click', () => {
     if (selectedDeviceIndex !== null) {
         const formData = new FormData(deviceForm);
         const updatedDevice = Object.fromEntries(formData.entries());
+
+        // Format the releaseDate field if it's a valid date
+        if (updatedDevice.releaseDate) {
+            updatedDevice.releaseDate = formatDateToYYYYMMDD(updatedDevice.releaseDate);
+        }
 
         devices[selectedDeviceIndex] = updatedDevice; // Update the selected device
         renderDevices();
@@ -87,6 +97,11 @@ deviceForm.addEventListener('submit', (event) => {
     const formData = new FormData(deviceForm);
     const newDevice = Object.fromEntries(formData.entries());
 
+    // Check and format the releaseDate if it's a valid date
+    if (newDevice.releaseDate) {
+        newDevice.releaseDate = formatDateToYYYYMMDD(newDevice.releaseDate);
+    }
+
     const existingIndex = devices.findIndex(device => device.deviceName === newDevice.deviceName);
     if (existingIndex !== -1) {
         devices[existingIndex] = newDevice; // Update existing device
@@ -123,6 +138,24 @@ async function saveDevices() {
     } catch (error) {
         console.error('Error al guardar los dispositivos:', error);
     }
+}
+
+// Function to format date to yyyy-MM-dd
+function formatDateToYYYYMMDD(dateString) {
+    const date = new Date(dateString);
+
+    // Check if the date is valid
+    if (isNaN(date)) {
+        return ''; // Return empty string if the date is invalid
+    }
+
+    // Get year, month (0-indexed), and day
+    const year = date.getFullYear();
+    const month = String(date.getMonth() + 1).padStart(2, '0'); // Ensure month has 2 digits
+    const day = String(date.getDate()).padStart(2, '0'); // Ensure day has 2 digits
+
+    // Return the date in yyyy-MM-dd format
+    return `${year}-${month}-${day}`;
 }
 
 // Initialize the app

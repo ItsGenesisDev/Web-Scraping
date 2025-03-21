@@ -122,4 +122,4 @@ async function scrapeAllDevices() {
   await scrapeDevice('https://everymac.com/systems/apple/apple-watch/index-apple-watch-specs.html', '#contentcenter_specs_externalnav_wrapper #contentcenter_specs_externalnav_2 a', appleWatchSelectors, 'allSmartwatchInfo.json');
 }
 scrapeAllDevices();
-module.exports = { scrapeAllDevices };
+//module.exports = scrapeAllDevices;

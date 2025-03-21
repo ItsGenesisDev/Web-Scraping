@@ -1,0 +1,1145 @@
+[
+  {
+    "deviceName": "Apple iMac G5/2.0 20\" (ALS)  Specs",
+    "processor": "Integrated",
+    "model": "X 10.4 (8A428)",
+    "appleOrderNo": "3.6V Lithium",
+    "ram": "Radeon 9600",
+    "storage": "8X DL \"SuperDrive\"",
+    "releaseDate": "May 3, 2005"
+  },
+  {
+    "deviceName": "Apple iMac \"Core 2 Duo\" 2.4 20\" (Early 2008)  Specs",
+    "processor": "Core 2 Duo (E8135)",
+    "model": "A1224 (EMC 2210)",
+    "appleOrderNo": "MB323LL/A",
+    "ram": "1 GB",
+    "storage": "250 GB HDD",
+    "releaseDate": "April 28, 2008"
+  },
+  {
+    "deviceName": "Apple iMac G5/1.8 17\" (ALS)  Specs",
+    "processor": "Integrated",
+    "model": "X 10.4 (8A428)",
+    "appleOrderNo": "3.6V Lithium",
+    "ram": "Radeon 9600",
+    "storage": "8X \"Combo Drive\"",
+    "releaseDate": "May 3, 2005"
+  },
+  {
+    "deviceName": "Apple iMac \"Core 2 Duo\" 2.16 17\"  Specs",
+    "processor": "Core 2 Duo (T7400)",
+    "model": "A1208 (EMC 2114)",
+    "appleOrderNo": "BTO/CTO",
+    "ram": "1 GB",
+    "storage": "160 GB HDD",
+    "releaseDate": "September 6, 2006"
+  },
+  {
+    "deviceName": "Apple iMac \"Core 2 Duo\" 2.16 20\"  Specs",
+    "processor": "Core 2 Duo (T7400)",
+    "model": "A1207 (EMC 2118)",
+    "appleOrderNo": "MA589LL",
+    "ram": "1 GB",
+    "storage": "250 GB HDD",
+    "releaseDate": "September 6, 2006"
+  },
+  {
+    "deviceName": "Apple iMac \"Core 2 Duo\" 2.0 17\"  Specs",
+    "processor": "Core 2 Duo (T7200)",
+    "model": "A1208 (EMC 2114)",
+    "appleOrderNo": "MA590LL",
+    "ram": "1 GB",
+    "storage": "160 GB HDD",
+    "releaseDate": "September 6, 2006"
+  },
+  {
+    "deviceName": "Apple iMac G3/600 SE (Early 2001)  Specs",
+    "processor": "Integrated",
+    "model": "9.1*",
+    "appleOrderNo": "3.6V Lithium",
+    "ram": "Rage 128 Ultra",
+    "storage": "4X CD-RW",
+    "releaseDate": "February 22, 2001"
+  },
+  {
+    "deviceName": "Apple iMac G3/500 (Early 2001 - Flower/Blue)  Specs",
+    "processor": "Integrated",
+    "model": "9.1*",
+    "appleOrderNo": "3.6V Lithium",
+    "ram": "Rage 128 Ultra",
+    "storage": "4X CD-RW",
+    "releaseDate": "February 22, 2001"
+  },
+  {
+    "deviceName": "Apple iMac \"Core Duo\" 1.83 17\" (IG)  Specs",
+    "processor": "Core Duo (T2400)",
+    "model": "A1195 (EMC 2110)",
+    "appleOrderNo": "MA406LL/A",
+    "ram": "512 MB",
+    "storage": "80.0 GB HDD",
+    "releaseDate": "July 5, 2006"
+  },
+  {
+    "deviceName": "Apple iMac \"Core 2 Duo\" 2.66 24\" (Early 2009)  Specs",
+    "processor": "Core 2 Duo (E8135)",
+    "model": "A1225 (EMC 2267)",
+    "appleOrderNo": "MB418LL/A",
+    "ram": "4 GB",
+    "storage": "640 GB HDD",
+    "releaseDate": "March 3, 2009"
+  },
+  {
+    "deviceName": "Apple iMac \"Core 2 Duo\" 2.4 24\" (Al)  Specs",
+    "processor": "Core 2 Duo (T7700)",
+    "model": "A1225 (EMC 2134)",
+    "appleOrderNo": "MA878LL",
+    "ram": "1 GB",
+    "storage": "320 GB HDD",
+    "releaseDate": "August 7, 2007"
+  },
+  {
+    "deviceName": "Apple iMac \"Core 2 Duo\" 3.06 24\" (Early 2008)  Specs",
+    "processor": "Core 2 Duo (E8435)",
+    "model": "A1225 (EMC 2211)",
+    "appleOrderNo": "MB398LL/A",
+    "ram": "2 GB",
+    "storage": "500 GB HDD",
+    "releaseDate": "April 28, 2008"
+  },
+  {
+    "deviceName": "Apple iMac \"Core 2 Duo\" 2.16 24\"  Specs",
+    "processor": "Core 2 Duo (T7400)",
+    "model": "A1200 (EMC 2111)",
+    "appleOrderNo": "MA456LL",
+    "ram": "1 GB",
+    "storage": "250 GB HDD",
+    "releaseDate": "September 6, 2006"
+  },
+  {
+    "deviceName": "Apple iMac G5/1.8 17\"  Specs",
+    "processor": "Integrated",
+    "model": "X 10.3.5 (7P35)",
+    "appleOrderNo": "3.6V Lithium",
+    "ram": "GeForce FX 5200 Ultra*",
+    "storage": "4X \"SuperDrive\"",
+    "releaseDate": "August 31, 2004"
+  },
+  {
+    "deviceName": "Apple iMac G3/266 (Fruit Colors)  Specs",
+    "processor": "Integrated",
+    "model": "8.5.1",
+    "appleOrderNo": "3.6V Lithium",
+    "ram": "Rage Pro Turbo",
+    "storage": "24X CD-ROM",
+    "releaseDate": "January 5, 1999"
+  },
+  {
+    "deviceName": "Apple iMac G4/800 (Flat Panel)  Specs",
+    "processor": "Integrated",
+    "model": "9.2.2 & X 10.1.2",
+    "appleOrderNo": "3.6V Lithium",
+    "ram": "GeForce2 MX",
+    "storage": "2X \"SuperDrive\"",
+    "releaseDate": "January 7, 2002"
+  },
+  {
+    "deviceName": "Apple iMac G4/800 17\" (Flat Panel)  Specs",
+    "processor": "Integrated",
+    "model": "9.2.2 & X 10.1.2",
+    "appleOrderNo": "3.6V Lithium",
+    "ram": "GeForce4 MX",
+    "storage": "2X \"SuperDrive\"",
+    "releaseDate": "July 17, 2002"
+  },
+  {
+    "deviceName": "Apple iMac G3/350 (Summer 2000 - Indigo)  Specs",
+    "processor": "Integrated",
+    "model": "9.0.4",
+    "appleOrderNo": "3.6V Lithium",
+    "ram": "Rage 128 Pro",
+    "storage": "24X CD-ROM",
+    "releaseDate": "July 19, 2000"
+  },
+  {
+    "deviceName": "Apple iMac G4/700 (Flat Panel)  Specs",
+    "processor": "Integrated",
+    "model": "9.2.2 & X 10.1.2",
+    "appleOrderNo": "3.6V Lithium",
+    "ram": "GeForce2 MX",
+    "storage": "10X CD-RW/\"Combo\"*",
+    "releaseDate": "January 7, 2002"
+  },
+  {
+    "deviceName": "Apple iMac G5/1.9 17\" (iSight)  Specs",
+    "processor": "Integrated",
+    "model": "X 10.4.2 (8E102)",
+    "appleOrderNo": "3.6V Lithium",
+    "ram": "Radeon X600 Pro",
+    "storage": "8X DL \"SuperDrive\"",
+    "releaseDate": "October 12, 2005"
+  },
+  {
+    "deviceName": "Apple iMac \"Core 2 Duo\" 2.33 24\"  Specs",
+    "processor": "Core 2 Duo (T7600)",
+    "model": "A1200 (EMC 2111)",
+    "appleOrderNo": "BTO/CTO",
+    "ram": "1 GB",
+    "storage": "250 GB HDD",
+    "releaseDate": "September 6, 2006"
+  },
+  {
+    "deviceName": "Apple iMac G3/500 DV SE (Summer 2000)  Specs",
+    "processor": "Integrated",
+    "model": "9.0.4",
+    "appleOrderNo": "3.6V Lithium",
+    "ram": "Rage 128 Pro",
+    "storage": "4X DVD-ROM",
+    "releaseDate": "July 19, 2000"
+  },
+  {
+    "deviceName": "Apple iMac G4/1.25 20\" \"FP\" (USB 2.0)  Specs",
+    "processor": "Integrated",
+    "model": "X 10.3.1",
+    "appleOrderNo": "3.6V Lithium",
+    "ram": "GeForce FX 5200 Ultra",
+    "storage": "4X \"SuperDrive\"",
+    "releaseDate": "November 18, 2003"
+  },
+  {
+    "deviceName": "Apple iMac G3/400 DV (Summer 2000 - I/R)  Specs",
+    "processor": "Integrated",
+    "model": "9.0.4",
+    "appleOrderNo": "3.6V Lithium",
+    "ram": "Rage 128 Pro",
+    "storage": "24X CD-ROM",
+    "releaseDate": "July 19, 2000"
+  },
+  {
+    "deviceName": "Apple iMac G4/1.0 15\" \"FP\" (USB 2.0)  Specs",
+    "processor": "Integrated",
+    "model": "X 10.2.3",
+    "appleOrderNo": "3.6V Lithium",
+    "ram": "GeForce4 MX",
+    "storage": "32X \"Combo Drive\"",
+    "releaseDate": "September 8, 2003"
+  },
+  {
+    "deviceName": "Apple iMac G4/1.25 17\" \"FP\" (USB 2.0)  Specs",
+    "processor": "Integrated",
+    "model": "X 10.2.3",
+    "appleOrderNo": "3.6V Lithium",
+    "ram": "GeForce FX 5200 Ultra",
+    "storage": "4X \"SuperDrive\"",
+    "releaseDate": "September 8, 2003"
+  },
+  {
+    "deviceName": "Apple iMac G3/700 SE (Summer 2001)  Specs",
+    "processor": "Integrated",
+    "model": "9.1, X 10.0.4*",
+    "appleOrderNo": "3.6V Lithium",
+    "ram": "Rage 128 Ultra",
+    "storage": "4X CD-RW",
+    "releaseDate": "July 18, 2001"
+  },
+  {
+    "deviceName": "Apple iMac \"Core 2 Duo\" 3.33 27\" (Late 2009)  Specs",
+    "processor": "Core 2 Duo (E8600)",
+    "model": "A1312 (EMC 2309)",
+    "appleOrderNo": "BTO/CTO",
+    "ram": "4 GB",
+    "storage": "1 TB HDD",
+    "releaseDate": "October 20, 2009"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i5\" 3.6 27\" (Mid-2010)  Specs",
+    "processor": "Core i5 (I5-680)",
+    "model": "A1312 (EMC 2390)",
+    "appleOrderNo": "BTO/CTO",
+    "ram": "4 GB",
+    "storage": "1 TB HDD",
+    "releaseDate": "July 27, 2010"
+  },
+  {
+    "deviceName": "Apple iMac \"Core 2 Duo\" 2.0 20\" (Mid-2009)  Specs",
+    "processor": "Core 2 Duo (P7350)",
+    "model": "A1224 (EMC 2266)",
+    "appleOrderNo": "MC015LL/A",
+    "ram": "1 GB",
+    "storage": "160 GB HDD",
+    "releaseDate": "April 7, 2009"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i3\" 3.06 21.5\" (Mid-2010)  Specs",
+    "processor": "Core i3 (I3-540)",
+    "model": "A1311 (EMC 2389)",
+    "appleOrderNo": "MC508LL/A",
+    "ram": "4 GB",
+    "storage": "500 GB HDD",
+    "releaseDate": "July 27, 2010"
+  },
+  {
+    "deviceName": "Apple iMac G5/1.8 20\"  Specs",
+    "processor": "Integrated",
+    "model": "X 10.3.5 (7P35)",
+    "appleOrderNo": "3.6V Lithium",
+    "ram": "GeForce FX 5200 Ultra*",
+    "storage": "4X \"SuperDrive\"",
+    "releaseDate": "August 31, 2004"
+  },
+  {
+    "deviceName": "Apple iMac G5/2.1 20\" (iSight)  Specs",
+    "processor": "Integrated",
+    "model": "X 10.4.2 (8E102)",
+    "appleOrderNo": "3.6V Lithium",
+    "ram": "Radeon X600 XT",
+    "storage": "8X DL \"SuperDrive\"",
+    "releaseDate": "October 12, 2005"
+  },
+  {
+    "deviceName": "Apple iMac \"Core 2 Duo\" 3.06 21.5\" (Late 2009)  Specs",
+    "processor": "Core 2 Duo (E7600)",
+    "model": "A1311 (EMC 2308)",
+    "appleOrderNo": "MB950LL/A*",
+    "ram": "4 GB",
+    "storage": "500 GB, 1 TB HDD",
+    "releaseDate": "October 20, 2009"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i7\" 2.8 27\" (Late 2009)  Specs",
+    "processor": "Core i7 (I7-860)",
+    "model": "A1312 (EMC 2374)",
+    "appleOrderNo": "MC507LL/A",
+    "ram": "4 GB",
+    "storage": "1 TB HDD",
+    "releaseDate": "October 20, 2009"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i5\" 3.6 21.5\" (Mid-2010)  Specs",
+    "processor": "Core i5 (I5-680)",
+    "model": "A1311 (EMC 2389)",
+    "appleOrderNo": "BTO/CTO",
+    "ram": "4 GB",
+    "storage": "1 TB HDD",
+    "releaseDate": "July 27, 2010"
+  },
+  {
+    "deviceName": "Apple iMac \"Core 2 Duo\" 2.66 20\" (Early 2008)  Specs",
+    "processor": "Core 2 Duo (E8335)",
+    "model": "A1224 (EMC 2210)",
+    "appleOrderNo": "MB324LL/A",
+    "ram": "2 GB",
+    "storage": "320 GB HDD",
+    "releaseDate": "April 28, 2008"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i5\" 2.7 21.5\" (Late 2013)  Specs",
+    "processor": "Core i5 (I5-4570R)",
+    "model": "A1418 (EMC 2638)",
+    "appleOrderNo": "ME086LL/A",
+    "ram": "8 GB",
+    "storage": "1 TB HDD",
+    "releaseDate": "September 24, 2013"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i7\" 3.4 27\" (Mid-2011)  Specs",
+    "processor": "Core i7 (I7-2600)",
+    "model": "A1312 (EMC 2429)",
+    "appleOrderNo": "MD063LL/A",
+    "ram": "4 GB",
+    "storage": "1 TB HDD",
+    "releaseDate": "May 3, 2011"
+  },
+  {
+    "deviceName": "Apple iMac \"Core 2 Duo\" 2.33 20\"  Specs",
+    "processor": "Core 2 Duo (T7600)",
+    "model": "A1207 (EMC 2118)",
+    "appleOrderNo": "BTO/CTO",
+    "ram": "1 GB",
+    "storage": "250 GB HDD",
+    "releaseDate": "September 6, 2006"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i5\" 2.9 21.5\" (Late 2012)  Specs",
+    "processor": "Core i5 (I5-3470S)",
+    "model": "A1418 (EMC 2544)",
+    "appleOrderNo": "MD094LL/A",
+    "ram": "8 GB",
+    "storage": "1 TB HDD",
+    "releaseDate": "October 23, 2012"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i5\" 2.7 27\" (Mid-2011)  Specs",
+    "processor": "Core i5 (I5-2500S)",
+    "model": "A1312 (EMC 2429)",
+    "appleOrderNo": "MC813LL/A",
+    "ram": "4 GB",
+    "storage": "1 TB HDD",
+    "releaseDate": "May 3, 2011"
+  },
+  {
+    "deviceName": "Apple iMac \"Core Duo\" 1.83 17\"  Specs",
+    "processor": "Core Duo (T2400)",
+    "model": "A1173 (EMC 2104)",
+    "appleOrderNo": "MA199LL",
+    "ram": "512 MB",
+    "storage": "160.0 GB HDD",
+    "releaseDate": "January 10, 2006"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i5\" 2.8 27\" (Mid-2010)  Specs",
+    "processor": "Core i5 (I5-760)",
+    "model": "A1312 (EMC 2390)",
+    "appleOrderNo": "MC511LL/A",
+    "ram": "4 GB",
+    "storage": "1 TB HDD",
+    "releaseDate": "July 27, 2010"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i5\" 2.9 27\" (Late 2012)  Specs",
+    "processor": "Core i5 (I5-3470S)",
+    "model": "A1419 (EMC 2546)",
+    "appleOrderNo": "MD095LL/A",
+    "ram": "8 GB",
+    "storage": "1 TB HDD",
+    "releaseDate": "October 23, 2012"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i5\" 1.6 21.5\" (Late 2015)  Specs",
+    "processor": "Core i5 (I5-5250U)",
+    "model": "A1418 (EMC 2889)",
+    "appleOrderNo": "MK142LL/A",
+    "ram": "8 GB",
+    "storage": "1 TB HDD",
+    "releaseDate": "October 13, 2015"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i7\" 3.1 21.5\" (Late 2013)  Specs",
+    "processor": "Core i7 (I7-4770S)",
+    "model": "A1418 (EMC 2742)",
+    "appleOrderNo": "BTO/CTO",
+    "ram": "8 GB",
+    "storage": "1 TB HDD",
+    "releaseDate": "September 24, 2013"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i5\" 3.1 27\" (Mid-2011)  Specs",
+    "processor": "Core i5 (I5-2400)",
+    "model": "A1312 (EMC 2429)",
+    "appleOrderNo": "MC814LL/A",
+    "ram": "4 GB",
+    "storage": "1 TB HDD",
+    "releaseDate": "May 3, 2011"
+  },
+  {
+    "deviceName": "Apple iMac \"Core 2 Duo\" 3.06 24\" (Early 2009)  Specs",
+    "processor": "Core 2 Duo (E8435)",
+    "model": "A1225 (EMC 2267/2134*)",
+    "appleOrderNo": "MB420LL/A",
+    "ram": "4 GB",
+    "storage": "1 TB HDD",
+    "releaseDate": "March 3, 2009"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i5\" 2.66 27\" (Late 2009)  Specs",
+    "processor": "Core i5 (I5-750)",
+    "model": "A1312 (EMC 2374)",
+    "appleOrderNo": "MB953LL/A",
+    "ram": "4 GB",
+    "storage": "1 TB HDD",
+    "releaseDate": "October 20, 2009"
+  },
+  {
+    "deviceName": "Apple iMac \"Core 2 Duo\" 2.26 20\" (Mid-2009)  Specs",
+    "processor": "Core 2 Duo (P7550)",
+    "model": "A1224 (EMC 2316)",
+    "appleOrderNo": "MC015LL/B*",
+    "ram": "1 GB, 2 GB*",
+    "storage": "160 GB HDD",
+    "releaseDate": "March 4, 2010*"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i5\" 1.4 21.5\" (Mid-2014)  Specs",
+    "processor": "Core i5 (I5-4260U)",
+    "model": "A1418 (EMC 2805)",
+    "appleOrderNo": "MF883LL/A",
+    "ram": "8 GB",
+    "storage": "500 GB HDD",
+    "releaseDate": "June 18, 2014"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i7\" 3.4 27\" (Late 2012)  Specs",
+    "processor": "Core i7 (I7-3770)",
+    "model": "A1419 (EMC 2546)",
+    "appleOrderNo": "BTO/CTO",
+    "ram": "8 GB",
+    "storage": "1 TB HDD",
+    "releaseDate": "October 23, 2012"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i3\" 3.1 21.5\" (Late 2011)  Specs",
+    "processor": "Core i3 (I3-2100)",
+    "model": "A1311 (EMC 2496)",
+    "appleOrderNo": "MC978LL/A",
+    "ram": "2 GB",
+    "storage": "250 GB HDD",
+    "releaseDate": "August 8, 2011"
+  },
+  {
+    "deviceName": "Apple iMac \"Core 2 Duo\" 3.06 27\" (Late 2009)  Specs",
+    "processor": "Core 2 Duo (E7600)",
+    "model": "A1312 (EMC 2309)",
+    "appleOrderNo": "MB952LL/A",
+    "ram": "4 GB",
+    "storage": "1 TB HDD",
+    "releaseDate": "October 20, 2009"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i5\" 2.5 21.5\" (Mid-2011)  Specs",
+    "processor": "Core i5 (I5-2400S)",
+    "model": "A1311 (EMC 2428)",
+    "appleOrderNo": "MC309LL/A",
+    "ram": "4 GB",
+    "storage": "500 GB HDD",
+    "releaseDate": "May 3, 2011"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i5\" 3.4 27\" (Late 2013)  Specs",
+    "processor": "Core i5 (I5-4670)",
+    "model": "A1419 (EMC 2639)",
+    "appleOrderNo": "ME089LL/A",
+    "ram": "8 GB",
+    "storage": "1 TB HDD",
+    "releaseDate": "September 24, 2013"
+  },
+  {
+    "deviceName": "Apple iMac \"Core 2 Duo\" 2.8 24\" (Early 2008)  Specs",
+    "processor": "Core 2 Duo (E8235)",
+    "model": "A1225 (EMC 2211)",
+    "appleOrderNo": "MB325LL/A",
+    "ram": "2 GB",
+    "storage": "320 GB HDD",
+    "releaseDate": "April 28, 2008"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i7\" 2.8 21.5\" (Mid-2011)  Specs",
+    "processor": "Core i7 (I7-2600S)",
+    "model": "A1311 (EMC 2428)",
+    "appleOrderNo": "BTO/CTO",
+    "ram": "4 GB",
+    "storage": "1 TB HDD",
+    "releaseDate": "May 3, 2011"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i5\" 3.2 27\" (Late 2012)  Specs",
+    "processor": "Core i5 (I5-3470)",
+    "model": "A1419 (EMC 2546)",
+    "appleOrderNo": "MD096LL/A",
+    "ram": "8 GB",
+    "storage": "1 TB HDD",
+    "releaseDate": "October 23, 2012"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i5\" 2.7 21.5\" (Mid-2011)  Specs",
+    "processor": "Core i5 (I5-2500S)",
+    "model": "A1311 (EMC 2428)",
+    "appleOrderNo": "MC812LL/A",
+    "ram": "4 GB",
+    "storage": "1 TB HDD",
+    "releaseDate": "May 3, 2011"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i3\" 3.2 27\" (Mid-2010)  Specs",
+    "processor": "Core i3 (I3-550)",
+    "model": "A1312 (EMC 2390)",
+    "appleOrderNo": "MC510LL/A",
+    "ram": "4 GB",
+    "storage": "1 TB HDD",
+    "releaseDate": "July 27, 2010"
+  },
+  {
+    "deviceName": "Apple iMac \"Core 2 Extreme\" 2.8 24\" (Al)  Specs",
+    "processor": "Core 2 Extreme* (X7900)",
+    "model": "A1225 (EMC 2134)",
+    "appleOrderNo": "BTO/CTO",
+    "ram": "2 GB",
+    "storage": "500 GB HDD",
+    "releaseDate": "August 7, 2007"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i5\" 3.2 27\" (Late 2013)  Specs",
+    "processor": "Core i5 (I5-4570)",
+    "model": "A1419 (EMC 2639)",
+    "appleOrderNo": "ME088LL/A",
+    "ram": "8 GB",
+    "storage": "1 TB HDD",
+    "releaseDate": "September 24, 2013"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i5\" 3.5 27\" (5K, Late 2014)  Specs",
+    "processor": "Core i5 (I5-4690)",
+    "model": "A1419 (EMC 2806)",
+    "appleOrderNo": "MF886LL/A",
+    "ram": "8 GB",
+    "storage": "1 TB (Fusion)",
+    "releaseDate": "October 16, 2014*"
+  },
+  {
+    "deviceName": "Apple iMac \"Core 2 Duo\" 2.66 20\" (Early 2009)  Specs",
+    "processor": "Core 2 Duo (E8135)",
+    "model": "A1224 (EMC 2266)",
+    "appleOrderNo": "MB417LL/A",
+    "ram": "2 GB",
+    "storage": "320 GB HDD",
+    "releaseDate": "March 3, 2009"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i7\" 4.0 27\" (5K, Late 2014)  Specs",
+    "processor": "Core i7 (I7-4790K)",
+    "model": "A1419 (EMC 2806)",
+    "appleOrderNo": "BTO/CTO",
+    "ram": "8 GB",
+    "storage": "1 TB (Fusion)",
+    "releaseDate": "October 16, 2014*"
+  },
+  {
+    "deviceName": "Apple iMac \"Core Duo\" 2.0 20\"  Specs",
+    "processor": "Core Duo (T2500)",
+    "model": "A1174 (EMC 2105)",
+    "appleOrderNo": "MA200LL",
+    "ram": "512 MB",
+    "storage": "250.0 GB HDD",
+    "releaseDate": "January 10, 2006"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i5\" 2.8 21.5\" (Late 2015)  Specs",
+    "processor": "Core i5 (I5-5575R)",
+    "model": "A1418 (EMC 2889)",
+    "appleOrderNo": "MK442LL/A",
+    "ram": "8 GB",
+    "storage": "1 TB HDD",
+    "releaseDate": "October 13, 2015"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i5\" 2.9 21.5\" (Late 2013)  Specs",
+    "processor": "Core i5 (I5-4570S)",
+    "model": "A1418 (EMC 2742)",
+    "appleOrderNo": "ME087LL/A",
+    "ram": "8 GB",
+    "storage": "1 TB HDD",
+    "releaseDate": "September 24, 2013"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i7\" 3.1 21.5\" (Late 2012)  Specs",
+    "processor": "Core i7 (I7-3770S)",
+    "model": "A1418 (EMC 2544)",
+    "appleOrderNo": "BTO/CTO",
+    "ram": "8 GB",
+    "storage": "1 TB HDD",
+    "releaseDate": "October 23, 2012"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i5\" 2.7 21.5\" (Late 2012)  Specs",
+    "processor": "Core i5 (I5-3330S)",
+    "model": "A1418 (EMC 2544)",
+    "appleOrderNo": "MD093LL/A",
+    "ram": "8 GB",
+    "storage": "1 TB HDD",
+    "releaseDate": "October 23, 2012"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i3\" 3.3 21.5\" (Early 2013)  Specs",
+    "processor": "Core i3 (I3-3225)",
+    "model": "A1418 (EMC 2545)",
+    "appleOrderNo": "ME699LL/A",
+    "ram": "4 GB",
+    "storage": "500 GB HDD",
+    "releaseDate": "March 5, 2013"
+  },
+  {
+    "deviceName": "Apple iMac \"Core 2 Duo\" 3.33 21.5\" (Late 2009)  Specs",
+    "processor": "Core 2 Duo (E8600)",
+    "model": "A1311 (EMC 2308)",
+    "appleOrderNo": "BTO/CTO",
+    "ram": "4 GB",
+    "storage": "500 GB, 1 TB HDD",
+    "releaseDate": "October 20, 2009"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i9\" 3.6 27\" (5K, 2020; 5700/XT)  Specs",
+    "processor": "Core i9 (I9-10910)",
+    "model": "A2115 (EMC 3442)",
+    "appleOrderNo": "BTO/CTO",
+    "ram": "8 GB",
+    "storage": "512 GB SSD",
+    "releaseDate": "August 4, 2020"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i5\" 3.1 27\" (5K, 2020)  Specs",
+    "processor": "Core i5 (I5-10500)",
+    "model": "A2115 (EMC 3442)",
+    "appleOrderNo": "MXWT2LL/A",
+    "ram": "8 GB",
+    "storage": "256 GB SSD",
+    "releaseDate": "August 4, 2020"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i5\" 3.0 27\" (5K, 2019)  Specs",
+    "processor": "Core i5 (I5-8500)",
+    "model": "A2115 (EMC 3194)",
+    "appleOrderNo": "MRQY2LL/A",
+    "ram": "8 GB",
+    "storage": "1 TB (Fusion)",
+    "releaseDate": "March 19, 2019"
+  },
+  {
+    "deviceName": "Apple iMac G3/333 (Fruit Colors)  Specs",
+    "processor": "Integrated",
+    "model": "8.6",
+    "appleOrderNo": "3.6V Lithium",
+    "ram": "Rage Pro Turbo",
+    "storage": "24X CD-ROM",
+    "releaseDate": "April 14, 1999"
+  },
+  {
+    "deviceName": "Apple iMac \"M3\" 8 CPU/8 GPU/2 Ports 24\"  Specs",
+    "processor": "Apple M3",
+    "model": "A2874 (EMC 8207*)",
+    "appleOrderNo": "MQRC3LL/A*",
+    "ram": "8 GB",
+    "storage": "256 GB SSD",
+    "releaseDate": "October 30, 2023*"
+  },
+  {
+    "deviceName": "Apple iMac G3/400 DV SE (Slot Loading)  Specs",
+    "processor": "Integrated",
+    "model": "8.6",
+    "appleOrderNo": "3.6V Lithium",
+    "ram": "Rage 128 VR 2D/3D",
+    "storage": "4X DVD-ROM",
+    "releaseDate": "October 5, 1999"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i5\" 3.4 21.5\" (4K, Mid-2017)  Specs",
+    "processor": "Core i5 (I5-7500)",
+    "model": "A1418 (EMC 3069)",
+    "appleOrderNo": "MNE02LL/A",
+    "ram": "8 GB",
+    "storage": "1 TB (Fusion)",
+    "releaseDate": "June 5, 2017"
+  },
+  {
+    "deviceName": "Apple iMac G3/450 DV+ (Summer 2000)  Specs",
+    "processor": "Integrated",
+    "model": "9.0.4",
+    "appleOrderNo": "3.6V Lithium",
+    "ram": "Rage 128 Pro",
+    "storage": "4X DVD-ROM",
+    "releaseDate": "July 19, 2000"
+  },
+  {
+    "deviceName": "Apple iMac G3/600 (Summer 2001)  Specs",
+    "processor": "Integrated",
+    "model": "9.1, X 10.0.4*",
+    "appleOrderNo": "3.6V Lithium",
+    "ram": "Rage 128 Ultra",
+    "storage": "4X CD-RW",
+    "releaseDate": "July 18, 2001*"
+  },
+  {
+    "deviceName": "Apple iMac G5/1.6 17\"  Specs",
+    "processor": "Integrated",
+    "model": "X 10.3.5 (7P35)",
+    "appleOrderNo": "3.6V Lithium",
+    "ram": "GeForce FX 5200 Ultra*",
+    "storage": "8X \"Combo Drive\"",
+    "releaseDate": "August 31, 2004"
+  },
+  {
+    "deviceName": "Apple iMac G3/400 DV (Slot Loading - Fruit)  Specs",
+    "processor": "Integrated",
+    "model": "8.6",
+    "appleOrderNo": "3.6V Lithium",
+    "ram": "Rage 128 VR 2D/3D",
+    "storage": "4X DVD-ROM",
+    "releaseDate": "October 5, 1999"
+  },
+  {
+    "deviceName": "Apple iMac G4/800 - X Only (Flat Panel)  Specs",
+    "processor": "Integrated",
+    "model": "X 10.2.3",
+    "appleOrderNo": "3.6V Lithium",
+    "ram": "GeForce2 MX",
+    "storage": "32X \"Combo Drive\"",
+    "releaseDate": "February 4, 2003"
+  },
+  {
+    "deviceName": "Apple iMac G3/350 (Slot Loading - Blueberry)  Specs",
+    "processor": "Integrated",
+    "model": "8.6",
+    "appleOrderNo": "3.6V Lithium",
+    "ram": "Rage 128 VR 2D/3D",
+    "storage": "24X CD-ROM",
+    "releaseDate": "October 5, 1999"
+  },
+  {
+    "deviceName": "Apple iMac \"Core 2 Duo\" 1.83 17\" (IG)  Specs",
+    "processor": "Core 2 Duo (T5600)",
+    "model": "A1195 (EMC 2124)",
+    "appleOrderNo": "MA710LL",
+    "ram": "512 MB, 1 GB*",
+    "storage": "160 GB HDD",
+    "releaseDate": "September 6, 2006"
+  },
+  {
+    "deviceName": "Apple iMac G3/233 Original - Bondi (Rev. A & B)  Specs",
+    "processor": "Integrated",
+    "model": "8.1, 8.5",
+    "appleOrderNo": "3.6V Lithium",
+    "ram": "Rage IIc*",
+    "storage": "24X CD-ROM",
+    "releaseDate": "May 6, 1998*"
+  },
+  {
+    "deviceName": "Apple iMac G5/2.0 17\" (ALS)  Specs",
+    "processor": "Integrated",
+    "model": "X 10.4 (8A428)",
+    "appleOrderNo": "3.6V Lithium",
+    "ram": "Radeon 9600",
+    "storage": "8X DL \"SuperDrive\"",
+    "releaseDate": "May 3, 2005"
+  },
+  {
+    "deviceName": "Apple iMac G4/1.0 17\" (Flat Panel)  Specs",
+    "processor": "Integrated",
+    "model": "X 10.2.3",
+    "appleOrderNo": "3.6V Lithium",
+    "ram": "GeForce4 MX",
+    "storage": "4X \"SuperDrive\"",
+    "releaseDate": "February 4, 2003"
+  },
+  {
+    "deviceName": "Apple iMac G3/500 (Summer 2001 - I/S)  Specs",
+    "processor": "Integrated",
+    "model": "9.1, X 10.0.4*",
+    "appleOrderNo": "3.6V Lithium",
+    "ram": "Rage 128 Ultra",
+    "storage": "24X CD, 4X CD-RW*",
+    "releaseDate": "July 18, 2001*"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i7\" 2.93 27\" (Mid-2010)  Specs",
+    "processor": "Core i7 (I7-870)",
+    "model": "A1312 (EMC 2390)",
+    "appleOrderNo": "MC784LL/A",
+    "ram": "4 GB",
+    "storage": "1 TB HDD",
+    "releaseDate": "July 27, 2010"
+  },
+  {
+    "deviceName": "Apple iMac \"Core 2 Duo\" 2.0 20\" (Al)  Specs",
+    "processor": "Core 2 Duo (T7300)",
+    "model": "A1224 (EMC 2133)",
+    "appleOrderNo": "MA876LL",
+    "ram": "1 GB",
+    "storage": "250 GB HDD",
+    "releaseDate": "August 7, 2007"
+  },
+  {
+    "deviceName": "Apple iMac G3/400 (Early 2001 - Indigo)  Specs",
+    "processor": "Integrated",
+    "model": "9.1",
+    "appleOrderNo": "3.6V Lithium",
+    "ram": "Rage 128 Pro",
+    "storage": "24X CD-ROM",
+    "releaseDate": "February 22, 2001"
+  },
+  {
+    "deviceName": "Apple iMac \"Core 2 Duo\" 2.93 24\" (Early 2009)  Specs",
+    "processor": "Core 2 Duo (E8335)",
+    "model": "A1225 (EMC 2267)",
+    "appleOrderNo": "MB419LL/A",
+    "ram": "4 GB",
+    "storage": "640 GB HDD",
+    "releaseDate": "March 3, 2009"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i5\" 3.3 27\" (5K, Mid-2015)  Specs",
+    "processor": "Core i5 (I5-4590)",
+    "model": "A1419 (EMC 2806)",
+    "appleOrderNo": "MF885LL/A",
+    "ram": "8 GB",
+    "storage": "1 TB HDD",
+    "releaseDate": "May 19, 2015"
+  },
+  {
+    "deviceName": "Apple iMac \"Core 2 Duo\" 2.4 20\" (Al)  Specs",
+    "processor": "Core 2 Duo (T7700)",
+    "model": "A1224 (EMC 2133)",
+    "appleOrderNo": "MA877LL",
+    "ram": "1 GB",
+    "storage": "320 GB HDD",
+    "releaseDate": "August 7, 2007"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i3\" 3.2 21.5\" (Mid-2010)  Specs",
+    "processor": "Core i3 (I3-550)",
+    "model": "A1311 (EMC 2389)",
+    "appleOrderNo": "MC509LL/A",
+    "ram": "4 GB",
+    "storage": "1 TB HDD",
+    "releaseDate": "July 27, 2010"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i7\" 3.5 27\" (Late 2013)  Specs",
+    "processor": "Core i7 (I7-4771)",
+    "model": "A1419 (EMC 2639)",
+    "appleOrderNo": "MF125LL/A",
+    "ram": "8 GB",
+    "storage": "1 TB HDD",
+    "releaseDate": "September 24, 2013"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i5\" 3.3 27\" (5K, Late 2015)  Specs",
+    "processor": "Core i5 (I5-6600)",
+    "model": "A1419 (EMC 2834)",
+    "appleOrderNo": "MK482LL/A",
+    "ram": "8 GB",
+    "storage": "2 TB (Fusion)",
+    "releaseDate": "October 13, 2015"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i9\" 3.6 27\" (5K, 2020)  Specs",
+    "processor": "Core i9 (I9-10910)",
+    "model": "A2115 (EMC 3442)",
+    "appleOrderNo": "BTO/CTO",
+    "ram": "8 GB",
+    "storage": "512 GB SSD*",
+    "releaseDate": "August 4, 2020"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i5\" 3.7 27\" (5K, 2019)  Specs",
+    "processor": "Core i5 (I5-9600K)",
+    "model": "A2115 (EMC 3194)",
+    "appleOrderNo": "MRR12LL/A",
+    "ram": "8 GB",
+    "storage": "2 TB (Fusion)",
+    "releaseDate": "March 19, 2019"
+  },
+  {
+    "deviceName": "Apple iMac \"M1\" 8 CPU/7 GPU/2 Ports 24\"  Specs",
+    "processor": "Apple M1",
+    "model": "A2439 (EMC 3664)",
+    "appleOrderNo": "MJV93LL/A*",
+    "ram": "8 GB",
+    "storage": "256 GB SSD",
+    "releaseDate": "April 20, 2021*"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i7\" 4.0 27\" (5K, Late 2015)  Specs",
+    "processor": "Core i7 (I7-6700K)",
+    "model": "A1419 (EMC 2834)",
+    "appleOrderNo": "BTO/CTO",
+    "ram": "8 GB",
+    "storage": "1 TB, 2 TB (Fusion)*",
+    "releaseDate": "October 13, 2015"
+  },
+  {
+    "deviceName": "Apple iMac \"M1\" 8 CPU/8 GPU/4 Ports 24\"  Specs",
+    "processor": "Apple M1",
+    "model": "A2438 (EMC 3663)",
+    "appleOrderNo": "MGPK3LL/A*",
+    "ram": "8 GB",
+    "storage": "256 GB, 512 GB SSD",
+    "releaseDate": "April 20, 2021*"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i5\" 3.2 27\" (5K, Late 2015)  Specs",
+    "processor": "Core i5 (I5-6500)",
+    "model": "A1419 (EMC 2834)",
+    "appleOrderNo": "MK462LL/A*",
+    "ram": "8 GB",
+    "storage": "1 TB HDD",
+    "releaseDate": "October 13, 2015"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i9\" 3.6 27\" (5K, 2019)  Specs",
+    "processor": "Core i9 (I9-9900K)",
+    "model": "A2115 (EMC 3194)",
+    "appleOrderNo": "BTO/CTO",
+    "ram": "8 GB",
+    "storage": "1, 2 TB* (Fusion)",
+    "releaseDate": "March 19, 2019"
+  },
+  {
+    "deviceName": "Apple iMac \"M3\" 8 CPU/10 GPU/4 Ports 24\"  Specs",
+    "processor": "Apple M3",
+    "model": "A2873 (EMC 8206*)",
+    "appleOrderNo": "MQRQ3LL/A*",
+    "ram": "8 GB",
+    "storage": "256 GB, 512 GB SSD",
+    "releaseDate": "October 30, 2023*"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i7\" 3.6 21.5\" (4K, Mid-2017)  Specs",
+    "processor": "Core i7 (I7-7700)",
+    "model": "A1418 (EMC 3069)",
+    "appleOrderNo": "BTO/CTO",
+    "ram": "8 GB",
+    "storage": "1 TB HDD/Fusion*",
+    "releaseDate": "June 5, 2017"
+  },
+  {
+    "deviceName": "Apple iMac \"M4\" 8 CPU/8 GPU/2 Ports 24\"  Specs",
+    "processor": "Apple M4",
+    "model": "A3247 (EMC 8531*)",
+    "appleOrderNo": "MWUF3LL/A*",
+    "ram": "16 GB",
+    "storage": "256 GB SSD",
+    "releaseDate": "October 28, 2024"
+  },
+  {
+    "deviceName": "Apple iMac \"M4\" 10 CPU/10 GPU/4 Ports 24\"  Specs",
+    "processor": "Apple M4",
+    "model": "A3137 (EMC 8532*)",
+    "appleOrderNo": "MWV13LL/A*",
+    "ram": "16, 24 GB",
+    "storage": "256 GB, 512 GB SSD",
+    "releaseDate": "October 28, 2024"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i5\" 3.0 21.5\" (4K, Mid-2017)  Specs",
+    "processor": "Core i5 (I5-7400)",
+    "model": "A1418 (EMC 3069)",
+    "appleOrderNo": "MNDY2LL/A",
+    "ram": "8 GB",
+    "storage": "1 TB HDD",
+    "releaseDate": "June 5, 2017"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i7\" 3.8 27\" (5K, 2020; 5700/XT)  Specs",
+    "processor": "Core i7 (I7-10700K)",
+    "model": "A2115 (EMC 3442)",
+    "appleOrderNo": "BTO/CTO",
+    "ram": "8 GB",
+    "storage": "512 GB SSD",
+    "releaseDate": "August 4, 2020"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i5\" 3.4 27\" (5K, Mid-2017)  Specs",
+    "processor": "Core i5 (I5-7500)",
+    "model": "A1419 (EMC 3070)",
+    "appleOrderNo": "MNE92LL/A",
+    "ram": "8 GB",
+    "storage": "1 TB (Fusion)",
+    "releaseDate": "June 5, 2017"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i5\" 3.1 27\" (5K, 2019)  Specs",
+    "processor": "Core i5 (I5-8600)",
+    "model": "A2115 (EMC 3194)",
+    "appleOrderNo": "MRR02LL/A",
+    "ram": "8 GB",
+    "storage": "1 TB (Fusion)",
+    "releaseDate": "March 19, 2019"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i5\" 3.0 21.5\" (4K, 2019)  Specs",
+    "processor": "Core i5 (I5-8500)",
+    "model": "A2116 (EMC 3195)",
+    "appleOrderNo": "MRT42LL/A*",
+    "ram": "8 GB",
+    "storage": "1 TB (Fusion), 256 GB SSD**",
+    "releaseDate": "March 19, 2019"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i5\" 3.1 21.5\" (4K, Late 2015)  Specs",
+    "processor": "Core i5 (I5-5675R)",
+    "model": "A1418 (EMC 2833)",
+    "appleOrderNo": "MK452LL/A",
+    "ram": "8 GB",
+    "storage": "1 TB HDD",
+    "releaseDate": "October 13, 2015"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i7\" 3.2 21.5\" (4K, 2019)  Specs",
+    "processor": "Core i7 (I7-8700)",
+    "model": "A2116 (EMC 3195)",
+    "appleOrderNo": "BTO/CTO",
+    "ram": "8 GB",
+    "storage": "1 TB HDD/Fusion, 256 GB SSD*",
+    "releaseDate": "March 19, 2019"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i5\" 3.8 27\" (5K, Mid-2017)  Specs",
+    "processor": "Core i5 (I5-7600K)",
+    "model": "A1419 (EMC 3070)",
+    "appleOrderNo": "MNED2LL/A",
+    "ram": "8 GB",
+    "storage": "2 TB (Fusion)",
+    "releaseDate": "June 5, 2017"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i7\" 3.8 27\" (5K, 2020)  Specs",
+    "processor": "Core i7 (I7-10700K)",
+    "model": "A2115 (EMC 3442)",
+    "appleOrderNo": "MXWV2LL/A",
+    "ram": "8 GB",
+    "storage": "512 GB SSD",
+    "releaseDate": "August 4, 2020"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i5\" 3.3 27\" (5K, 2020)  Specs",
+    "processor": "Core i5 (I5-10600)",
+    "model": "A2115 (EMC 3442)",
+    "appleOrderNo": "MXWU2LL/A",
+    "ram": "8 GB",
+    "storage": "512 GB SSD",
+    "releaseDate": "August 4, 2020"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i3\" 3.6 21.5\" (4K, 2019)  Specs",
+    "processor": "Core i3 (I3-8100)",
+    "model": "A2116 (EMC 3195)",
+    "appleOrderNo": "MRT32LL/A*",
+    "ram": "8 GB",
+    "storage": "1 TB HDD, 256 GB SSD**",
+    "releaseDate": "March 19, 2019"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i5\" 2.3 21.5\" (Mid-2017)  Specs",
+    "processor": "Core i5 (I5-7360U)",
+    "model": "A1418 (EMC 3068)",
+    "appleOrderNo": "MMQA2LL/A*",
+    "ram": "8 GB",
+    "storage": "1 TB HDD, 256 GB SSD**",
+    "releaseDate": "June 5, 2017"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i7\" 3.3 21.5\" (4K, Late 2015)  Specs",
+    "processor": "Core i7 (I7-5775R)",
+    "model": "A1418 (EMC 2833)",
+    "appleOrderNo": "BTO/CTO",
+    "ram": "8 GB",
+    "storage": "1 TB HDD",
+    "releaseDate": "October 13, 2015"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i5\" 3.5 27\" (5K, Mid-2017)  Specs",
+    "processor": "Core i5 (I5-7600)",
+    "model": "A1419 (EMC 3070)",
+    "appleOrderNo": "MNEA2LL/A",
+    "ram": "8 GB",
+    "storage": "1 TB (Fusion)",
+    "releaseDate": "June 5, 2017"
+  },
+  {
+    "deviceName": "Apple iMac \"Core i7\" 4.2 27\" (5K, Mid-2017)  Specs",
+    "processor": "Core i7 (I7-7700K)",
+    "model": "A1419 (EMC 3070)",
+    "appleOrderNo": "BTO/CTO",
+    "ram": "8 GB",
+    "storage": "1, 2 TB* (Fusion)",
+    "releaseDate": "June 5, 2017"
+  }
+]

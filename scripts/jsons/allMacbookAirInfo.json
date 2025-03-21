@@ -1,0 +1,452 @@
+[
+  {
+    "deviceName": "Apple MacBook Air \"Core i5\" 1.6 13\" (Edu Only)  Specs",
+    "processor": "Core i5 (I5-2467M)",
+    "model": "A1369 (EMC 2469)",
+    "ram": "2 GB*",
+    "storage": "64 GB SSD",
+    "appleOrderNo": "MD508LL/A*",
+    "releaseDate": "February 10, 2012"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"Core 2 Duo\" 2.13 13\" (Late '10)  Specs",
+    "processor": "Core 2 Duo (SL9600)",
+    "model": "A1369 (EMC 2392)",
+    "ram": "2 GB*",
+    "storage": "256 GB SSD",
+    "appleOrderNo": "MC905LL/A",
+    "releaseDate": "October 20, 2010"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"Core i5\" 1.3 11\" (Mid-2013)  Specs",
+    "processor": "Core i5 (I5-4250U)",
+    "model": "A1465 (EMC 2631)",
+    "ram": "4 GB*",
+    "storage": "128, 256 GB SSD",
+    "appleOrderNo": "MD711LL/A*",
+    "releaseDate": "June 10, 2013"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"Core i5\" 1.3 13\" (Mid-2013)  Specs",
+    "processor": "Core i5 (I5-4250U)",
+    "model": "A1466 (EMC 2632)",
+    "ram": "4 GB*",
+    "storage": "128, 256 GB SSD",
+    "appleOrderNo": "MD760LL/A*",
+    "releaseDate": "June 10, 2013"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"Core i7\" 1.8 11\" (Mid-2011)  Specs",
+    "processor": "Core i7 (I7-2677M)",
+    "model": "A1370 (EMC 2471)",
+    "ram": "4 GB*",
+    "storage": "128 GB SSD*",
+    "appleOrderNo": "MD214LL/A",
+    "releaseDate": "July 20, 2011"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"M4\" 10 CPU/10 GPU 13\"  Specs",
+    "processor": "Apple M4",
+    "model": "A3240 (EMC 8781*)",
+    "ram": "16, 24 GB*",
+    "storage": "512 GB SSD",
+    "appleOrderNo": "Pending",
+    "releaseDate": "March 5, 2025"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"Core i5\" 1.6 11\" (Mid-2011)  Specs",
+    "processor": "Core i5 (I5-2467M)",
+    "model": "A1370 (EMC 2471)",
+    "ram": "2 GB, 4 GB*",
+    "storage": "64, 128 GB SSD",
+    "appleOrderNo": "MC968LL/A*",
+    "releaseDate": "July 20, 2011"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"M4\" 10 CPU/8 GPU 13\"  Specs",
+    "processor": "Apple M4",
+    "model": "A3240 (EMC 8781*)",
+    "ram": "16 GB*",
+    "storage": "256 GB SSD",
+    "appleOrderNo": "Pending",
+    "releaseDate": "March 5, 2025"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"Core i5\" 1.7 13\" (Mid-2011)  Specs",
+    "processor": "Core i5 (I5-2557M)",
+    "model": "A1369 (EMC 2469)",
+    "ram": "4 GB*",
+    "storage": "128, 256 GB SSD",
+    "appleOrderNo": "MC965LL/A*",
+    "releaseDate": "July 20, 2011"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"Core i7\" 2.0 13\" (Mid-2012)  Specs",
+    "processor": "Core i7 (I7-3667U)",
+    "model": "A1466 (EMC 2559)",
+    "ram": "4 GB, 8 GB*",
+    "storage": "256, 512 GB SSD",
+    "appleOrderNo": "MD846LL/A",
+    "releaseDate": "June 11, 2012"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"Core i5\" 1.7 13\" (Edu Only)  Specs",
+    "processor": "Core i5 (I5-3317U)",
+    "model": "A1466 (EMC 2559)",
+    "ram": "4 GB*",
+    "storage": "64 GB SSD",
+    "appleOrderNo": "MD628LL/A*",
+    "releaseDate": "September 12, 2012"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"Core i7\" 1.7 11\" (Mid-2013)  Specs",
+    "processor": "Core i7 (I7-4650U)",
+    "model": "A1465 (EMC 2631)",
+    "ram": "4 GB*",
+    "storage": "128, 256 GB SSD",
+    "appleOrderNo": "BTO/CTO",
+    "releaseDate": "June 10, 2013"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"Core 2 Duo\" 2.13 13\" (Mid-09)  Specs",
+    "processor": "Core 2 Duo (SL9600)",
+    "model": "A1304 (EMC 2334*)",
+    "ram": "2 GB",
+    "storage": "128 GB SSD",
+    "appleOrderNo": "MC234LL/A",
+    "releaseDate": "June 8, 2009"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"Core i7\" 2.0 11\" (Mid-2012)  Specs",
+    "processor": "Core i7 (I7-3667U)",
+    "model": "A1465 (EMC 2558)",
+    "ram": "4 GB, 8 GB*",
+    "storage": "128, 256 GB SSD",
+    "appleOrderNo": "MD845LL/A",
+    "releaseDate": "June 11, 2012"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"Core 2 Duo\" 1.86 13\" (Mid-09)  Specs",
+    "processor": "Core 2 Duo (SL9400)",
+    "model": "A1304 (EMC 2334*)",
+    "ram": "2 GB",
+    "storage": "120 GB HDD",
+    "appleOrderNo": "MC233LL/A",
+    "releaseDate": "June 8, 2009"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"Core 2 Duo\" 1.86 13\" (NVIDIA)  Specs",
+    "processor": "Core 2 Duo (SL9400)",
+    "model": "A1304 (EMC 2253*)",
+    "ram": "2 GB",
+    "storage": "128 GB SSD",
+    "appleOrderNo": "MB940LL/A",
+    "releaseDate": "October 14, 2008"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"Core i7\" 1.8 13\" (Mid-2011)  Specs",
+    "processor": "Core i7 (I7-2677M)",
+    "model": "A1369 (EMC 2469)",
+    "ram": "4 GB*",
+    "storage": "256 GB SSD",
+    "appleOrderNo": "MD226LL/A",
+    "releaseDate": "July 20, 2011"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"Core 2 Duo\" 1.4 11\" (Late '10)  Specs",
+    "processor": "Core 2 Duo (SU9400)",
+    "model": "A1370 (EMC 2393)",
+    "ram": "2 GB*",
+    "storage": "64, 128 GB SSD",
+    "appleOrderNo": "MC505LL/A*",
+    "releaseDate": "October 20, 2010"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"Core 2 Duo\" 1.86 13\" (Late '10)  Specs",
+    "processor": "Core 2 Duo (SL9400)",
+    "model": "A1369 (EMC 2392)",
+    "ram": "2 GB*",
+    "storage": "128, 256 GB SSD",
+    "appleOrderNo": "MC503LL/A*",
+    "releaseDate": "October 20, 2010"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"Core i7\" 1.7 11\" (Early 2014)  Specs",
+    "processor": "Core i7 (I7-4650U)",
+    "model": "A1465 (EMC 2631)",
+    "ram": "4 GB*",
+    "storage": "128, 256 GB SSD*",
+    "appleOrderNo": "MF067LL/A",
+    "releaseDate": "April 29, 2014"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"Core i7\" 1.7 13\" (Mid-2013)  Specs",
+    "processor": "Core i7 (I7-4650U)",
+    "model": "A1466 (EMC 2632)",
+    "ram": "4 GB*",
+    "storage": "128, 256 GB SSD",
+    "appleOrderNo": "BTO/CTO",
+    "releaseDate": "June 10, 2013"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"Core 2 Duo\" 1.6 11\" (Late '10)  Specs",
+    "processor": "Core 2 Duo (SU9600)",
+    "model": "A1370 (EMC 2393)",
+    "ram": "2 GB*",
+    "storage": "128 GB SSD",
+    "appleOrderNo": "MC906LL/A",
+    "releaseDate": "October 20, 2010"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"Core 2 Duo\" 1.6 13\" (NVIDIA)  Specs",
+    "processor": "Core 2 Duo (SL9300)",
+    "model": "A1304 (EMC 2253*)",
+    "ram": "2 GB",
+    "storage": "120 GB HDD",
+    "appleOrderNo": "MB543LL/A",
+    "releaseDate": "October 14, 2008"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"Core i7\" 1.7 13\" (Early 2014)  Specs",
+    "processor": "Core i7 (I7-4650U)",
+    "model": "A1466 (EMC 2632)",
+    "ram": "4 GB*",
+    "storage": "128, 256 GB SSD*",
+    "appleOrderNo": "MF068LL/A",
+    "releaseDate": "April 29, 2014"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"M1\" 8 CPU/8 GPU 13\"  Specs",
+    "processor": "Apple M1",
+    "model": "A2337 (EMC 3598)",
+    "ram": "8 GB*",
+    "storage": "512 GB SSD",
+    "appleOrderNo": "MGN73LL/A*",
+    "releaseDate": "November 10, 2020*"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"M2\" 8 CPU/8 GPU 13\"  Specs",
+    "processor": "Apple M2",
+    "model": "A2681 (EMC 4074*)",
+    "ram": "8 GB, 16 GB*",
+    "storage": "256 GB SSD",
+    "appleOrderNo": "MLY33LL/A*",
+    "releaseDate": "June 6, 2022*"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"Core i5\" 1.7 11\" (Mid-2012)  Specs",
+    "processor": "Core i5 (I5-3317U)",
+    "model": "A1465 (EMC 2558)",
+    "ram": "4 GB*",
+    "storage": "64, 128 GB SSD",
+    "appleOrderNo": "MD223LL/A*",
+    "releaseDate": "June 11, 2012"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"Core i5\" 1.8 13\" (Mid-2012)  Specs",
+    "processor": "Core i5 (I5-3427U)",
+    "model": "A1466 (EMC 2559)",
+    "ram": "4 GB*",
+    "storage": "128, 256 GB SSD",
+    "appleOrderNo": "MD231LL/A",
+    "releaseDate": "June 11, 2012"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"Core 2 Duo\" 1.6 13\" (Original)  Specs",
+    "processor": "Core 2 Duo (P7500)",
+    "model": "A1237 (EMC 2142*)",
+    "ram": "2 GB",
+    "storage": "80 GB HDD",
+    "appleOrderNo": "MB003LL/A",
+    "releaseDate": "January 15, 2008*"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"M2\" 8 CPU/10 GPU 15\"  Specs",
+    "processor": "Apple M2",
+    "model": "A2941 (EMC 8301*)",
+    "ram": "8 GB*",
+    "storage": "256, 512 GB SSD",
+    "appleOrderNo": "MQKW3LL/A*",
+    "releaseDate": "June 5, 2023*"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"Core i7\" 2.2 13\" (2017*)  Specs",
+    "processor": "Core i7 (I7-5650U)",
+    "model": "A1466 (EMC 3178)",
+    "ram": "8 GB*",
+    "storage": "128, 256 SSD*",
+    "appleOrderNo": "Z0UU1LL/A*",
+    "releaseDate": "June 5, 2017"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"M3\" 8 CPU/8 GPU 13\"  Specs",
+    "processor": "Apple M3",
+    "model": "A3113 (EMC 8611*)",
+    "ram": "8 GB, 16 GB*",
+    "storage": "256 GB SSD",
+    "appleOrderNo": "MRXV3LL/A*",
+    "releaseDate": "March 4, 2024*"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"M1\" 8 CPU/7 GPU 13\"  Specs",
+    "processor": "Apple M1",
+    "model": "A2337 (EMC 3598)",
+    "ram": "8 GB*",
+    "storage": "128, 256 GB SSD*",
+    "appleOrderNo": "MGN63LL/A*",
+    "releaseDate": "November 10, 2020*"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"Core i5\" 1.6 13\" (Early 2015)  Specs",
+    "processor": "Core i5 (I5-5250U)",
+    "model": "A1466 (EMC 2925)",
+    "ram": "4 GB, 8 GB*",
+    "storage": "128, 256 GB SSD",
+    "appleOrderNo": "MJVE2LL/A*",
+    "releaseDate": "March 9, 2015*"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"Core i3\" 1.1 13\" (Scissor, 2020)  Specs",
+    "processor": "Core i3 (I3-1000NG4)",
+    "model": "A2179 (EMC 3302)",
+    "ram": "8 GB*",
+    "storage": "256 GB SSD",
+    "appleOrderNo": "MWTJ2LL/A*",
+    "releaseDate": "March 18, 2020"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"Core i5\" 1.6 13\" (True Tone, 2019)  Specs",
+    "processor": "Core i5 (I5-8210Y)",
+    "model": "A1932 (EMC 3184)",
+    "ram": "8 GB*",
+    "storage": "128, 256 GB SSD",
+    "appleOrderNo": "MVFH2LL/A*",
+    "releaseDate": "July 9, 2019"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"Core i5\" 1.6 13\" (Late 2018)  Specs",
+    "processor": "Core i5 (I5-8210Y)",
+    "model": "A1932 (EMC 3184)",
+    "ram": "8 GB*",
+    "storage": "128, 256 GB SSD",
+    "appleOrderNo": "MRE82LL/A*",
+    "releaseDate": "October 30, 2018"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"Core 2 Duo\" 1.8 13\" (Original)  Specs",
+    "processor": "Core 2 Duo (P7700)",
+    "model": "A1237 (EMC 2142*)",
+    "ram": "2 GB",
+    "storage": "64 GB SSD",
+    "appleOrderNo": "BTO/CTO",
+    "releaseDate": "January 15, 2008*"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"M4\" 10 CPU/10 GPU 15\"  Specs",
+    "processor": "Apple M4",
+    "model": "A3241 (EMC 8782*)",
+    "ram": "16, 24 GB*",
+    "storage": "256, 512 GB SSD",
+    "appleOrderNo": "Pending",
+    "releaseDate": "March 5, 2025"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"Core i5\" 1.8 13\" (2017*)  Specs",
+    "processor": "Core i5 (I5-5350U)",
+    "model": "A1466 (EMC 3178)",
+    "ram": "8 GB*",
+    "storage": "128, 256 GB SSD",
+    "appleOrderNo": "MQD32LL/A*",
+    "releaseDate": "June 5, 2017"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"Core i5\" 1.4 11\" (Early 2014)  Specs",
+    "processor": "Core i5 (I5-4260U)",
+    "model": "A1465 (EMC 2631)",
+    "ram": "4 GB*",
+    "storage": "128, 256 GB SSD",
+    "appleOrderNo": "MD711LL/B*",
+    "releaseDate": "April 29, 2014"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"Core i5\" 1.6 11\" (Early 2015)  Specs",
+    "processor": "Core i5 (I5-5250U)",
+    "model": "A1465 (EMC 2924)",
+    "ram": "4 GB*",
+    "storage": "128, 256 GB SSD",
+    "appleOrderNo": "MJVM2LL/A*",
+    "releaseDate": "March 9, 2015"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"M2\" 8 CPU/10 GPU 13\"  Specs",
+    "processor": "Apple M2",
+    "model": "A2681 (EMC 4074*)",
+    "ram": "8 GB*",
+    "storage": "512 GB SSD*",
+    "appleOrderNo": "MLY43LL/A*",
+    "releaseDate": "June 6, 2022*"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"M3\" 8 CPU/10 GPU 15\"  Specs",
+    "processor": "Apple M3",
+    "model": "A3114 (EMC 8612*)",
+    "ram": "8 GB, 16 GB, 24 GB*",
+    "storage": "256, 512 GB SSD",
+    "appleOrderNo": "MRYU3LL/A*",
+    "releaseDate": "March 4, 2024*"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"Core i7\" 1.2 13\" (Scissor, 2020)  Specs",
+    "processor": "Core i7 (I7-1060NG7)",
+    "model": "A2179 (EMC 3302)",
+    "ram": "8 GB*",
+    "storage": "256, 512 GB SSD",
+    "appleOrderNo": "BTO/CTO",
+    "releaseDate": "March 18, 2020"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"Core i7\" 2.2 13\" (Early 2015)  Specs",
+    "processor": "Core i7 (I7-5650U)",
+    "model": "A1466 (EMC 2925)",
+    "ram": "4 GB, 8 GB*",
+    "storage": "128, 256 GB SSD",
+    "appleOrderNo": "BTO/CTO",
+    "releaseDate": "March 9, 2015*"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"M3\" 8 CPU/10 GPU 13\"  Specs",
+    "processor": "Apple M3",
+    "model": "A3113 (EMC 8611*)",
+    "ram": "8 GB, 16 GB, 24 GB*",
+    "storage": "512 GB SSD",
+    "appleOrderNo": "MRXW3LL/A*",
+    "releaseDate": "March 4, 2024*"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"Core i5\" 1.1 13\" (Scissor, 2020)  Specs",
+    "processor": "Core i5 (I5-1030NG7)",
+    "model": "A2179 (EMC 3302)",
+    "ram": "8 GB*",
+    "storage": "512 GB SSD",
+    "appleOrderNo": "MVH22LL/A*",
+    "releaseDate": "March 18, 2020"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"Core i5\" 1.4 13\" (Early 2014)  Specs",
+    "processor": "Core i5 (I5-4260U)",
+    "model": "A1466 (EMC 2632)",
+    "ram": "4 GB*",
+    "storage": "128, 256 GB SSD",
+    "appleOrderNo": "MD760LL/B*",
+    "releaseDate": "April 29, 2014"
+  },
+  {
+    "deviceName": "Apple MacBook Air \"Core i7\" 2.2 11\" (Early 2015)  Specs",
+    "processor": "Core i7 (I7-5650U)",
+    "model": "A1465 (EMC 2924)",
+    "ram": "4 GB*",
+    "storage": "128, 256 GB SSD",
+    "appleOrderNo": "BTO/CTO",
+    "releaseDate": "March 9, 2015"
+  }
+]

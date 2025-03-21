@@ -130,5 +130,7 @@ app.get('/logout', (req, res) => {
 // Configura el puerto en el que se ejecutará el servidor
 const PORT = 3001; // Cambiado a 3001 para evitar conflictos
 app.listen(PORT, () => {
-    console.log(`Server started at http://localhost:${PORT}`); // Muestra un mensaje indicando que el servidor está en ejecución
+	console.log(`|-------------------------------------------------|`);
+    console.log(`|🚀 Server started at http://localhost:${PORT} ✅|`); // Muestra un mensaje indicando que el servidor está en ejecución
+	console.log(`|-------------------------------------------------|`); 
 });

@@ -1699,5 +1699,15 @@
     "appleOrderNo": "MLM32LL/A*",
     "releaseDate": "March 21, 2016*",
     "color": "Metallic*"
+  },
+  {
+    "deviceType": "iphones",
+    "deviceName": "Genesis",
+    "model": "Alonso",
+    "ram": "Chacon",
+    "storage": "22",
+    "appleOrderNo": "23",
+    "releaseDate": "2025-03-18",
+    "color": "blue"
   }
 ]
