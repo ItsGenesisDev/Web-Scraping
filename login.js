@@ -10,11 +10,11 @@ const session = require('express-session');
 // Importa el módulo path para trabajar con rutas de archivos
 const path = require('path');
 
-// Importa el modulo fs para leer archivos
+// Importa el modulo fs para leer archivo
 const fs = require('fs');
 
 // Importa la función de scraping
-const scrapeAllDevices = require('./scrapeDevice'); // Asegúrate de que scrapeDevice.js esté en la misma carpeta
+const scrapeAllDevices = require('./scrapeDevice'); 
 
 // Configura la conexión a la base de datos MySQL
 const connection = mysql.createConnection({
@@ -37,7 +37,6 @@ app.use(session({
 // Configura middleware para analizar JSON y datos codificados en URL
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
-
 
 // styles//
 app.use(express.static('styles'));
@@ -125,6 +124,8 @@ app.get('/scrape', async (req, res) => {
         await scrapeAllDevices();
 
         res.status(200).json({ message: "Scraping completo" });
+		
+
 
     } catch (error) {
         console.error("Error en el scraping:", error);

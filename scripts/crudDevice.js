@@ -163,5 +163,12 @@ function formatDateToYYYYMMDD(dateString) {
     return `${year}-${month}-${day}`;
 }
 
+document.getElementById('back-to-home').addEventListener('click', function (event) {
+    event.preventDefault(); // Evita el comportamiento predeterminado del enlace
+    location.reload();
+    window.history.back(); // Regresa a la página anterior
+    
+});
+
 // Initialize the app
 loadDevices();

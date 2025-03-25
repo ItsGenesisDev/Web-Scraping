@@ -78,9 +78,9 @@ async function scrapeDevice(baseUrl, linkSelector, selectors, outputFilename) {
     deviceName: '#contentcenter h3',
     processor: '#specs8-title tbody tr td:eq(3)',
     model: '#specs31-title tbody tr td:eq(1)',
-    appleOrderNo: '#specs30-title tbody tr td:eq(1)',
+    appleOrderNo: '#specs28-title tbody tr td:eq(1)',
     ram: '#specs15-title tbody tr td:eq(1)',
-    storage: '#specs21-title tbody tr td:eq(1)',
+    storage: '#specs19-title tbody tr td:eq(1)',
     releaseDate: '#specs1-title tbody tr td:eq(1)',
   };
   await scrapeDevice('https://everymac.com/systems/apple/imac/index-imac.html', '#contentcenter_specs_externalnav_wrapper #contentcenter_specs_externalnav_2 a', imacSelectors, 'allIMacInfo.json');
