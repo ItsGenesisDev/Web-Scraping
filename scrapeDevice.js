@@ -49,7 +49,7 @@ async function scrapeAllDevices() {
         }
       }));
 
-      const jsonsFolderPath = path.join(__dirname, 'jsons');
+      const jsonsFolderPath = path.join(__dirname, 'models', 'Iphone', 'jsons');
       await fs.mkdir(jsonsFolderPath, { recursive: true });
 
       const filePath = path.join(jsonsFolderPath, outputFilename);
