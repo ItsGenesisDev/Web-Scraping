@@ -4,62 +4,62 @@ const fs = require('fs').promises;
 const path = require('path');
 
 async function scrapeAllDevices() {
-  // Función centralizada para obtener la información de un dispositivo
-  async function getDeviceInfo(url, selectors) {
-    try {
-      const response = await axios.get(url);
-      const $ = cheerio.load(response.data);
+// Función centralizada para obtener la información de un dispositivo
+async function getDeviceInfo(url, selectors) {
+  try {
+    const response = await axios.get(url);
+    const $ = cheerio.load(response.data);
 
-      const deviceInfo = {};
+    const deviceInfo = {};
 
-      // Iteramos sobre los selectores para obtener la información de cada propiedad del dispositivo
-      for (const [key, selector] of Object.entries(selectors)) {
-        deviceInfo[key] = $(selector).eq(0).text().trim() || 'No encontrado';
+    // Iteramos sobre los selectores para obtener la información de cada propiedad del dispositivo
+    for (const [key, selector] of Object.entries(selectors)) {
+      deviceInfo[key] = $(selector).eq(0).text().trim() || 'No encontrado';
+    }
+
+    return deviceInfo;
+  } catch (error) {
+    console.error(`Error al obtener los datos de ${url}:`, error);
+    return { deviceName: 'No encontrado' };
+  }
+}
+
+// Función genérica para hacer scraping
+async function scrapeDevice(baseUrl, linkSelector, selectors, outputFilename) {
+  try {
+    const response = await axios.get(baseUrl);
+    const $ = cheerio.load(response.data);
+
+    const deviceLinks = [];
+    $(linkSelector).each((i, element) => {
+      const link = $(element).attr('href');
+      if (link) {
+        deviceLinks.push(`https://everymac.com${link}`);
       }
+    });
 
-      return deviceInfo;
-    } catch (error) {
-      console.error(`Error al obtener los datos de ${url}:`, error);
-      return { deviceName: 'No encontrado' };
-    }
+    const allDevicesInfo = [];
+    let contador = 0;
+
+    await Promise.all(deviceLinks.map(async (link) => {
+      const deviceInfo = await getDeviceInfo(link, selectors);
+      if (deviceInfo.deviceName !== 'No encontrado') {
+        allDevicesInfo.push(deviceInfo);
+        contador++;
+      }
+    }));
+
+    const jsonsFolderPath = path.join(__dirname, 'models', 'Iphone', 'jsons');
+    await fs.mkdir(jsonsFolderPath, { recursive: true });
+
+    const filePath = path.join(jsonsFolderPath, outputFilename);
+    await fs.writeFile(filePath, JSON.stringify(allDevicesInfo, null, 2), 'utf-8');
+    console.log(`Datos guardados en ${filePath}`);
+    console.log(`Total de dispositivos almacenados: ${contador}`);
+  } catch (error) {
+    console.error('Error al obtener los datos de los dispositivos:', error);
   }
-
-  // Función genérica para hacer scraping
-  async function scrapeDevice(baseUrl, linkSelector, selectors, outputFilename) {
-    try {
-      const response = await axios.get(baseUrl);
-      const $ = cheerio.load(response.data);
-
-      const deviceLinks = [];
-      $(linkSelector).each((i, element) => {
-        const link = $(element).attr('href');
-        if (link) {
-          deviceLinks.push(`https://everymac.com${link}`);
-        }
-      });
-
-      const allDevicesInfo = [];
-      let contador = 0;
-
-      await Promise.all(deviceLinks.map(async (link) => {
-        const deviceInfo = await getDeviceInfo(link, selectors);
-        if (deviceInfo.deviceName !== 'No encontrado') {
-          allDevicesInfo.push(deviceInfo);
-          contador++;
-        }
-      }));
-
-      const jsonsFolderPath = path.join(__dirname, 'models', 'Iphone', 'jsons');
-      await fs.mkdir(jsonsFolderPath, { recursive: true });
-
-      const filePath = path.join(jsonsFolderPath, outputFilename);
-      await fs.writeFile(filePath, JSON.stringify(allDevicesInfo, null, 2), 'utf-8');
-      console.log(`Datos guardados en ${filePath}`);
-      console.log(`Total de dispositivos almacenados: ${contador}`);
-    } catch (error) {
-      console.error('Error al obtener los datos de los dispositivos:', error);
-    }
-  }
+}
 
   // Scraping para iPhone
   const iphoneSelectors = {
@@ -120,6 +120,8 @@ async function scrapeAllDevices() {
     color: '#content6-title tbody tr td:eq(1)',
   };
   await scrapeDevice('https://everymac.com/systems/apple/apple-watch/index-apple-watch-specs.html', '#contentcenter_specs_externalnav_wrapper #contentcenter_specs_externalnav_2 a', appleWatchSelectors, 'allSmartwatchInfo.json');
+  console.log('Scraping completo.');
+  return { status: 'Scraping completo' };
 }
-scrapeAllDevices();
-//module.exports = scrapeAllDevices;
+// scrapeAllDevices();
+module.exports = scrapeAllDevices;

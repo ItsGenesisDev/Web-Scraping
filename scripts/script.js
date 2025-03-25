@@ -104,20 +104,30 @@ function loadData(deviceType) {
 // Evento para el botón de refresco (reload) para recargar los datos y realizar el scraping
 const refreshButton = document.getElementById('refreshButton');
 refreshButton.addEventListener('click', async () => {
-    // Realizamos el scraping antes de cargar los datos
-    await scrapeAllDevices();
+    try {
+        // Hacer una solicitud al backend para ejecutar el scraping
+        const response = await fetch('http://localhost:3001/scrape', {
+            method: 'GET'
+        });
 
-    // Luego cargamos los datos de los dispositivos
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+
+        console.log('Scraping iniciado correctamente.');
+
+        // Después de hacer scraping, recargar los datos
+        loadData('iphones');
+        loadData('ipads');
+        loadData('imacbook');
+        loadData('applewatches');
+        loadData('imacs');
+
+    } catch (error) {
+        console.error('Error al realizar scraping:', error);
+    }
     loadData('iphones');
-    loadData('ipads');
-    loadData('imacbook');
-    loadData('applewatches');
-    loadData('imacs');
 });
-
-// Cargar los datos de los iPhones inicialmente
-loadData('iphones');
-
 // Filtros de dispositivo por tipo
 const filterButtons = document.querySelectorAll('#filters button');
 filterButtons.forEach(button => {

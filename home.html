@@ -16,35 +16,20 @@
     <div id="filters">
         <button data-filter="iphones">iPhone</button>
         <button data-filter="ipads">iPad</button>
-        <button data-filter="imacbook">iMacBook</button>
+        <button data-filter="imacbook">MacBook</button>
         <button data-filter="applewatches">Apple Watch</button>
         <button data-filter="imacs">iMac</button>
         <button id="crud" onclick="location.href='../../crudDevice.html'">Editar Dispositivo</button>
     </div>
 
+    <div id="loading" style="display: none;">Ejecutando web scraper...</div>
+    
     <div id="search">
         <input type="search" placeholder="Busca tu Archivo" id="Buscador" />
-        <button id="refreshButton">Actualizar Datos</button>
-        <button id="runScraperButton">Ejecutar Web Scraper</button>
+        <button id="refreshButton">Actualizar</button>
     </div>
 
     <div id="phone-list"></div>
     <script type="module" src="../script.js"></script>
-
-    <script>
-        document.getElementById('runScraperButton').addEventListener('click', () => {
-            fetch('/runScraper', {
-                method: 'POST',
-            })
-            .then(response => response.text())
-            .then(data => {
-                alert(data);
-            })
-            .catch(error => {
-                console.error('Error al ejecutar el scraper:', error);
-                alert('Error al ejecutar el scraper.');
-            });
-        });
-    </script>
 </body>
 </html>
