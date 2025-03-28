@@ -99,28 +99,35 @@ function loadData(deviceType) {
 const refreshButton = document.getElementById('refreshButton');
 refreshButton.addEventListener('click', async () => {
     try {
-        // Hacer una solicitud al backend para ejecutar el scraping
+        // Mostrar spinner
+        const spinner = document.getElementById('loadingSpinner');
+        spinner.style.display = 'block';
+        refreshButton.disabled = true; // Deshabilitar botón durante carga
+
+        // Hacer scraping
         const response = await fetch('http://localhost:3001/scrape', {
             method: 'GET'
         });
 
-        if (!response.ok) {
-            throw new Error(`HTTP error! status: ${response.status}`);
-        }
+        if (!response.ok) throw new Error(`Error: ${response.status}`);
 
-        console.log('Scraping iniciado correctamente.');
-
-        // Después de hacer scraping, recargar los datos
-        loadData('iphones');
-        loadData('ipads');
-        loadData('imacbook');
-        loadData('applewatches');
-        loadData('imacs');
+        // Recargar datos
+        await Promise.all([
+            loadData('iphones'),
+            loadData('ipads'),
+            loadData('imacbook'),
+            loadData('applewatches'),
+            loadData('imacs')
+        ]);
 
     } catch (error) {
-        console.error('Error al realizar scraping:', error);
+        console.error('Error al actualizar:', error);
+        alert('Error al actualizar los datos. Revisa la consola.');
+    } finally {
+        // Ocultar spinner y reactivar botón
+        document.getElementById('loadingSpinner').style.display = 'none';
+        refreshButton.disabled = false;
     }
-    loadData('iphones');
 });
 // Filtros de dispositivo por tipo
 const filterButtons = document.querySelectorAll('#filters button');

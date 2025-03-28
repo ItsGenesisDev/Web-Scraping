@@ -27,7 +27,12 @@
         <input type="search" placeholder="Busca tu Archivo" id="Buscador" />
         <button id="refreshButton">Actualizar</button>
     </div>
-
+    
+        <!-- Spinner de carga (oculto inicialmente) -->
+    <div id="loadingSpinner" style="display: none; text-align: center; margin: 20px 0;">
+        <div class="spinner"></div>
+        <p style="color: #8B0000;">Actualizando datos...</p>
+    </div>
     <div id="phone-list"></div>
     <script type="module" src="../script.js"></script>
 </body>
