@@ -1,20 +1,9 @@
-// Importa el módulo de MySQL para interactuar con la base de datos
-const mysql = require('mysql');
-
-// Importa el módulo de Express para crear el servidor web
-const express = require('express');
-
-// Importa el módulo de express-session para manejar sesiones de usuario
-const session = require('express-session');
-
-// Importa el módulo path para trabajar con rutas de archivos
-const path = require('path');
-
-// Importa el modulo fs para leer archivo
-const fs = require('fs');
-
-// Importa la función de scraping
-const scrapeAllDevices = require('./scrapeDevice'); 
+const mysql = require('mysql'); // Importa el módulo de MySQL para interactuar con la base de datos
+const express = require('express'); // Importa el módulo de Express para crear el servidor web
+const session = require('express-session'); // Importa el módulo de express-session para manejar sesiones de usuario
+const path = require('path'); // Importa el módulo path para trabajar con rutas de archivos
+const fs = require('fs'); // Importa el modulo fs para leer archivo
+const scrapeAllDevices = require('./scrapeDevice'); // Importa la función de scraping
 
 // Configura la conexión a la base de datos MySQL
 const connection = mysql.createConnection({
