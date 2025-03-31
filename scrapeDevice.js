@@ -77,7 +77,7 @@ async function scrapeDevice(baseUrl, linkSelector, selectors, outputFilename) {
   const imacSelectors = {
     deviceName: '#contentcenter h3',
     processor: '#specs8-title tbody tr td:eq(3)',
-    model: '#specs31-title tbody tr td:eq(1)',
+    model: '#specs29-title tbody tr td:eq(1)',
     appleOrderNo: '#specs28-title tbody tr td:eq(1)',
     ram: '#specs15-title tbody tr td:eq(1)',
     storage: '#specs19-title tbody tr td:eq(1)',
