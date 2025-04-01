@@ -14,8 +14,37 @@ INSERT INTO `accounts` (`id`, `username`, `password`, `email`) VALUES (2, 'Genes
 
 
 select * 
-from accounts
-where id = 2;
+from accounts;
 
 ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '12345';
 FLUSH PRIVILEGES;
+
+/* -------------------------------------------------------------- */
+use nodelogin;
+
+INSERT INTO `accounts` (`id`, `username`, `password`, `email`) VALUES (3, 'alberto', '12345', 'alberto@gmail.com');
+
+ALTER TABLE `accounts` ADD `rol` VARCHAR(20) DEFAULT 'user';
+
+UPDATE accounts
+SET rol = 'admin'
+WHERE id = 2;
+
+SELECT * FROM accounts;
+/****************************************/
+use nodelogin;
+
+INSERT INTO `accounts` (`id`, `username`, `password`, `email`) VALUES (3, 'alberto', '12345', 'alberto@gmail.com');
+
+ALTER TABLE `accounts` ADD `rol` VARCHAR(20) DEFAULT 'usuario';
+
+UPDATE accounts
+SET rol = 'admin'
+WHERE id = 2;
+
+SELECT * FROM accounts;
+
+ALTER TABLE accounts ADD COLUMN role ENUM('admin', 'user') NOT NULL DEFAULT 'user';
+
+UPDATE accounts SET role = 'admin' WHERE id = 2;
+SELECT * FROM accounts;
