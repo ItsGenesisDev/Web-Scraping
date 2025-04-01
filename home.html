@@ -19,21 +19,43 @@
         <button data-filter="imacbook">MacBook</button>
         <button data-filter="applewatches">Apple Watch</button>
         <button data-filter="imacs">iMac</button>
-        <button id="crud" onclick="location.href='../../crudDevice.html'">Editar Dispositivo</button>
+        <button id="crud" onclick="location.href='../../crudDevice.html'">Administrar Dispositivo</button>
     </div>
 
-    
     <div id="search">
         <input type="search" placeholder="Busca tu Archivo" id="Buscador" />
         <button id="refreshButton">Actualizar</button>
     </div>
-    
-        <!-- Spinner de carga (oculto inicialmente) -->
+
     <div id="loadingSpinner" style="display: none; text-align: center; margin: 20px 0;">
         <div class="spinner"></div>
-        <p style="color: #8B0000;">Actualizando datos...</p>
+        <p style="color: rgb(77, 179, 85);">Actualizando datos...</p>
     </div>
     <div id="phone-list"></div>
     <script type="module" src="../script.js"></script>
+    <script>
+        // Hacer una petición a la API para obtener el userType
+        document.addEventListener('DOMContentLoaded', function() {
+        fetch("/getUserType", {
+            credentials: 'include' // Importante para incluir cookies de sesión
+        })
+        .then((response) => {
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+            return response.json();
+        })
+        .then((data) => {
+            console.log("role recibido:", data.userType); // Debug
+            if (data.userType === 'user') {
+                document.getElementById("crud").style.display = "none";
+                document.getElementById("refreshButton").style.display = "none";
+            }
+        })
+        .catch((error) => {
+            console.error("Error al obtener el userType:", error);
+        });
+    });
+    </script>
 </body>
 </html>

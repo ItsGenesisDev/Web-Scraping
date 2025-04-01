@@ -113,15 +113,23 @@ app.get('/scrape', async (req, res) => {
         await scrapeAllDevices();
 
         res.status(200).json({ message: "Scraping completo" });
-		
-
-
     } catch (error) {
         console.error("Error en el scraping:", error);
         res.status(500).json({ error: "Error en el scraping" });
     }
 });
 
+// Nueva ruta para obtener el userType
+app.get('/getUserType', (req, res) => {
+    console.log("Sesión actual:", req.session); // Debug
+    if (req.session.loggedin) {
+        console.log("Enviando userType:", req.session); // Debug
+        res.json({ userType: req.session.userType });
+    } else {
+        console.log("Acceso denegado a /getUserType"); // Debug
+        res.status(403).json({ error: 'Access denied' });
+    }
+});
 
 // Configura el puerto en el que se ejecutará el servidor
 const PORT = 3001; // Cambiado a 3001 para evitar conflictos

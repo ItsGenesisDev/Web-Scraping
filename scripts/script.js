@@ -10,6 +10,8 @@ const deviceTypes = {
 // Selección del contenedor donde se mostrarán los dispositivos
 const phoneListDiv = document.getElementById('phone-list');
 
+loadData('iphones'); // Cargar datos de iPhones por defecto al cargar la página
+
 // Función para cargar los datos de los dispositivos desde los archivos JSON
 function loadData(deviceType) {
     const jsonPath = deviceTypes[deviceType];
@@ -137,6 +139,8 @@ filterButtons.forEach(button => {
         loadData(deviceType);
     });
 });
+
+
 
 // Función de búsqueda para filtrar dispositivos por nombre
 const buscador = document.getElementById('Buscador');
