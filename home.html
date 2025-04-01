@@ -5,57 +5,97 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Listado de Dispositivos Apple</title>
     <link rel="stylesheet" href="../index.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=SF+Pro+Display:wght@300;400;500;600&display=swap" rel="stylesheet">
 </head>
 <body>
-    <div class="header">
-        <img src="../Logo_oficial.png" alt="Apple Logo" id="reconextLogo">
-        <h1>Listado de Dispositivos Apple</h1>
-        <a href="/logout" id="back-to-home">Cerrar sesión</a>
+    <div class="app-container">
+        <!-- Header estilo Apple -->
+        <header class="app-header">
+            <div class="header-content">
+                <img src="../Logo_oficial.png" alt="Logo Reconext" class="app-logo">
+                <h1 class="app-title">Listado de Dispositivos Apple</h1>
+                <nav class="app-nav">
+                    <a href="/logout" class="logout-button">
+                        <i class="material-icons">logout</i>
+                        <span>Cerrar sesión</span>
+                    </a>
+                </nav>
+            </div>
+        </header>
+
+        <!-- Barra de herramientas -->
+        <div class="toolbar">
+            <div class="search-container">
+                <i class="material-icons search-icon">search</i>
+                <input type="search" placeholder="Buscar dispositivos..." class="search-input" id="Buscador">
+                <button class="refresh-button" id="refreshButton">
+                    <i class="material-icons">refresh</i>
+                    <span>Actualizar</span>
+                </button>
+            </div>
+
+            <div class="filter-buttons" id="filters">
+                <button class="filter-button" data-filter="iphones">
+                    <i class="material-icons">smartphone</i>
+                    <span>iPhone</span>
+                </button>
+                <button class="filter-button" data-filter="ipads">
+                    <i class="material-icons">tablet</i>
+                    <span>iPad</span>
+                </button>
+                <button class="filter-button" data-filter="imacbook">
+                    <i class="material-icons">laptop_mac</i>
+                    <span>MacBook</span>
+                </button>
+                <button class="filter-button" data-filter="applewatches">
+                    <i class="material-icons">watch</i>
+                    <span>Apple Watch</span>
+                </button>
+                <button class="filter-button" data-filter="imacs">
+                    <i class="material-icons">desktop_mac</i>
+                    <span>iMac</span>
+                </button>
+                <button class="admin-button" id="crud" onclick="location.href='../../crudDevice.html'">
+                    <i class="material-icons">settings</i>
+                    <span>Administrar</span>
+                </button>
+            </div>
+        </div>
+
+        <!-- Spinner de carga -->
+        <div id="loadingSpinner" class="loading-container">
+            <div class="spinner"></div>
+            <p class="loading-text">Actualizando datos...</p>
+        </div>
+
+        <!-- Lista de dispositivos -->
+        <main class="device-grid" id="phone-list">
+            <!-- Los dispositivos se cargarán aquí dinámicamente -->
+        </main>
     </div>
 
-    <div id="filters">
-        <button data-filter="iphones">iPhone</button>
-        <button data-filter="ipads">iPad</button>
-        <button data-filter="imacbook">MacBook</button>
-        <button data-filter="applewatches">Apple Watch</button>
-        <button data-filter="imacs">iMac</button>
-        <button id="crud" onclick="location.href='../../crudDevice.html'">Administrar Dispositivo</button>
-    </div>
-
-    <div id="search">
-        <input type="search" placeholder="Busca tu Archivo" id="Buscador" />
-        <button id="refreshButton">Actualizar</button>
-    </div>
-
-    <div id="loadingSpinner" style="display: none; text-align: center; margin: 20px 0;">
-        <div class="spinner"></div>
-        <p style="color: rgb(77, 179, 85);">Actualizando datos...</p>
-    </div>
-    <div id="phone-list"></div>
     <script type="module" src="../script.js"></script>
     <script>
-        // Hacer una petición a la API para obtener el userType
         document.addEventListener('DOMContentLoaded', function() {
-        fetch("/getUserType", {
-            credentials: 'include' // Importante para incluir cookies de sesión
-        })
-        .then((response) => {
-            if (!response.ok) {
-                throw new Error('Network response was not ok');
-            }
-            return response.json();
-        })
-        .then((data) => {
-            console.log("role recibido:", data.userType); // Debug
-            if (data.userType === 'user') {
-                document.getElementById("crud").style.display = "none";
-                document.getElementById("refreshButton").style.display = "none";
-            }
-        })
-        .catch((error) => {
-            console.error("Error al obtener el userType:", error);
+            fetch("/getUserType", {
+                credentials: 'include'
+            })
+            .then((response) => {
+                if (!response.ok) throw new Error('Network response was not ok');
+                return response.json();
+            })
+            .then((data) => {
+                console.log("role recibido:", data.userType);
+                if (data.userType === 'user') {
+                    document.getElementById("crud").style.display = "none";
+                    document.getElementById("refreshButton").style.display = "none";
+                }
+            })
+            .catch((error) => {
+                console.error("Error al obtener el userType:", error);
+            });
         });
-    });
     </script>
 </body>
 </html>
