@@ -58,6 +58,7 @@ app.post('/auth', function(request, response) {
 			if (results.length > 0) {
 				request.session.loggedin = true;
 				request.session.username = username;
+				request.session.role = results[0].role; // Cambiado de userType a role
 				response.redirect('/home');
 			} else {
 				response.send('Incorrect Username and/or Password!');
@@ -119,12 +120,12 @@ app.get('/scrape', async (req, res) => {
     }
 });
 
-// Nueva ruta para obtener el userType
+// Nueva ruta para obtener el role
 app.get('/getUserType', (req, res) => {
     console.log("Sesión actual:", req.session); // Debug
     if (req.session.loggedin) {
-        console.log("Enviando userType:", req.session); // Debug
-        res.json({ userType: req.session.userType });
+        console.log("Enviando role:", req.session.role); // Debug
+        res.json({ role: req.session.role }); // Cambiado de userType a role
     } else {
         console.log("Acceso denegado a /getUserType"); // Debug
         res.status(403).json({ error: 'Access denied' });

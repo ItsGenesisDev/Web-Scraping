@@ -34,7 +34,7 @@
     <div id="phone-list"></div>
     <script type="module" src="../script.js"></script>
     <script>
-        // Hacer una petición a la API para obtener el userType
+        // Hacer una petición a la API para obtener el role
         document.addEventListener('DOMContentLoaded', function() {
         fetch("/getUserType", {
             credentials: 'include' // Importante para incluir cookies de sesión
@@ -46,14 +46,14 @@
             return response.json();
         })
         .then((data) => {
-            console.log("role recibido:", data.userType); // Debug
-            if (data.userType === 'user') {
+            console.log("role recibido:", data.role); // Debug
+            if (data.role === 'user') {
                 document.getElementById("crud").style.display = "none";
                 document.getElementById("refreshButton").style.display = "none";
             }
         })
         .catch((error) => {
-            console.error("Error al obtener el userType:", error);
+            console.error("Error al obtener el role:", error);
         });
     });
     </script>
