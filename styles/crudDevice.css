@@ -142,16 +142,19 @@ button:hover {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
 }
 
-.device-info {
+.device-header {
     display: flex;
-    flex-direction: column;
-    gap: 5px;
+    justify-content: space-between;
+    align-items: center;
     margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
 }
 
-.device-info span {
-    font-weight: 500;
-    color: #555;
+.device-title {
+    font-weight: 600;
+    color: #2c3e50;
+    font-size: 1.1rem;
 }
 
 .device-actions {
@@ -160,8 +163,8 @@ button:hover {
 }
 
 .device-actions button {
-    padding: 8px 15px;
-    font-size: 0.9rem;
+    padding: 6px 12px;
+    font-size: 0.85rem;
     flex: 0;
 }
 
@@ -179,6 +182,17 @@ button:hover {
 
 .delete:hover {
     background-color: #c0392b !important;
+}
+
+.device-info {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.device-info span {
+    font-weight: 500;
+    color: #555;
 }
 
 #back-to-home {
@@ -216,5 +230,15 @@ button:hover {
     
     #crud-container {
         padding: 20px;
+    }
+    
+    .device-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+    }
+    
+    .device-actions {
+        align-self: flex-end;
     }
 }

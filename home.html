@@ -87,7 +87,7 @@
             })
             .then((data) => {
                 console.log("role recibido:", data.userType);
-                if (data.userType === 'user') {
+                if (data.role === 'user') {
                     document.getElementById("crud").style.display = "none";
                     document.getElementById("refreshButton").style.display = "none";
                 }

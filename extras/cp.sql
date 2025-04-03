@@ -48,3 +48,9 @@ ALTER TABLE accounts ADD COLUMN role ENUM('admin', 'user') NOT NULL DEFAULT 'use
 
 UPDATE accounts SET role = 'admin' WHERE id = 2;
 SELECT * FROM accounts;
+
+/* Usuarios de prueba nuevos*/
+insert into `accounts` (`id`, `username`, `password`, `email`, `role`) Values (4, 'adrian', 'bazan', 'bazan@reconext.com', 'admin');
+insert into `accounts` (`id`, `username`, `password`, `email`, `role`) Values (5, 'fernando', 'fer', 'fernando@reconext.com', 'user');
+
+SELECT * FROM accounts;

@@ -27,6 +27,34 @@ body {
   line-height: 1.6;
 }
 
+/* contenedor del los items*/
+#phone-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
+.phone-item {
+  border: 1px solid #ddd;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+  background-color: white;
+  transition: transform 0.2s;
+}
+.phone-item:hover {
+  transform: translateY(-5px);
+}
+.phone-item h3 {
+  margin-top: 0;
+  color: #007bff;
+}
+.phone-item p {
+  margin-bottom: 5px;
+}
+.phone-item strong {
+  font-weight: bold;
+}
+
 .app-container {
   max-width: 1440px;
   margin: 0 auto;

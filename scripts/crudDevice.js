@@ -81,49 +81,75 @@ function selectDevice(index) {
     updateButton.style.display = 'inline-block'; // Show the "Actualizar" button
 }
 
-// Render the list of devices
+// Render the list of devices with the new structure
 function renderDevices() {
     deviceList.innerHTML = '';
     devices.forEach((device, index) => {
         const li = document.createElement('li');
-        li.innerHTML = `
-            ${device.deviceName} (${device.model})
-            <button onclick="selectDevice(${index})">Editar</button>
-            <button onclick="deleteDevice(${index})">Eliminar</button>
-        `;
+        
+        // Create device header with title and actions
+        const header = document.createElement('div');
+        header.className = 'device-header';
+        
+        const title = document.createElement('div');
+        title.className = 'device-title';
+        title.textContent = device.deviceName;
+        
+        const actions = document.createElement('div');
+        actions.className = 'device-actions';
+        
+        const editButton = document.createElement('button');
+        editButton.className = 'edit';
+        editButton.innerHTML = '<i class="material-icons" style="vertical-align: middle;">edit</i> Editar';
+        editButton.onclick = () => selectDevice(index);
+        
+        const deleteButton = document.createElement('button');
+        deleteButton.className = 'delete';
+        deleteButton.innerHTML = '<i class="material-icons" style="vertical-align: middle;">delete</i> Eliminar';
+        deleteButton.onclick = () => deleteDevice(index);
+        
+        actions.appendChild(editButton);
+        actions.appendChild(deleteButton);
+        
+        header.appendChild(title);
+        header.appendChild(actions);
+        
+        // Create device info section
+        const info = document.createElement('div');
+        info.className = 'device-info';
+        
+        // Add all device fields
+        const fields = ['model', 'ram', 'storage', 'appleOrderNo', 'releaseDate', 'color'];
+        fields.forEach(field => {
+            if (device[field]) {
+                const span = document.createElement('span');
+                span.textContent = `${field.charAt(0).toUpperCase() + field.slice(1)}: ${device[field]}`;
+                info.appendChild(span);
+            }
+        });
+        
+        li.appendChild(header);
+        li.appendChild(info);
         deviceList.appendChild(li);
     });
 }
 
-// Add or update a device
-deviceForm.addEventListener('submit', (event) => {
-    event.preventDefault();
-
-    const formData = new FormData(deviceForm);
-    const newDevice = Object.fromEntries(formData.entries());
-
-    // Check and format the releaseDate if it's a valid date
-    if (newDevice.releaseDate) {
-        newDevice.releaseDate = formatDateToYYYYMMDD(newDevice.releaseDate);
-    }
-
-    const existingIndex = devices.findIndex(device => device.deviceName === newDevice.deviceName);
-    if (existingIndex !== -1) {
-        devices[existingIndex] = newDevice; // Update existing device
-    } else {
-        devices.push(newDevice); // Add new device
-    }
-
-    renderDevices();
-    saveDevices();
-    deviceForm.reset();
-});
-
 // Delete a device
 function deleteDevice(index) {
-    devices.splice(index, 1);
-    renderDevices();
-    saveDevices();
+    if (confirm('¿Estás seguro de que quieres eliminar este dispositivo?')) {
+        devices.splice(index, 1);
+        renderDevices();
+        saveDevices();
+        
+        // Reset form if the deleted device was being edited
+        if (selectedDeviceIndex === index) {
+            deviceForm.reset();
+            updateButton.disabled = true;
+            selectedDeviceIndex = null;
+            addButton.style.display = 'inline-block';
+            updateButton.style.display = 'none';
+        }
+    }
 }
 
 // Save devices to the JSON file
@@ -139,7 +165,6 @@ async function saveDevices() {
         } else {
             console.error('Error al guardar los dispositivos:', response.statusText);
         }
-
     } catch (error) {
         console.error('Error al guardar los dispositivos:', error);
     }
@@ -167,7 +192,6 @@ document.getElementById('back-to-home').addEventListener('click', function (even
     event.preventDefault(); // Evita el comportamiento predeterminado del enlace
     location.reload();
     window.history.back(); // Regresa a la página anterior
-    
 });
 
 // Initialize the app
