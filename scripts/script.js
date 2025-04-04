@@ -15,7 +15,7 @@ loadData('iphones'); // Cargar datos de iPhones por defecto al cargar la página
 // Función para cargar los datos de los dispositivos desde los archivos JSON
 function loadData(deviceType) {
     const jsonPath = deviceTypes[deviceType];
-
+    
     fetch(jsonPath)
         .then(response => {
             if (!response.ok) {
@@ -43,7 +43,11 @@ function loadData(deviceType) {
                 const phoneDiv = document.createElement('div');
                 phoneDiv.classList.add('phone-item');
 
-                let deviceInfo = `<h3>${device.deviceName}</h3>`;
+                // Aplicar la expresión regular para limpiar el texto
+                // Aplicar la expresión regular para limpiar el texto
+                const cleanDeviceName = device.deviceName.replace(/\s*\([^)]*\)|\s*\d+(?:,\s*\d+)*\s*(?:GB|TB)(?!\w).*$/gi, '').trim();
+
+                let deviceInfo = `<h3>${cleanDeviceName}</h3>`;
                 if (deviceType === 'iphones') {
                     deviceInfo += `
                         <p><strong>Modelo:</strong> ${device.model}</p>
