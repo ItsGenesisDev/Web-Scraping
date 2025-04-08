@@ -10,6 +10,8 @@
 <body>
     <h1>Administrador de Dispositivos</h1>
     <div id="crud-container">
+        
+
         <form id="device-form">
             <div class="form-group">
                 <label for="deviceType">Tipo de Dispositivo</label>
@@ -23,6 +25,11 @@
                 </select>
             </div>
             
+            <div class="form-group">
+                <label for="identifier">Identificador</label>
+                <input type="text" id="identifier" name="identifier" required placeholder="Ej: iPhone15,2">
+            </div>
+
             <div class="form-group">
                 <label for="deviceName">Nombre del Dispositivo</label>
                 <input type="text" id="deviceName" name="deviceName" required placeholder="Ej: iPhone 15 Pro">
@@ -63,15 +70,27 @@
                     <i class="material-icons" style="vertical-align: middle; margin-right: 5px;">add</i>
                     Agregar
                 </button>
-                <button type="button" id="update-button" disabled>
-                    <i class="material-icons" style="vertical-align: middle; margin-right: 5px;">update</i>
-                    Actualizar
+                <button type="button" id="update-button" style="display: none;">
+                    <i class="material-icons" style="vertical-align: middle; margin-right: 5px;">save</i>
+                    Guardar Cambios
+                </button>
+                <button type="button" id="cancel-button" style="display: none;">
+                    <i class="material-icons" style="vertical-align: middle; margin-right: 5px;">cancel</i>
+                    Cancelar
                 </button>
             </div>
         </form>
         
         <div id="device-list">
             <h2><i class="material-icons" style="vertical-align: middle;">devices</i> Lista de Dispositivos</h2>
+            <!-- Buscador de dispositivos -->
+                <div class="search-container">
+                    <div class="search-box">
+                        <i class="material-icons">search</i>
+                        <input type="text" id="search-input" placeholder="Buscar dispositivos...">
+                    </div>
+                </div>
+            <div class="results-info" id="results-info">Mostrando todos los dispositivos (0)</div>
             <ul id="devices">
                 <!-- Los dispositivos se agregarán aquí dinámicamente -->
             </ul>
@@ -82,7 +101,13 @@
         <i class="material-icons" style="vertical-align: middle;">arrow_back</i>
         Volver al inicio
     </a>
-    
+
+    <button class="toTop" id="toTop">
+        <svg viewBox="0 0 24 24">
+          <path d="m4 16 8-8 8 8"></path>
+        </svg>
+    </button>
+      
     <script src="../crudDevice.js"></script>
 </body>
 </html>

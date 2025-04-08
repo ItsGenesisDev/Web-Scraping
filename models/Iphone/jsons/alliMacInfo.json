@@ -1,842 +1,6 @@
 [
   {
-    "deviceName": "Apple iMac \"Core 2 Duo\" 2.0 17\"  Specs",
-    "processor": "Core 2 Duo (T7200)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Keyboard",
-    "ram": "1 GB",
-    "storage": "17.0\" Widescreen",
-    "releaseDate": "September 6, 2006"
-  },
-  {
-    "deviceName": "Apple iMac \"Core Duo\" 1.83 17\" (IG)  Specs",
-    "processor": "Core Duo (T2400)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Keyboard",
-    "ram": "512 MB",
-    "storage": "17.0\" Widescreen",
-    "releaseDate": "July 5, 2006"
-  },
-  {
-    "deviceName": "Apple iMac \"Core 2 Duo\" 1.83 17\" (IG)  Specs",
-    "processor": "Core 2 Duo (T5600)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Keyboard",
-    "ram": "512 MB, 1 GB*",
-    "storage": "17.0\" Widescreen",
-    "releaseDate": "September 6, 2006"
-  },
-  {
-    "deviceName": "Apple iMac G4/1.25 17\" \"FP\" (USB 2.0)  Specs",
-    "processor": "Integrated",
-    "model": "M6498 (EMC 1991)",
-    "appleOrderNo": "M9168LL/A",
-    "ram": "GeForce FX 5200 Ultra",
-    "storage": "80 GB HDD",
-    "releaseDate": "September 8, 2003"
-  },
-  {
-    "deviceName": "Apple iMac G5/1.8 17\" (ALS)  Specs",
-    "processor": "Integrated",
-    "model": "A1058 (EMC 2055)",
-    "appleOrderNo": "M9843LL/A",
-    "ram": "Radeon 9600",
-    "storage": "160 GB HDD",
-    "releaseDate": "May 3, 2005"
-  },
-  {
-    "deviceName": "Apple iMac G5/1.8 17\"  Specs",
-    "processor": "Integrated",
-    "model": "A1058 (EMC 1989)",
-    "appleOrderNo": "M9249LL/A",
-    "ram": "GeForce FX 5200 Ultra*",
-    "storage": "80 GB HDD",
-    "releaseDate": "August 31, 2004"
-  },
-  {
-    "deviceName": "Apple iMac \"Core i5\" 2.9 27\" (Late 2012)  Specs",
-    "processor": "Core i5 (I5-3470S)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Wireless Keyboard",
-    "ram": "8 GB",
-    "storage": "27\" 16:9 Widescreen",
-    "releaseDate": "October 23, 2012"
-  },
-  {
-    "deviceName": "Apple iMac \"Core 2 Duo\" 2.8 24\" (Early 2008)  Specs",
-    "processor": "Core 2 Duo (E8235)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Aluminum Keyboard",
-    "ram": "2 GB",
-    "storage": "24.0\" Widescreen",
-    "releaseDate": "April 28, 2008"
-  },
-  {
-    "deviceName": "Apple iMac G5/2.0 17\" (ALS)  Specs",
-    "processor": "Integrated",
-    "model": "A1058 (EMC 2055)",
-    "appleOrderNo": "M9844LL/A",
-    "ram": "Radeon 9600",
-    "storage": "160 GB HDD",
-    "releaseDate": "May 3, 2005"
-  },
-  {
-    "deviceName": "Apple iMac \"Core 2 Duo\" 2.33 20\"  Specs",
-    "processor": "Core 2 Duo (T7600)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Keyboard",
-    "ram": "1 GB",
-    "storage": "20.0\" Widescreen",
-    "releaseDate": "September 6, 2006"
-  },
-  {
-    "deviceName": "Apple iMac G5/2.0 20\" (ALS)  Specs",
-    "processor": "Integrated",
-    "model": "A1076 (EMC 2056)",
-    "appleOrderNo": "M9845LL/A",
-    "ram": "Radeon 9600",
-    "storage": "250 GB HDD",
-    "releaseDate": "May 3, 2005"
-  },
-  {
-    "deviceName": "Apple iMac G4/1.0 15\" \"FP\" (USB 2.0)  Specs",
-    "processor": "Integrated",
-    "model": "M6498 (EMC 1990)",
-    "appleOrderNo": "M9285LL/A",
-    "ram": "GeForce4 MX",
-    "storage": "80 GB HDD",
-    "releaseDate": "September 8, 2003"
-  },
-  {
-    "deviceName": "Apple iMac G3/700 SE (Summer 2001)  Specs",
-    "processor": "Integrated",
-    "model": "M5521 (EMC 1857)",
-    "appleOrderNo": "M8510LL/A*",
-    "ram": "Rage 128 Ultra",
-    "storage": "60.0 GB HDD",
-    "releaseDate": "July 18, 2001"
-  },
-  {
-    "deviceName": "Apple iMac \"Core 2 Duo\" 2.66 24\" (Early 2009)  Specs",
-    "processor": "Core 2 Duo (E8135)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Keyboard*",
-    "ram": "4 GB",
-    "storage": "24.0\" Widescreen",
-    "releaseDate": "March 3, 2009"
-  },
-  {
-    "deviceName": "Apple iMac \"Core 2 Duo\" 3.33 27\" (Late 2009)  Specs",
-    "processor": "Core 2 Duo (E8600)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Wireless Keyboard",
-    "ram": "4 GB",
-    "storage": "27\" 16:9 Widescreen",
-    "releaseDate": "October 20, 2009"
-  },
-  {
-    "deviceName": "Apple iMac \"Core Duo\" 1.83 17\"  Specs",
-    "processor": "Core Duo (T2400)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Keyboard",
-    "ram": "512 MB",
-    "storage": "17.0\" Widescreen",
-    "releaseDate": "January 10, 2006"
-  },
-  {
-    "deviceName": "Apple iMac \"Core 2 Duo\" 2.93 24\" (Early 2009)  Specs",
-    "processor": "Core 2 Duo (E8335)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Keyboard*",
-    "ram": "4 GB",
-    "storage": "24.0\" Widescreen",
-    "releaseDate": "March 3, 2009"
-  },
-  {
-    "deviceName": "Apple iMac \"Core i7\" 3.4 27\" (Late 2012)  Specs",
-    "processor": "Core i7 (I7-3770)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Wireless Keyboard",
-    "ram": "8 GB",
-    "storage": "27\" 16:9 Widescreen",
-    "releaseDate": "October 23, 2012"
-  },
-  {
-    "deviceName": "Apple iMac G4/700 (Flat Panel)  Specs",
-    "processor": "Integrated",
-    "model": "M6498 (EMC 1873)",
-    "appleOrderNo": "M8672LL/A*",
-    "ram": "GeForce2 MX",
-    "storage": "40 GB HDD",
-    "releaseDate": "January 7, 2002"
-  },
-  {
-    "deviceName": "Apple iMac \"Core i7\" 2.8 21.5\" (Mid-2011)  Specs",
-    "processor": "Core i7 (I7-2600S)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Wireless Keyboard",
-    "ram": "4 GB",
-    "storage": "21.5\" 16:9 Widescreen",
-    "releaseDate": "May 3, 2011"
-  },
-  {
-    "deviceName": "Apple iMac \"Core i5\" 2.5 21.5\" (Mid-2011)  Specs",
-    "processor": "Core i5 (I5-2400S)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Wireless Keyboard",
-    "ram": "4 GB",
-    "storage": "21.5\" 16:9 Widescreen",
-    "releaseDate": "May 3, 2011"
-  },
-  {
-    "deviceName": "Apple iMac \"Core i7\" 3.1 21.5\" (Late 2013)  Specs",
-    "processor": "Core i7 (I7-4770S)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Wireless Keyboard",
-    "ram": "8 GB",
-    "storage": "21.5\" 16:9 Widescreen",
-    "releaseDate": "September 24, 2013"
-  },
-  {
-    "deviceName": "Apple iMac \"Core i5\" 2.9 21.5\" (Late 2013)  Specs",
-    "processor": "Core i5 (I5-4570S)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Wireless Keyboard",
-    "ram": "8 GB",
-    "storage": "21.5\" 16:9 Widescreen",
-    "releaseDate": "September 24, 2013"
-  },
-  {
-    "deviceName": "Apple iMac \"Core 2 Duo\" 2.4 24\" (Al)  Specs",
-    "processor": "Core 2 Duo (T7700)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Aluminum Keyboard",
-    "ram": "1 GB",
-    "storage": "24.0\" Widescreen",
-    "releaseDate": "August 7, 2007"
-  },
-  {
-    "deviceName": "Apple iMac \"Core 2 Duo\" 2.16 24\"  Specs",
-    "processor": "Core 2 Duo (T7400)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Keyboard",
-    "ram": "1 GB",
-    "storage": "24.0\" Widescreen",
-    "releaseDate": "September 6, 2006"
-  },
-  {
-    "deviceName": "Apple iMac \"Core i3\" 3.06 21.5\" (Mid-2010)  Specs",
-    "processor": "Core i3 (I3-540)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Wireless Keyboard",
-    "ram": "4 GB",
-    "storage": "21.5\" 16:9 Widescreen",
-    "releaseDate": "July 27, 2010"
-  },
-  {
-    "deviceName": "Apple iMac G3/333 (Fruit Colors)  Specs",
-    "processor": "Integrated",
-    "model": "M4984 (EMC None)",
-    "appleOrderNo": "M7440LL/A*",
-    "ram": "Rage Pro Turbo",
-    "storage": "6.0 GB HDD",
-    "releaseDate": "April 14, 1999"
-  },
-  {
-    "deviceName": "Apple iMac G4/800 - X Only (Flat Panel)  Specs",
-    "processor": "Integrated",
-    "model": "M6498 (EMC N/A)",
-    "appleOrderNo": "M9105LL/A",
-    "ram": "GeForce2 MX",
-    "storage": "60 GB HDD",
-    "releaseDate": "February 4, 2003"
-  },
-  {
-    "deviceName": "Apple iMac G3/400 DV (Summer 2000 - I/R)  Specs",
-    "processor": "Integrated",
-    "model": "M5521 (EMC 1857)",
-    "appleOrderNo": "M7639LL/A*",
-    "ram": "Rage 128 Pro",
-    "storage": "10.0 GB HDD",
-    "releaseDate": "July 19, 2000"
-  },
-  {
-    "deviceName": "Apple iMac G4/1.25 20\" \"FP\" (USB 2.0)  Specs",
-    "processor": "Integrated",
-    "model": "A1065 (EMC 1992)",
-    "appleOrderNo": "M9290LL/A",
-    "ram": "GeForce FX 5200 Ultra",
-    "storage": "80 GB HDD",
-    "releaseDate": "November 18, 2003"
-  },
-  {
-    "deviceName": "Apple iMac G3/350 (Summer 2000 - Indigo)  Specs",
-    "processor": "Integrated",
-    "model": "M5521 (EMC 1857)",
-    "appleOrderNo": "M7667LL/A",
-    "ram": "Rage 128 Pro",
-    "storage": "7.0 GB HDD",
-    "releaseDate": "July 19, 2000"
-  },
-  {
-    "deviceName": "Apple iMac G5/1.6 17\"  Specs",
-    "processor": "Integrated",
-    "model": "A1058 (EMC 1989)",
-    "appleOrderNo": "M9248LL/A",
-    "ram": "GeForce FX 5200 Ultra*",
-    "storage": "80 GB HDD",
-    "releaseDate": "August 31, 2004"
-  },
-  {
-    "deviceName": "Apple iMac G3/266 (Fruit Colors)  Specs",
-    "processor": "Integrated",
-    "model": "M4984 (EMC None)",
-    "appleOrderNo": "M7345LL/A*",
-    "ram": "Rage Pro Turbo",
-    "storage": "6.0 GB HDD",
-    "releaseDate": "January 5, 1999"
-  },
-  {
-    "deviceName": "Apple iMac G3/400 (Early 2001 - Indigo)  Specs",
-    "processor": "Integrated",
-    "model": "M5521 (EMC 1857)",
-    "appleOrderNo": "M7683LL/A",
-    "ram": "Rage 128 Pro",
-    "storage": "10.0 GB HDD",
-    "releaseDate": "February 22, 2001"
-  },
-  {
-    "deviceName": "Apple iMac G3/500 (Summer 2001 - I/S)  Specs",
-    "processor": "Integrated",
-    "model": "M5521 (EMC 1857)",
-    "appleOrderNo": "M8582LL/A*",
-    "ram": "Rage 128 Ultra",
-    "storage": "20.0 GB HDD",
-    "releaseDate": "July 18, 2001*"
-  },
-  {
-    "deviceName": "Apple iMac G4/1.0 17\" (Flat Panel)  Specs",
-    "processor": "Integrated",
-    "model": "M6498 (EMC 1956)",
-    "appleOrderNo": "M8935LL/A",
-    "ram": "GeForce4 MX",
-    "storage": "80 GB HDD",
-    "releaseDate": "February 4, 2003"
-  },
-  {
-    "deviceName": "Apple iMac G3/400 DV SE (Slot Loading)  Specs",
-    "processor": "Integrated",
-    "model": "M5521 (EMC 1821)",
-    "appleOrderNo": "M7668LL/A",
-    "ram": "Rage 128 VR 2D/3D",
-    "storage": "13.0 GB HDD",
-    "releaseDate": "October 5, 1999"
-  },
-  {
-    "deviceName": "Apple iMac \"Core i5\" 3.4 27\" (Late 2013)  Specs",
-    "processor": "Core i5 (I5-4670)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Wireless Keyboard",
-    "ram": "8 GB",
-    "storage": "27\" 16:9 Widescreen",
-    "releaseDate": "September 24, 2013"
-  },
-  {
-    "deviceName": "Apple iMac \"Core i5\" 3.6 27\" (Mid-2010)  Specs",
-    "processor": "Core i5 (I5-680)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Wireless Keyboard",
-    "ram": "4 GB",
-    "storage": "27\" 16:9 Widescreen",
-    "releaseDate": "July 27, 2010"
-  },
-  {
-    "deviceName": "Apple iMac \"Core 2 Duo\" 3.33 21.5\" (Late 2009)  Specs",
-    "processor": "Core 2 Duo (E8600)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Wireless Keyboard",
-    "ram": "4 GB",
-    "storage": "21.5\" 16:9 Widescreen",
-    "releaseDate": "October 20, 2009"
-  },
-  {
-    "deviceName": "Apple iMac G5/1.8 20\"  Specs",
-    "processor": "Integrated",
-    "model": "A1076 (EMC 2008)",
-    "appleOrderNo": "M9250LL/A",
-    "ram": "GeForce FX 5200 Ultra*",
-    "storage": "160 GB HDD",
-    "releaseDate": "August 31, 2004"
-  },
-  {
-    "deviceName": "Apple iMac \"Core 2 Duo\" 2.4 20\" (Al)  Specs",
-    "processor": "Core 2 Duo (T7700)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Aluminum Keyboard",
-    "ram": "1 GB",
-    "storage": "20.0\" Widescreen",
-    "releaseDate": "August 7, 2007"
-  },
-  {
-    "deviceName": "Apple iMac G3/350 (Slot Loading - Blueberry)  Specs",
-    "processor": "Integrated",
-    "model": "M5521 (EMC 1821)",
-    "appleOrderNo": "M7469LL/A",
-    "ram": "Rage 128 VR 2D/3D",
-    "storage": "6.0 GB HDD",
-    "releaseDate": "October 5, 1999"
-  },
-  {
-    "deviceName": "Apple iMac G3/600 SE (Early 2001)  Specs",
-    "processor": "Integrated",
-    "model": "M5521 (EMC 1857)",
-    "appleOrderNo": "M7680LL/A*",
-    "ram": "Rage 128 Ultra",
-    "storage": "40.0 GB HDD",
-    "releaseDate": "February 22, 2001"
-  },
-  {
-    "deviceName": "Apple iMac G5/2.1 20\" (iSight)  Specs",
-    "processor": "Integrated",
-    "model": "A1145 (EMC 2082)",
-    "appleOrderNo": "MA064LL/A",
-    "ram": "Radeon X600 XT",
-    "storage": "250 GB HDD",
-    "releaseDate": "October 12, 2005"
-  },
-  {
-    "deviceName": "Apple iMac \"Core 2 Duo\" 2.26 20\" (Mid-2009)  Specs",
-    "processor": "Core 2 Duo (P7550)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Keyboard*",
-    "ram": "1 GB, 2 GB*",
-    "storage": "20.0\" Widescreen",
-    "releaseDate": "March 4, 2010*"
-  },
-  {
-    "deviceName": "Apple iMac G4/800 (Flat Panel)  Specs",
-    "processor": "Integrated",
-    "model": "M6498 (EMC 1873)",
-    "appleOrderNo": "M8535LL/A*",
-    "ram": "GeForce2 MX",
-    "storage": "60 GB HDD",
-    "releaseDate": "January 7, 2002"
-  },
-  {
-    "deviceName": "Apple iMac \"Core i5\" 3.1 27\" (Mid-2011)  Specs",
-    "processor": "Core i5 (I5-2400)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Wireless Keyboard",
-    "ram": "4 GB",
-    "storage": "27\" 16:9 Widescreen",
-    "releaseDate": "May 3, 2011"
-  },
-  {
-    "deviceName": "Apple iMac \"Core i5\" 2.8 27\" (Mid-2010)  Specs",
-    "processor": "Core i5 (I5-760)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Wireless Keyboard",
-    "ram": "4 GB",
-    "storage": "27\" 16:9 Widescreen",
-    "releaseDate": "July 27, 2010"
-  },
-  {
-    "deviceName": "Apple iMac \"Core 2 Duo\" 3.06 24\" (Early 2009)  Specs",
-    "processor": "Core 2 Duo (E8435)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Keyboard*",
-    "ram": "4 GB",
-    "storage": "24.0\" Widescreen",
-    "releaseDate": "March 3, 2009"
-  },
-  {
-    "deviceName": "Apple iMac \"Core i3\" 3.1 21.5\" (Late 2011)  Specs",
-    "processor": "Core i3 (I3-2100)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Keyboard",
-    "ram": "2 GB",
-    "storage": "21.5\" 16:9 Widescreen",
-    "releaseDate": "August 8, 2011"
-  },
-  {
-    "deviceName": "Apple iMac \"Core Duo\" 2.0 20\"  Specs",
-    "processor": "Core Duo (T2500)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Keyboard",
-    "ram": "512 MB",
-    "storage": "20.0\" Widescreen",
-    "releaseDate": "January 10, 2006"
-  },
-  {
-    "deviceName": "Apple iMac \"Core i5\" 3.2 27\" (Late 2013)  Specs",
-    "processor": "Core i5 (I5-4570)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Wireless Keyboard",
-    "ram": "8 GB",
-    "storage": "27\" 16:9 Widescreen",
-    "releaseDate": "September 24, 2013"
-  },
-  {
-    "deviceName": "Apple iMac \"Core i5\" 2.7 21.5\" (Mid-2011)  Specs",
-    "processor": "Core i5 (I5-2500S)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Wireless Keyboard",
-    "ram": "4 GB",
-    "storage": "21.5\" 16:9 Widescreen",
-    "releaseDate": "May 3, 2011"
-  },
-  {
-    "deviceName": "Apple iMac G3/400 DV (Slot Loading - Fruit)  Specs",
-    "processor": "Integrated",
-    "model": "M5521 (EMC 1821)",
-    "appleOrderNo": "M7493LL/A*",
-    "ram": "Rage 128 VR 2D/3D",
-    "storage": "10.0 GB HDD",
-    "releaseDate": "October 5, 1999"
-  },
-  {
-    "deviceName": "Apple iMac \"Core 2 Duo\" 2.33 24\"  Specs",
-    "processor": "Core 2 Duo (T7600)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Keyboard",
-    "ram": "1 GB",
-    "storage": "24.0\" Widescreen",
-    "releaseDate": "September 6, 2006"
-  },
-  {
-    "deviceName": "Apple iMac \"Core 2 Extreme\" 2.8 24\" (Al)  Specs",
-    "processor": "Core 2 Extreme* (X7900)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Aluminum Keyboard",
-    "ram": "2 GB",
-    "storage": "24.0\" Widescreen",
-    "releaseDate": "August 7, 2007"
-  },
-  {
-    "deviceName": "Apple iMac G3/233 Original - Bondi (Rev. A & B)  Specs",
-    "processor": "Integrated",
-    "model": "M4984 (EMC None)",
-    "appleOrderNo": "M6709LL/A*",
-    "ram": "Rage IIc*",
-    "storage": "4.0 GB HDD",
-    "releaseDate": "May 6, 1998*"
-  },
-  {
-    "deviceName": "Apple iMac \"Core i5\" 2.7 21.5\" (Late 2012)  Specs",
-    "processor": "Core i5 (I5-3330S)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Wireless Keyboard",
-    "ram": "8 GB",
-    "storage": "21.5\" 16:9 Widescreen",
-    "releaseDate": "October 23, 2012"
-  },
-  {
-    "deviceName": "Apple iMac \"Core i5\" 2.9 21.5\" (Late 2012)  Specs",
-    "processor": "Core i5 (I5-3470S)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Wireless Keyboard",
-    "ram": "8 GB",
-    "storage": "21.5\" 16:9 Widescreen",
-    "releaseDate": "October 23, 2012"
-  },
-  {
-    "deviceName": "Apple iMac \"Core i5\" 2.66 27\" (Late 2009)  Specs",
-    "processor": "Core i5 (I5-750)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Wireless Keyboard",
-    "ram": "4 GB",
-    "storage": "27\" 16:9 Widescreen",
-    "releaseDate": "October 20, 2009"
-  },
-  {
-    "deviceName": "Apple iMac \"Core i7\" 3.1 21.5\" (Late 2012)  Specs",
-    "processor": "Core i7 (I7-3770S)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Wireless Keyboard",
-    "ram": "8 GB",
-    "storage": "21.5\" 16:9 Widescreen",
-    "releaseDate": "October 23, 2012"
-  },
-  {
-    "deviceName": "Apple iMac \"Core i7\" 2.8 27\" (Late 2009)  Specs",
-    "processor": "Core i7 (I7-860)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Wireless Keyboard",
-    "ram": "4 GB",
-    "storage": "27\" 16:9 Widescreen",
-    "releaseDate": "October 20, 2009"
-  },
-  {
-    "deviceName": "Apple iMac \"Core 2 Duo\" 3.06 27\" (Late 2009)  Specs",
-    "processor": "Core 2 Duo (E7600)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Wireless Keyboard",
-    "ram": "4 GB",
-    "storage": "27\" 16:9 Widescreen",
-    "releaseDate": "October 20, 2009"
-  },
-  {
-    "deviceName": "Apple iMac \"Core i5\" 3.2 27\" (Late 2012)  Specs",
-    "processor": "Core i5 (I5-3470)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Wireless Keyboard",
-    "ram": "8 GB",
-    "storage": "27\" 16:9 Widescreen",
-    "releaseDate": "October 23, 2012"
-  },
-  {
-    "deviceName": "Apple iMac \"Core 2 Duo\" 2.16 20\"  Specs",
-    "processor": "Core 2 Duo (T7400)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Keyboard",
-    "ram": "1 GB",
-    "storage": "20.0\" Widescreen",
-    "releaseDate": "September 6, 2006"
-  },
-  {
-    "deviceName": "Apple iMac \"Core 2 Duo\" 3.06 24\" (Early 2008)  Specs",
-    "processor": "Core 2 Duo (E8435)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Aluminum Keyboard",
-    "ram": "2 GB",
-    "storage": "24.0\" Widescreen",
-    "releaseDate": "April 28, 2008"
-  },
-  {
-    "deviceName": "Apple iMac \"Core i3\" 3.2 21.5\" (Mid-2010)  Specs",
-    "processor": "Core i3 (I3-550)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Wireless Keyboard",
-    "ram": "4 GB",
-    "storage": "21.5\" 16:9 Widescreen",
-    "releaseDate": "July 27, 2010"
-  },
-  {
-    "deviceName": "Apple iMac \"Core i7\" 3.4 27\" (Mid-2011)  Specs",
-    "processor": "Core i7 (I7-2600)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Wireless Keyboard",
-    "ram": "4 GB",
-    "storage": "27\" 16:9 Widescreen",
-    "releaseDate": "May 3, 2011"
-  },
-  {
-    "deviceName": "Apple iMac \"Core 2 Duo\" 2.0 20\" (Al)  Specs",
-    "processor": "Core 2 Duo (T7300)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Aluminum Keyboard",
-    "ram": "1 GB",
-    "storage": "20.0\" Widescreen",
-    "releaseDate": "August 7, 2007"
-  },
-  {
-    "deviceName": "Apple iMac \"Core i3\" 3.3 21.5\" (Early 2013)  Specs",
-    "processor": "Core i3 (I3-3225)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Keyboard",
-    "ram": "4 GB",
-    "storage": "21.5\" 16:9 Widescreen",
-    "releaseDate": "March 5, 2013"
-  },
-  {
-    "deviceName": "Apple iMac \"Core 2 Duo\" 3.06 21.5\" (Late 2009)  Specs",
-    "processor": "Core 2 Duo (E7600)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Wireless Keyboard",
-    "ram": "4 GB",
-    "storage": "21.5\" 16:9 Widescreen",
-    "releaseDate": "October 20, 2009"
-  },
-  {
-    "deviceName": "Apple iMac \"Core i7\" 3.5 27\" (Late 2013)  Specs",
-    "processor": "Core i7 (I7-4771)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Wireless Keyboard",
-    "ram": "8 GB",
-    "storage": "27\" 16:9 Widescreen",
-    "releaseDate": "September 24, 2013"
-  },
-  {
-    "deviceName": "Apple iMac \"Core i3\" 3.2 27\" (Mid-2010)  Specs",
-    "processor": "Core i3 (I3-550)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Wireless Keyboard",
-    "ram": "4 GB",
-    "storage": "27\" 16:9 Widescreen",
-    "releaseDate": "July 27, 2010"
-  },
-  {
-    "deviceName": "Apple iMac \"Core i5\" 1.4 21.5\" (Mid-2014)  Specs",
-    "processor": "Core i5 (I5-4260U)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Wireless Keyboard",
-    "ram": "8 GB",
-    "storage": "21.5\" 16:9 Widescreen",
-    "releaseDate": "June 18, 2014"
-  },
-  {
-    "deviceName": "Apple iMac \"Core i5\" 3.1 27\" (5K, 2020)  Specs",
-    "processor": "Core i5 (I5-10500)",
-    "model": "All-in-One",
-    "appleOrderNo": "Magic Keyboard*",
-    "ram": "8 GB",
-    "storage": "27\" 16:9 Widescreen",
-    "releaseDate": "August 4, 2020"
-  },
-  {
-    "deviceName": "Apple iMac \"Core i5\" 2.7 21.5\" (Late 2013)  Specs",
-    "processor": "Core i5 (I5-4570R)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Wireless Keyboard",
-    "ram": "8 GB",
-    "storage": "21.5\" 16:9 Widescreen",
-    "releaseDate": "September 24, 2013"
-  },
-  {
-    "deviceName": "Apple iMac G3/500 (Early 2001 - Flower/Blue)  Specs",
-    "processor": "Integrated",
-    "model": "M5521 (EMC 1857)",
-    "appleOrderNo": "M7669LL/A*",
-    "ram": "Rage 128 Ultra",
-    "storage": "20.0 GB HDD",
-    "releaseDate": "February 22, 2001"
-  },
-  {
-    "deviceName": "Apple iMac \"Core i7\" 2.93 27\" (Mid-2010)  Specs",
-    "processor": "Core i7 (I7-870)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Wireless Keyboard",
-    "ram": "4 GB",
-    "storage": "27\" 16:9 Widescreen",
-    "releaseDate": "July 27, 2010"
-  },
-  {
-    "deviceName": "Apple iMac \"Core i5\" 3.5 27\" (5K, Mid-2017)  Specs",
-    "processor": "Core i5 (I5-7600)",
-    "model": "All-in-One",
-    "appleOrderNo": "Magic Keyboard*",
-    "ram": "8 GB",
-    "storage": "27\" 16:9 Widescreen",
-    "releaseDate": "June 5, 2017"
-  },
-  {
-    "deviceName": "Apple iMac \"Core i5\" 2.8 21.5\" (Late 2015)  Specs",
-    "processor": "Core i5 (I5-5575R)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Magic Keyboard",
-    "ram": "8 GB",
-    "storage": "21.5\" 16:9 Widescreen",
-    "releaseDate": "October 13, 2015"
-  },
-  {
-    "deviceName": "Apple iMac \"Core i5\" 3.0 27\" (5K, 2019)  Specs",
-    "processor": "Core i5 (I5-8500)",
-    "model": "All-in-One",
-    "appleOrderNo": "Magic Keyboard*",
-    "ram": "8 GB",
-    "storage": "27\" 16:9 Widescreen",
-    "releaseDate": "March 19, 2019"
-  },
-  {
-    "deviceName": "Apple iMac G5/1.9 17\" (iSight)  Specs",
-    "processor": "Integrated",
-    "model": "A1144 (EMC 2081)",
-    "appleOrderNo": "MA063LL/A",
-    "ram": "Radeon X600 Pro",
-    "storage": "160 GB HDD",
-    "releaseDate": "October 12, 2005"
-  },
-  {
-    "deviceName": "Apple iMac G3/600 (Summer 2001)  Specs",
-    "processor": "Integrated",
-    "model": "M5521 (EMC 1857)",
-    "appleOrderNo": "M8492LL/A*",
-    "ram": "Rage 128 Ultra",
-    "storage": "40.0 GB HDD",
-    "releaseDate": "July 18, 2001*"
-  },
-  {
-    "deviceName": "Apple iMac \"Core i5\" 3.0 21.5\" (4K, Mid-2017)  Specs",
-    "processor": "Core i5 (I5-7400)",
-    "model": "All-in-One",
-    "appleOrderNo": "Magic Keyboard*",
-    "ram": "8 GB",
-    "storage": "21.5\" 16:9 Widescreen",
-    "releaseDate": "June 5, 2017"
-  },
-  {
-    "deviceName": "Apple iMac \"Core i3\" 3.6 21.5\" (4K, 2019)  Specs",
-    "processor": "Core i3 (I3-8100)",
-    "model": "All-in-One",
-    "appleOrderNo": "Magic Keyboard*",
-    "ram": "8 GB",
-    "storage": "21.5\" 16:9 Widescreen",
-    "releaseDate": "March 19, 2019"
-  },
-  {
-    "deviceName": "Apple iMac \"M1\" 8 CPU/7 GPU/2 Ports 24\"  Specs",
-    "processor": "Apple M1",
-    "model": "All-in-One",
-    "appleOrderNo": "Magic Keyboard*",
-    "ram": "8 GB",
-    "storage": "23.5\" Widescreen",
-    "releaseDate": "April 20, 2021*"
-  },
-  {
-    "deviceName": "Apple iMac \"Core 2 Duo\" 2.4 20\" (Early 2008)  Specs",
-    "processor": "Core 2 Duo (E8135)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Aluminum Keyboard",
-    "ram": "1 GB",
-    "storage": "20.0\" Widescreen",
-    "releaseDate": "April 28, 2008"
-  },
-  {
-    "deviceName": "Apple iMac \"Core 2 Duo\" 2.66 20\" (Early 2008)  Specs",
-    "processor": "Core 2 Duo (E8335)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Aluminum Keyboard",
-    "ram": "2 GB",
-    "storage": "20.0\" Widescreen",
-    "releaseDate": "April 28, 2008"
-  },
-  {
-    "deviceName": "Apple iMac G3/500 DV SE (Summer 2000)  Specs",
-    "processor": "Integrated",
-    "model": "M5521 (EMC 1857)",
-    "appleOrderNo": "M7651LL/A*",
-    "ram": "Rage 128 Pro",
-    "storage": "30.0 GB HDD",
-    "releaseDate": "July 19, 2000"
-  },
-  {
-    "deviceName": "Apple iMac \"Core i7\" 4.0 27\" (5K, Late 2015)  Specs",
-    "processor": "Core i7 (I7-6700K)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Magic Keyboard",
-    "ram": "8 GB",
-    "storage": "27\" 16:9 Widescreen",
-    "releaseDate": "October 13, 2015"
-  },
-  {
-    "deviceName": "Apple iMac \"Core i5\" 3.2 27\" (5K, Late 2015)  Specs",
-    "processor": "Core i5 (I5-6500)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Magic Keyboard",
-    "ram": "8 GB",
-    "storage": "27\" 16:9 Widescreen",
-    "releaseDate": "October 13, 2015"
-  },
-  {
-    "deviceName": "Apple iMac \"Core i9\" 3.6 27\" (5K, 2020)  Specs",
-    "processor": "Core i9 (I9-10910)",
-    "model": "All-in-One",
-    "appleOrderNo": "Magic Keyboard*",
-    "ram": "8 GB",
-    "storage": "27\" 16:9 Widescreen",
-    "releaseDate": "August 4, 2020"
-  },
-  {
+    "identifier": "PowerMac2,2",
     "deviceName": "Apple iMac G3/450 DV+ (Summer 2000)  Specs",
     "processor": "Integrated",
     "model": "M5521 (EMC 1857)",
@@ -846,42 +10,27 @@
     "releaseDate": "July 19, 2000"
   },
   {
-    "deviceName": "Apple iMac \"Core 2 Duo\" 2.0 20\" (Mid-2009)  Specs",
-    "processor": "Core 2 Duo (P7350)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Keyboard*",
-    "ram": "1 GB",
-    "storage": "20.0\" Widescreen",
-    "releaseDate": "April 7, 2009"
+    "identifier": "PowerMac2,1",
+    "deviceName": "Apple iMac G3/350 (Slot Loading - Blueberry)  Specs",
+    "processor": "Integrated",
+    "model": "M5521 (EMC 1821)",
+    "appleOrderNo": "M7469LL/A",
+    "ram": "Rage 128 VR 2D/3D",
+    "storage": "6.0 GB HDD",
+    "releaseDate": "October 5, 1999"
   },
   {
-    "deviceName": "Apple iMac \"Core 2 Duo\" 2.16 17\"  Specs",
-    "processor": "Core 2 Duo (T7400)",
+    "identifier": "27\" iMac Late 2012",
+    "deviceName": "Apple iMac \"Core i5\" 3.2 27\" (Late 2013)  Specs",
+    "processor": "Core i5 (I5-4570)",
     "model": "All-in-One",
-    "appleOrderNo": "Apple Keyboard",
-    "ram": "1 GB",
-    "storage": "17.0\" Widescreen",
-    "releaseDate": "September 6, 2006"
-  },
-  {
-    "deviceName": "Apple iMac \"Core i7\" 3.3 21.5\" (4K, Late 2015)  Specs",
-    "processor": "Core i7 (I7-5775R)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Magic Keyboard",
+    "appleOrderNo": "Apple Wireless Keyboard",
     "ram": "8 GB",
-    "storage": "21.5\" 16:9 Widescreen",
-    "releaseDate": "October 13, 2015"
+    "storage": "27\" 16:9 Widescreen",
+    "releaseDate": "September 24, 2013"
   },
   {
-    "deviceName": "Apple iMac \"Core i7\" 3.6 21.5\" (4K, Mid-2017)  Specs",
-    "processor": "Core i7 (I7-7700)",
-    "model": "All-in-One",
-    "appleOrderNo": "Magic Keyboard*",
-    "ram": "8 GB",
-    "storage": "21.5\" 16:9 Widescreen",
-    "releaseDate": "June 5, 2017"
-  },
-  {
+    "identifier": "PowerMac4,5",
     "deviceName": "Apple iMac G4/800 17\" (Flat Panel)  Specs",
     "processor": "Integrated",
     "model": "M6498 (EMC 1936)",
@@ -891,60 +40,47 @@
     "releaseDate": "July 17, 2002"
   },
   {
-    "deviceName": "Apple iMac \"Core i5\" 3.6 21.5\" (Mid-2010)  Specs",
-    "processor": "Core i5 (I5-680)",
+    "identifier": "PowerMac12,1",
+    "deviceName": "Apple iMac G5/2.1 20\" (iSight)  Specs",
+    "processor": "Integrated",
+    "model": "A1145 (EMC 2082)",
+    "appleOrderNo": "MA064LL/A",
+    "ram": "Radeon X600 XT",
+    "storage": "250 GB HDD",
+    "releaseDate": "October 12, 2005"
+  },
+  {
+    "identifier": "PowerMac8,1",
+    "deviceName": "Apple iMac G5/1.8 20\"  Specs",
+    "processor": "Integrated",
+    "model": "A1076 (EMC 2008)",
+    "appleOrderNo": "M9250LL/A",
+    "ram": "GeForce FX 5200 Ultra*",
+    "storage": "160 GB HDD",
+    "releaseDate": "August 31, 2004"
+  },
+  {
+    "identifier": "PowerMac4,1",
+    "deviceName": "Apple iMac G3/600 (Summer 2001)  Specs",
+    "processor": "Integrated",
+    "model": "M5521 (EMC 1857)",
+    "appleOrderNo": "M8492LL/A*",
+    "ram": "Rage 128 Ultra",
+    "storage": "40.0 GB HDD",
+    "releaseDate": "July 18, 2001*"
+  },
+  {
+    "identifier": "iMac (Late 2009)",
+    "deviceName": "Apple iMac \"Core i5\" 2.7 21.5\" (Mid-2011)  Specs",
+    "processor": "Core i5 (I5-2500S)",
     "model": "All-in-One",
     "appleOrderNo": "Apple Wireless Keyboard",
     "ram": "4 GB",
     "storage": "21.5\" 16:9 Widescreen",
-    "releaseDate": "July 27, 2010"
+    "releaseDate": "May 3, 2011"
   },
   {
-    "deviceName": "Apple iMac \"M4\" 8 CPU/8 GPU/2 Ports 24\"  Specs",
-    "processor": "Apple M4",
-    "model": "All-in-One",
-    "appleOrderNo": "Magic Keyboard*",
-    "ram": "16 GB",
-    "storage": "23.5\" Widescreen",
-    "releaseDate": "October 28, 2024"
-  },
-  {
-    "deviceName": "Apple iMac \"Core i5\" 3.1 27\" (5K, 2019)  Specs",
-    "processor": "Core i5 (I5-8600)",
-    "model": "All-in-One",
-    "appleOrderNo": "Magic Keyboard*",
-    "ram": "8 GB",
-    "storage": "27\" 16:9 Widescreen",
-    "releaseDate": "March 19, 2019"
-  },
-  {
-    "deviceName": "Apple iMac \"Core i5\" 3.3 27\" (5K, Late 2015)  Specs",
-    "processor": "Core i5 (I5-6600)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Magic Keyboard",
-    "ram": "8 GB",
-    "storage": "27\" 16:9 Widescreen",
-    "releaseDate": "October 13, 2015"
-  },
-  {
-    "deviceName": "Apple iMac \"Core 2 Duo\" 2.66 20\" (Early 2009)  Specs",
-    "processor": "Core 2 Duo (E8135)",
-    "model": "All-in-One",
-    "appleOrderNo": "Apple Keyboard*",
-    "ram": "2 GB",
-    "storage": "20.0\" Widescreen",
-    "releaseDate": "March 3, 2009"
-  },
-  {
-    "deviceName": "Apple iMac \"Core i5\" 2.3 21.5\" (Mid-2017)  Specs",
-    "processor": "Core i5 (I5-7360U)",
-    "model": "All-in-One",
-    "appleOrderNo": "Magic Keyboard*",
-    "ram": "8 GB",
-    "storage": "21.5\" 16:9 Widescreen",
-    "releaseDate": "June 5, 2017"
-  },
-  {
+    "identifier": "27\" iMac Late 2012",
     "deviceName": "Apple iMac \"Core i7\" 4.0 27\" (5K, Late 2014)  Specs",
     "processor": "Core i7 (I7-4790K)",
     "model": "All-in-One",
@@ -954,15 +90,337 @@
     "releaseDate": "October 16, 2014*"
   },
   {
-    "deviceName": "Apple iMac \"M4\" 10 CPU/10 GPU/4 Ports 24\"  Specs",
-    "processor": "Apple M4",
-    "model": "All-in-One",
-    "appleOrderNo": "Magic Keyboard (Touch ID)*",
-    "ram": "16, 24 GB",
-    "storage": "23.5\" Widescreen",
-    "releaseDate": "October 28, 2024"
+    "identifier": "PowerMac4,2",
+    "deviceName": "Apple iMac G4/700 (Flat Panel)  Specs",
+    "processor": "Integrated",
+    "model": "M6498 (EMC 1873)",
+    "appleOrderNo": "M8672LL/A*",
+    "ram": "GeForce2 MX",
+    "storage": "40 GB HDD",
+    "releaseDate": "January 7, 2002"
   },
   {
+    "identifier": "PowerMac8,2",
+    "deviceName": "Apple iMac G5/1.8 17\" (ALS)  Specs",
+    "processor": "Integrated",
+    "model": "A1058 (EMC 2055)",
+    "appleOrderNo": "M9843LL/A",
+    "ram": "Radeon 9600",
+    "storage": "160 GB HDD",
+    "releaseDate": "May 3, 2005"
+  },
+  {
+    "identifier": "PowerMac4,1",
+    "deviceName": "Apple iMac G3/700 SE (Summer 2001)  Specs",
+    "processor": "Integrated",
+    "model": "M5521 (EMC 1857)",
+    "appleOrderNo": "M8510LL/A*",
+    "ram": "Rage 128 Ultra",
+    "storage": "60.0 GB HDD",
+    "releaseDate": "July 18, 2001"
+  },
+  {
+    "identifier": "iMac (Late 2009)",
+    "deviceName": "Apple iMac \"Core i3\" 3.06 21.5\" (Mid-2010)  Specs",
+    "processor": "Core i3 (I3-540)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Wireless Keyboard",
+    "ram": "4 GB",
+    "storage": "21.5\" 16:9 Widescreen",
+    "releaseDate": "July 27, 2010"
+  },
+  {
+    "identifier": "PowerMac6,3*",
+    "deviceName": "Apple iMac G4/1.0 15\" \"FP\" (USB 2.0)  Specs",
+    "processor": "Integrated",
+    "model": "M6498 (EMC 1990)",
+    "appleOrderNo": "M9285LL/A",
+    "ram": "GeForce4 MX",
+    "storage": "80 GB HDD",
+    "releaseDate": "September 8, 2003"
+  },
+  {
+    "identifier": "PowerMac4,2",
+    "deviceName": "Apple iMac G4/800 - X Only (Flat Panel)  Specs",
+    "processor": "Integrated",
+    "model": "M6498 (EMC N/A)",
+    "appleOrderNo": "M9105LL/A",
+    "ram": "GeForce2 MX",
+    "storage": "60 GB HDD",
+    "releaseDate": "February 4, 2003"
+  },
+  {
+    "identifier": "27\" iMac Late 2012",
+    "deviceName": "Apple iMac \"Core i5\" 2.9 27\" (Late 2012)  Specs",
+    "processor": "Core i5 (I5-3470S)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Wireless Keyboard",
+    "ram": "8 GB",
+    "storage": "27\" 16:9 Widescreen",
+    "releaseDate": "October 23, 2012"
+  },
+  {
+    "identifier": "iMac Intel (White)",
+    "deviceName": "Apple iMac \"Core 2 Duo\" 2.16 17\"  Specs",
+    "processor": "Core 2 Duo (T7400)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Keyboard",
+    "ram": "1 GB",
+    "storage": "17.0\" Widescreen",
+    "releaseDate": "September 6, 2006"
+  },
+  {
+    "identifier": "iMac Intel (White)",
+    "deviceName": "Apple iMac \"Core 2 Duo\" 2.0 17\"  Specs",
+    "processor": "Core 2 Duo (T7200)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Keyboard",
+    "ram": "1 GB",
+    "storage": "17.0\" Widescreen",
+    "releaseDate": "September 6, 2006"
+  },
+  {
+    "identifier": "iMac Intel (White)",
+    "deviceName": "Apple iMac \"Core Duo\" 2.0 20\"  Specs",
+    "processor": "Core Duo (T2500)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Keyboard",
+    "ram": "512 MB",
+    "storage": "20.0\" Widescreen",
+    "releaseDate": "January 10, 2006"
+  },
+  {
+    "identifier": "iMac Core 2 Duo 24\" (Al)",
+    "deviceName": "Apple iMac \"Core 2 Duo\" 2.4 24\" (Al)  Specs",
+    "processor": "Core 2 Duo (T7700)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Aluminum Keyboard",
+    "ram": "1 GB",
+    "storage": "24.0\" Widescreen",
+    "releaseDate": "August 7, 2007"
+  },
+  {
+    "identifier": "PowerMac4,2",
+    "deviceName": "Apple iMac G4/800 (Flat Panel)  Specs",
+    "processor": "Integrated",
+    "model": "M6498 (EMC 1873)",
+    "appleOrderNo": "M8535LL/A*",
+    "ram": "GeForce2 MX",
+    "storage": "60 GB HDD",
+    "releaseDate": "January 7, 2002"
+  },
+  {
+    "identifier": "iMac (Late 2009)",
+    "deviceName": "Apple iMac \"Core i5\" 3.1 27\" (Mid-2011)  Specs",
+    "processor": "Core i5 (I5-2400)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Wireless Keyboard",
+    "ram": "4 GB",
+    "storage": "27\" 16:9 Widescreen",
+    "releaseDate": "May 3, 2011"
+  },
+  {
+    "identifier": "PowerMac6,3",
+    "deviceName": "Apple iMac G4/1.25 20\" \"FP\" (USB 2.0)  Specs",
+    "processor": "Integrated",
+    "model": "A1065 (EMC 1992)",
+    "appleOrderNo": "M9290LL/A",
+    "ram": "GeForce FX 5200 Ultra",
+    "storage": "80 GB HDD",
+    "releaseDate": "November 18, 2003"
+  },
+  {
+    "identifier": "iMac Core 2 Duo (Al)",
+    "deviceName": "Apple iMac \"Core 2 Duo\" 2.4 20\" (Early 2008)  Specs",
+    "processor": "Core 2 Duo (E8135)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Aluminum Keyboard",
+    "ram": "1 GB",
+    "storage": "20.0\" Widescreen",
+    "releaseDate": "April 28, 2008"
+  },
+  {
+    "identifier": "iMac (Late 2009)",
+    "deviceName": "Apple iMac \"Core 2 Duo\" 3.06 21.5\" (Late 2009)  Specs",
+    "processor": "Core 2 Duo (E7600)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Wireless Keyboard",
+    "ram": "4 GB",
+    "storage": "21.5\" 16:9 Widescreen",
+    "releaseDate": "October 20, 2009"
+  },
+  {
+    "identifier": "PowerMac4,1",
+    "deviceName": "Apple iMac G3/400 (Early 2001 - Indigo)  Specs",
+    "processor": "Integrated",
+    "model": "M5521 (EMC 1857)",
+    "appleOrderNo": "M7683LL/A",
+    "ram": "Rage 128 Pro",
+    "storage": "10.0 GB HDD",
+    "releaseDate": "February 22, 2001"
+  },
+  {
+    "identifier": "PowerMac8,1",
+    "deviceName": "Apple iMac G5/1.8 17\"  Specs",
+    "processor": "Integrated",
+    "model": "A1058 (EMC 1989)",
+    "appleOrderNo": "M9249LL/A",
+    "ram": "GeForce FX 5200 Ultra*",
+    "storage": "80 GB HDD",
+    "releaseDate": "August 31, 2004"
+  },
+  {
+    "identifier": "iMac (Late 2009)",
+    "deviceName": "Apple iMac \"Core i5\" 2.66 27\" (Late 2009)  Specs",
+    "processor": "Core i5 (I5-750)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Wireless Keyboard",
+    "ram": "4 GB",
+    "storage": "27\" 16:9 Widescreen",
+    "releaseDate": "October 20, 2009"
+  },
+  {
+    "identifier": "PowerMac4,1",
+    "deviceName": "Apple iMac G3/500 (Early 2001 - Flower/Blue)  Specs",
+    "processor": "Integrated",
+    "model": "M5521 (EMC 1857)",
+    "appleOrderNo": "M7669LL/A*",
+    "ram": "Rage 128 Ultra",
+    "storage": "20.0 GB HDD",
+    "releaseDate": "February 22, 2001"
+  },
+  {
+    "identifier": "21.5\" iMac Late 2012",
+    "deviceName": "Apple iMac \"Core i7\" 3.1 21.5\" (Late 2012)  Specs",
+    "processor": "Core i7 (I7-3770S)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Wireless Keyboard",
+    "ram": "8 GB",
+    "storage": "21.5\" 16:9 Widescreen",
+    "releaseDate": "October 23, 2012"
+  },
+  {
+    "identifier": "iMac Core 2 Duo (2009)",
+    "deviceName": "Apple iMac \"Core 2 Duo\" 2.0 20\" (Mid-2009)  Specs",
+    "processor": "Core 2 Duo (P7350)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Keyboard*",
+    "ram": "1 GB",
+    "storage": "20.0\" Widescreen",
+    "releaseDate": "April 7, 2009"
+  },
+  {
+    "identifier": "iMac Core 2 Duo (Al)",
+    "deviceName": "Apple iMac \"Core 2 Duo\" 2.66 20\" (Early 2008)  Specs",
+    "processor": "Core 2 Duo (E8335)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Aluminum Keyboard",
+    "ram": "2 GB",
+    "storage": "20.0\" Widescreen",
+    "releaseDate": "April 28, 2008"
+  },
+  {
+    "identifier": "iMac (Late 2009)",
+    "deviceName": "Apple iMac \"Core i3\" 3.2 27\" (Mid-2010)  Specs",
+    "processor": "Core i3 (I3-550)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Wireless Keyboard",
+    "ram": "4 GB",
+    "storage": "27\" 16:9 Widescreen",
+    "releaseDate": "July 27, 2010"
+  },
+  {
+    "identifier": "21.5\" iMac Late 2012",
+    "deviceName": "Apple iMac \"Core i5\" 2.7 21.5\" (Late 2012)  Specs",
+    "processor": "Core i5 (I5-3330S)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Wireless Keyboard",
+    "ram": "8 GB",
+    "storage": "21.5\" 16:9 Widescreen",
+    "releaseDate": "October 23, 2012"
+  },
+  {
+    "identifier": "27\" iMac Late 2012",
+    "deviceName": "Apple iMac \"Core i5\" 3.2 27\" (Late 2012)  Specs",
+    "processor": "Core i5 (I5-3470)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Wireless Keyboard",
+    "ram": "8 GB",
+    "storage": "27\" 16:9 Widescreen",
+    "releaseDate": "October 23, 2012"
+  },
+  {
+    "identifier": "iMac Intel (White)",
+    "deviceName": "Apple iMac \"Core 2 Duo\" 2.33 20\"  Specs",
+    "processor": "Core 2 Duo (T7600)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Keyboard",
+    "ram": "1 GB",
+    "storage": "20.0\" Widescreen",
+    "releaseDate": "September 6, 2006"
+  },
+  {
+    "identifier": "iMac (Late 2009)",
+    "deviceName": "Apple iMac \"Core i3\" 3.2 21.5\" (Mid-2010)  Specs",
+    "processor": "Core i3 (I3-550)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Wireless Keyboard",
+    "ram": "4 GB",
+    "storage": "21.5\" 16:9 Widescreen",
+    "releaseDate": "July 27, 2010"
+  },
+  {
+    "identifier": "iMac (Late 2009)",
+    "deviceName": "Apple iMac \"Core i7\" 2.93 27\" (Mid-2010)  Specs",
+    "processor": "Core i7 (I7-870)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Wireless Keyboard",
+    "ram": "4 GB",
+    "storage": "27\" 16:9 Widescreen",
+    "releaseDate": "July 27, 2010"
+  },
+  {
+    "identifier": "PowerMac4,1",
+    "deviceName": "Apple iMac G3/600 SE (Early 2001)  Specs",
+    "processor": "Integrated",
+    "model": "M5521 (EMC 1857)",
+    "appleOrderNo": "M7680LL/A*",
+    "ram": "Rage 128 Ultra",
+    "storage": "40.0 GB HDD",
+    "releaseDate": "February 22, 2001"
+  },
+  {
+    "identifier": "iMac Intel 24-Inch",
+    "deviceName": "Apple iMac \"Core 2 Duo\" 2.16 24\"  Specs",
+    "processor": "Core 2 Duo (T7400)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Keyboard",
+    "ram": "1 GB",
+    "storage": "24.0\" Widescreen",
+    "releaseDate": "September 6, 2006"
+  },
+  {
+    "identifier": "iMac Core 2 Duo (Al)",
+    "deviceName": "Apple iMac \"Core 2 Duo\" 2.4 20\" (Al)  Specs",
+    "processor": "Core 2 Duo (T7700)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Aluminum Keyboard",
+    "ram": "1 GB",
+    "storage": "20.0\" Widescreen",
+    "releaseDate": "August 7, 2007"
+  },
+  {
+    "identifier": "21.5\" iMac Late 2012",
+    "deviceName": "Apple iMac \"Core i5\" 2.9 21.5\" (Late 2012)  Specs",
+    "processor": "Core i5 (I5-3470S)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Wireless Keyboard",
+    "ram": "8 GB",
+    "storage": "21.5\" 16:9 Widescreen",
+    "releaseDate": "October 23, 2012"
+  },
+  {
+    "identifier": "iMac (Late 2009)",
     "deviceName": "Apple iMac \"Core i5\" 2.7 27\" (Mid-2011)  Specs",
     "processor": "Core i5 (I5-2500S)",
     "model": "All-in-One",
@@ -972,87 +430,397 @@
     "releaseDate": "May 3, 2011"
   },
   {
-    "deviceName": "Apple iMac \"Core i5\" 1.6 21.5\" (Late 2015)  Specs",
-    "processor": "Core i5 (I5-5250U)",
+    "identifier": "iMac (Early 2009)",
+    "deviceName": "Apple iMac \"Core 2 Duo\" 2.93 24\" (Early 2009)  Specs",
+    "processor": "Core 2 Duo (E8335)",
     "model": "All-in-One",
-    "appleOrderNo": "Apple Magic Keyboard",
-    "ram": "8 GB",
+    "appleOrderNo": "Apple Keyboard*",
+    "ram": "4 GB",
+    "storage": "24.0\" Widescreen",
+    "releaseDate": "March 3, 2009"
+  },
+  {
+    "identifier": "iMac (Early 2009)",
+    "deviceName": "Apple iMac \"Core 2 Duo\" 2.66 20\" (Early 2009)  Specs",
+    "processor": "Core 2 Duo (E8135)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Keyboard*",
+    "ram": "2 GB",
+    "storage": "20.0\" Widescreen",
+    "releaseDate": "March 3, 2009"
+  },
+  {
+    "identifier": "iMac (Late 2009)",
+    "deviceName": "Apple iMac \"Core 2 Duo\" 3.06 27\" (Late 2009)  Specs",
+    "processor": "Core 2 Duo (E7600)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Wireless Keyboard",
+    "ram": "4 GB",
+    "storage": "27\" 16:9 Widescreen",
+    "releaseDate": "October 20, 2009"
+  },
+  {
+    "identifier": "iMac (Late 2009)",
+    "deviceName": "Apple iMac \"Core 2 Duo\" 3.33 27\" (Late 2009)  Specs",
+    "processor": "Core 2 Duo (E8600)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Wireless Keyboard",
+    "ram": "4 GB",
+    "storage": "27\" 16:9 Widescreen",
+    "releaseDate": "October 20, 2009"
+  },
+  {
+    "identifier": "iMac (Late 2009)",
+    "deviceName": "Apple iMac \"Core i5\" 3.6 27\" (Mid-2010)  Specs",
+    "processor": "Core i5 (I5-680)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Wireless Keyboard",
+    "ram": "4 GB",
+    "storage": "27\" 16:9 Widescreen",
+    "releaseDate": "July 27, 2010"
+  },
+  {
+    "identifier": "PowerMac6,1",
+    "deviceName": "Apple iMac G4/1.0 17\" (Flat Panel)  Specs",
+    "processor": "Integrated",
+    "model": "M6498 (EMC 1956)",
+    "appleOrderNo": "M8935LL/A",
+    "ram": "GeForce4 MX",
+    "storage": "80 GB HDD",
+    "releaseDate": "February 4, 2003"
+  },
+  {
+    "identifier": "iMac (Early 2009)",
+    "deviceName": "Apple iMac \"Core 2 Duo\" 2.66 24\" (Early 2009)  Specs",
+    "processor": "Core 2 Duo (E8135)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Keyboard*",
+    "ram": "4 GB",
+    "storage": "24.0\" Widescreen",
+    "releaseDate": "March 3, 2009"
+  },
+  {
+    "identifier": "PowerMac2,2",
+    "deviceName": "Apple iMac G3/400 DV (Summer 2000 - I/R)  Specs",
+    "processor": "Integrated",
+    "model": "M5521 (EMC 1857)",
+    "appleOrderNo": "M7639LL/A*",
+    "ram": "Rage 128 Pro",
+    "storage": "10.0 GB HDD",
+    "releaseDate": "July 19, 2000"
+  },
+  {
+    "identifier": "iMac Intel (White)",
+    "deviceName": "Apple iMac \"Core Duo\" 1.83 17\"  Specs",
+    "processor": "Core Duo (T2400)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Keyboard",
+    "ram": "512 MB",
+    "storage": "17.0\" Widescreen",
+    "releaseDate": "January 10, 2006"
+  },
+  {
+    "identifier": "iMac (Late 2009)",
+    "deviceName": "Apple iMac \"Core i5\" 2.5 21.5\" (Mid-2011)  Specs",
+    "processor": "Core i5 (I5-2400S)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Wireless Keyboard",
+    "ram": "4 GB",
     "storage": "21.5\" 16:9 Widescreen",
-    "releaseDate": "October 13, 2015"
+    "releaseDate": "May 3, 2011"
   },
   {
-    "deviceName": "Apple iMac \"Core i7\" 3.8 27\" (5K, 2020; 5700/XT)  Specs",
-    "processor": "Core i7 (I7-10700K)",
+    "identifier": "PowerMac8,1",
+    "deviceName": "Apple iMac G5/1.6 17\"  Specs",
+    "processor": "Integrated",
+    "model": "A1058 (EMC 1989)",
+    "appleOrderNo": "M9248LL/A",
+    "ram": "GeForce FX 5200 Ultra*",
+    "storage": "80 GB HDD",
+    "releaseDate": "August 31, 2004"
+  },
+  {
+    "identifier": "iMac Intel (White)",
+    "deviceName": "Apple iMac \"Core 2 Duo\" 1.83 17\" (IG)  Specs",
+    "processor": "Core 2 Duo (T5600)",
     "model": "All-in-One",
-    "appleOrderNo": "Magic Keyboard*",
-    "ram": "8 GB",
-    "storage": "27\" 16:9 Widescreen",
-    "releaseDate": "August 4, 2020"
+    "appleOrderNo": "Apple Keyboard",
+    "ram": "512 MB, 1 GB*",
+    "storage": "17.0\" Widescreen",
+    "releaseDate": "September 6, 2006"
   },
   {
-    "deviceName": "Apple iMac \"Core i7\" 4.2 27\" (5K, Mid-2017)  Specs",
-    "processor": "Core i7 (I7-7700K)",
+    "identifier": "iMac Core 2 Duo (Al)",
+    "deviceName": "Apple iMac \"Core 2 Duo\" 2.0 20\" (Al)  Specs",
+    "processor": "Core 2 Duo (T7300)",
     "model": "All-in-One",
-    "appleOrderNo": "Magic Keyboard*",
-    "ram": "8 GB",
-    "storage": "27\" 16:9 Widescreen",
-    "releaseDate": "June 5, 2017"
+    "appleOrderNo": "Apple Aluminum Keyboard",
+    "ram": "1 GB",
+    "storage": "20.0\" Widescreen",
+    "releaseDate": "August 7, 2007"
   },
   {
-    "deviceName": "Apple iMac \"Core i7\" 3.8 27\" (5K, 2020)  Specs",
-    "processor": "Core i7 (I7-10700K)",
+    "identifier": "iMac Core 2 Duo 24\" (Al)",
+    "deviceName": "Apple iMac \"Core 2 Extreme\" 2.8 24\" (Al)  Specs",
+    "processor": "Core 2 Extreme* (X7900)",
     "model": "All-in-One",
-    "appleOrderNo": "Magic Keyboard*",
-    "ram": "8 GB",
-    "storage": "27\" 16:9 Widescreen",
-    "releaseDate": "August 4, 2020"
+    "appleOrderNo": "Apple Aluminum Keyboard",
+    "ram": "2 GB",
+    "storage": "24.0\" Widescreen",
+    "releaseDate": "August 7, 2007"
   },
   {
-    "deviceName": "Apple iMac \"Core i5\" 3.3 27\" (5K, 2020)  Specs",
-    "processor": "Core i5 (I5-10600)",
+    "identifier": "iMac Intel (White)",
+    "deviceName": "Apple iMac \"Core 2 Duo\" 2.16 20\"  Specs",
+    "processor": "Core 2 Duo (T7400)",
     "model": "All-in-One",
-    "appleOrderNo": "Magic Keyboard*",
-    "ram": "8 GB",
-    "storage": "27\" 16:9 Widescreen",
-    "releaseDate": "August 4, 2020"
+    "appleOrderNo": "Apple Keyboard",
+    "ram": "1 GB",
+    "storage": "20.0\" Widescreen",
+    "releaseDate": "September 6, 2006"
   },
   {
-    "deviceName": "Apple iMac \"Core i9\" 3.6 27\" (5K, 2019)  Specs",
-    "processor": "Core i9 (I9-9900K)",
+    "identifier": "iMac Core 2 Duo (2009)",
+    "deviceName": "Apple iMac \"Core 2 Duo\" 2.26 20\" (Mid-2009)  Specs",
+    "processor": "Core 2 Duo (P7550)",
     "model": "All-in-One",
-    "appleOrderNo": "Magic Keyboard*",
-    "ram": "8 GB",
-    "storage": "27\" 16:9 Widescreen",
-    "releaseDate": "March 19, 2019"
+    "appleOrderNo": "Apple Keyboard*",
+    "ram": "1 GB, 2 GB*",
+    "storage": "20.0\" Widescreen",
+    "releaseDate": "March 4, 2010*"
   },
   {
-    "deviceName": "Apple iMac \"Core i5\" 3.3 27\" (5K, Mid-2015)  Specs",
-    "processor": "Core i5 (I5-4590)",
+    "identifier": "PowerMac2,2",
+    "deviceName": "Apple iMac G3/350 (Summer 2000 - Indigo)  Specs",
+    "processor": "Integrated",
+    "model": "M5521 (EMC 1857)",
+    "appleOrderNo": "M7667LL/A",
+    "ram": "Rage 128 Pro",
+    "storage": "7.0 GB HDD",
+    "releaseDate": "July 19, 2000"
+  },
+  {
+    "identifier": "iMac,1",
+    "deviceName": "Apple iMac G3/233 Original - Bondi (Rev. A & B)  Specs",
+    "processor": "Integrated",
+    "model": "M4984 (EMC None)",
+    "appleOrderNo": "M6709LL/A*",
+    "ram": "Rage IIc*",
+    "storage": "4.0 GB HDD",
+    "releaseDate": "May 6, 1998*"
+  },
+  {
+    "identifier": "iMac (Late 2009)",
+    "deviceName": "Apple iMac \"Core i7\" 2.8 27\" (Late 2009)  Specs",
+    "processor": "Core i7 (I7-860)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Wireless Keyboard",
+    "ram": "4 GB",
+    "storage": "27\" 16:9 Widescreen",
+    "releaseDate": "October 20, 2009"
+  },
+  {
+    "identifier": "PowerMac2,1",
+    "deviceName": "Apple iMac G3/400 DV (Slot Loading - Fruit)  Specs",
+    "processor": "Integrated",
+    "model": "M5521 (EMC 1821)",
+    "appleOrderNo": "M7493LL/A*",
+    "ram": "Rage 128 VR 2D/3D",
+    "storage": "10.0 GB HDD",
+    "releaseDate": "October 5, 1999"
+  },
+  {
+    "identifier": "iMac (Early 2009)",
+    "deviceName": "Apple iMac \"Core 2 Duo\" 3.06 24\" (Early 2009)  Specs",
+    "processor": "Core 2 Duo (E8435)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Keyboard*",
+    "ram": "4 GB",
+    "storage": "24.0\" Widescreen",
+    "releaseDate": "March 3, 2009"
+  },
+  {
+    "identifier": "27\" iMac Late 2012",
+    "deviceName": "Apple iMac \"Core i7\" 3.4 27\" (Late 2012)  Specs",
+    "processor": "Core i7 (I7-3770)",
     "model": "All-in-One",
     "appleOrderNo": "Apple Wireless Keyboard",
     "ram": "8 GB",
     "storage": "27\" 16:9 Widescreen",
-    "releaseDate": "May 19, 2015"
+    "releaseDate": "October 23, 2012"
   },
   {
-    "deviceName": "Apple iMac \"Core i9\" 3.6 27\" (5K, 2020; 5700/XT)  Specs",
-    "processor": "Core i9 (I9-10910)",
-    "model": "All-in-One",
-    "appleOrderNo": "Magic Keyboard*",
-    "ram": "8 GB",
-    "storage": "27\" 16:9 Widescreen",
-    "releaseDate": "August 4, 2020"
+    "identifier": "iMac,1",
+    "deviceName": "Apple iMac G3/333 (Fruit Colors)  Specs",
+    "processor": "Integrated",
+    "model": "M4984 (EMC None)",
+    "appleOrderNo": "M7440LL/A*",
+    "ram": "Rage Pro Turbo",
+    "storage": "6.0 GB HDD",
+    "releaseDate": "April 14, 1999"
   },
   {
-    "deviceName": "Apple iMac \"Core i5\" 3.1 21.5\" (4K, Late 2015)  Specs",
-    "processor": "Core i5 (I5-5675R)",
+    "identifier": "iMac,1",
+    "deviceName": "Apple iMac G3/266 (Fruit Colors)  Specs",
+    "processor": "Integrated",
+    "model": "M4984 (EMC None)",
+    "appleOrderNo": "M7345LL/A*",
+    "ram": "Rage Pro Turbo",
+    "storage": "6.0 GB HDD",
+    "releaseDate": "January 5, 1999"
+  },
+  {
+    "identifier": "PowerMac12,1",
+    "deviceName": "Apple iMac G5/1.9 17\" (iSight)  Specs",
+    "processor": "Integrated",
+    "model": "A1144 (EMC 2081)",
+    "appleOrderNo": "MA063LL/A",
+    "ram": "Radeon X600 Pro",
+    "storage": "160 GB HDD",
+    "releaseDate": "October 12, 2005"
+  },
+  {
+    "identifier": "PowerMac2,2",
+    "deviceName": "Apple iMac G3/500 DV SE (Summer 2000)  Specs",
+    "processor": "Integrated",
+    "model": "M5521 (EMC 1857)",
+    "appleOrderNo": "M7651LL/A*",
+    "ram": "Rage 128 Pro",
+    "storage": "30.0 GB HDD",
+    "releaseDate": "July 19, 2000"
+  },
+  {
+    "identifier": "21.5\" iMac Late 2012",
+    "deviceName": "Apple iMac \"Core i7\" 3.1 21.5\" (Late 2013)  Specs",
+    "processor": "Core i7 (I7-4770S)",
     "model": "All-in-One",
-    "appleOrderNo": "Apple Magic Keyboard",
+    "appleOrderNo": "Apple Wireless Keyboard",
     "ram": "8 GB",
     "storage": "21.5\" 16:9 Widescreen",
-    "releaseDate": "October 13, 2015"
+    "releaseDate": "September 24, 2013"
   },
   {
+    "identifier": "21.5\" iMac Late 2012",
+    "deviceName": "Apple iMac \"Core i5\" 2.9 21.5\" (Late 2013)  Specs",
+    "processor": "Core i5 (I5-4570S)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Wireless Keyboard",
+    "ram": "8 GB",
+    "storage": "21.5\" 16:9 Widescreen",
+    "releaseDate": "September 24, 2013"
+  },
+  {
+    "identifier": "21.5\" iMac Late 2012",
+    "deviceName": "Apple iMac \"Core i3\" 3.3 21.5\" (Early 2013)  Specs",
+    "processor": "Core i3 (I3-3225)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Keyboard",
+    "ram": "4 GB",
+    "storage": "21.5\" 16:9 Widescreen",
+    "releaseDate": "March 5, 2013"
+  },
+  {
+    "identifier": "PowerMac8,2",
+    "deviceName": "Apple iMac G5/2.0 17\" (ALS)  Specs",
+    "processor": "Integrated",
+    "model": "A1058 (EMC 2055)",
+    "appleOrderNo": "M9844LL/A",
+    "ram": "Radeon 9600",
+    "storage": "160 GB HDD",
+    "releaseDate": "May 3, 2005"
+  },
+  {
+    "identifier": "iMac Core 2 Duo (Al)",
+    "deviceName": "Apple iMac \"Core 2 Duo\" 3.06 24\" (Early 2008)  Specs",
+    "processor": "Core 2 Duo (E8435)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Aluminum Keyboard",
+    "ram": "2 GB",
+    "storage": "24.0\" Widescreen",
+    "releaseDate": "April 28, 2008"
+  },
+  {
+    "identifier": "PowerMac2,1",
+    "deviceName": "Apple iMac G3/400 DV SE (Slot Loading)  Specs",
+    "processor": "Integrated",
+    "model": "M5521 (EMC 1821)",
+    "appleOrderNo": "M7668LL/A",
+    "ram": "Rage 128 VR 2D/3D",
+    "storage": "13.0 GB HDD",
+    "releaseDate": "October 5, 1999"
+  },
+  {
+    "identifier": "iMac (Late 2009)",
+    "deviceName": "Apple iMac \"Core i5\" 2.8 27\" (Mid-2010)  Specs",
+    "processor": "Core i5 (I5-760)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Wireless Keyboard",
+    "ram": "4 GB",
+    "storage": "27\" 16:9 Widescreen",
+    "releaseDate": "July 27, 2010"
+  },
+  {
+    "identifier": "iMac (Late 2009)",
+    "deviceName": "Apple iMac \"Core i7\" 2.8 21.5\" (Mid-2011)  Specs",
+    "processor": "Core i7 (I7-2600S)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Wireless Keyboard",
+    "ram": "4 GB",
+    "storage": "21.5\" 16:9 Widescreen",
+    "releaseDate": "May 3, 2011"
+  },
+  {
+    "identifier": "iMac (Late 2009)",
+    "deviceName": "Apple iMac \"Core 2 Duo\" 3.33 21.5\" (Late 2009)  Specs",
+    "processor": "Core 2 Duo (E8600)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Wireless Keyboard",
+    "ram": "4 GB",
+    "storage": "21.5\" 16:9 Widescreen",
+    "releaseDate": "October 20, 2009"
+  },
+  {
+    "identifier": "iMac Core 2 Duo (Al)",
+    "deviceName": "Apple iMac \"Core 2 Duo\" 2.8 24\" (Early 2008)  Specs",
+    "processor": "Core 2 Duo (E8235)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Aluminum Keyboard",
+    "ram": "2 GB",
+    "storage": "24.0\" Widescreen",
+    "releaseDate": "April 28, 2008"
+  },
+  {
+    "identifier": "PowerMac4,1",
+    "deviceName": "Apple iMac G3/500 (Summer 2001 - I/S)  Specs",
+    "processor": "Integrated",
+    "model": "M5521 (EMC 1857)",
+    "appleOrderNo": "M8582LL/A*",
+    "ram": "Rage 128 Ultra",
+    "storage": "20.0 GB HDD",
+    "releaseDate": "July 18, 2001*"
+  },
+  {
+    "identifier": "iMac Intel 24-Inch",
+    "deviceName": "Apple iMac \"Core 2 Duo\" 2.33 24\"  Specs",
+    "processor": "Core 2 Duo (T7600)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Keyboard",
+    "ram": "1 GB",
+    "storage": "24.0\" Widescreen",
+    "releaseDate": "September 6, 2006"
+  },
+  {
+    "identifier": "iMac (Late 2009)",
+    "deviceName": "Apple iMac \"Core i5\" 3.6 21.5\" (Mid-2010)  Specs",
+    "processor": "Core i5 (I5-680)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Wireless Keyboard",
+    "ram": "4 GB",
+    "storage": "21.5\" 16:9 Widescreen",
+    "releaseDate": "July 27, 2010"
+  },
+  {
+    "identifier": "27\" iMac Late 2012",
     "deviceName": "Apple iMac \"Core i5\" 3.5 27\" (5K, Late 2014)  Specs",
     "processor": "Core i5 (I5-4690)",
     "model": "All-in-One",
@@ -1062,15 +830,137 @@
     "releaseDate": "October 16, 2014*"
   },
   {
-    "deviceName": "Apple iMac \"M3\" 8 CPU/8 GPU/2 Ports 24\"  Specs",
-    "processor": "Apple M3",
+    "identifier": "27\" iMac Late 2012",
+    "deviceName": "Apple iMac \"Core i5\" 3.4 27\" (Late 2013)  Specs",
+    "processor": "Core i5 (I5-4670)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Wireless Keyboard",
+    "ram": "8 GB",
+    "storage": "27\" 16:9 Widescreen",
+    "releaseDate": "September 24, 2013"
+  },
+  {
+    "identifier": "21.5\" iMac Late 2012",
+    "deviceName": "Apple iMac \"Core i5\" 1.4 21.5\" (Mid-2014)  Specs",
+    "processor": "Core i5 (I5-4260U)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Wireless Keyboard",
+    "ram": "8 GB",
+    "storage": "21.5\" 16:9 Widescreen",
+    "releaseDate": "June 18, 2014"
+  },
+  {
+    "identifier": "PowerMac8,2",
+    "deviceName": "Apple iMac G5/2.0 20\" (ALS)  Specs",
+    "processor": "Integrated",
+    "model": "A1076 (EMC 2056)",
+    "appleOrderNo": "M9845LL/A",
+    "ram": "Radeon 9600",
+    "storage": "250 GB HDD",
+    "releaseDate": "May 3, 2005"
+  },
+  {
+    "identifier": "iMac (Late 2009)",
+    "deviceName": "Apple iMac \"Core i3\" 3.1 21.5\" (Late 2011)  Specs",
+    "processor": "Core i3 (I3-2100)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Keyboard",
+    "ram": "2 GB",
+    "storage": "21.5\" 16:9 Widescreen",
+    "releaseDate": "August 8, 2011"
+  },
+  {
+    "identifier": "PowerMac6,3",
+    "deviceName": "Apple iMac G4/1.25 17\" \"FP\" (USB 2.0)  Specs",
+    "processor": "Integrated",
+    "model": "M6498 (EMC 1991)",
+    "appleOrderNo": "M9168LL/A",
+    "ram": "GeForce FX 5200 Ultra",
+    "storage": "80 GB HDD",
+    "releaseDate": "September 8, 2003"
+  },
+  {
+    "identifier": "27\" iMac Late 2012",
+    "deviceName": "Apple iMac \"Core i5\" 3.2 27\" (5K, Late 2015)  Specs",
+    "processor": "Core i5 (I5-6500)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Magic Keyboard",
+    "ram": "8 GB",
+    "storage": "27\" 16:9 Widescreen",
+    "releaseDate": "October 13, 2015"
+  },
+  {
+    "identifier": "21.5\" iMac Late 2012",
+    "deviceName": "Apple iMac \"Core i5\" 2.7 21.5\" (Late 2013)  Specs",
+    "processor": "Core i5 (I5-4570R)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Wireless Keyboard",
+    "ram": "8 GB",
+    "storage": "21.5\" 16:9 Widescreen",
+    "releaseDate": "September 24, 2013"
+  },
+  {
+    "identifier": "iMac Intel (White)",
+    "deviceName": "Apple iMac \"Core Duo\" 1.83 17\" (IG)  Specs",
+    "processor": "Core Duo (T2400)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Keyboard",
+    "ram": "512 MB",
+    "storage": "17.0\" Widescreen",
+    "releaseDate": "July 5, 2006"
+  },
+  {
+    "identifier": "27\" iMac Tapered Edge",
+    "deviceName": "Apple iMac \"Core i7\" 4.2 27\" (5K, Mid-2017)  Specs",
+    "processor": "Core i7 (I7-7700K)",
     "model": "All-in-One",
     "appleOrderNo": "Magic Keyboard*",
     "ram": "8 GB",
-    "storage": "23.5\" Widescreen",
-    "releaseDate": "October 30, 2023*"
+    "storage": "27\" 16:9 Widescreen",
+    "releaseDate": "June 5, 2017"
   },
   {
+    "identifier": "27\" iMac Tapered Edge",
+    "deviceName": "Apple iMac \"Core i9\" 3.6 27\" (5K, 2019)  Specs",
+    "processor": "Core i9 (I9-9900K)",
+    "model": "All-in-One",
+    "appleOrderNo": "Magic Keyboard*",
+    "ram": "8 GB",
+    "storage": "27\" 16:9 Widescreen",
+    "releaseDate": "March 19, 2019"
+  },
+  {
+    "identifier": "27\" iMac Late 2012",
+    "deviceName": "Apple iMac \"Core i7\" 3.5 27\" (Late 2013)  Specs",
+    "processor": "Core i7 (I7-4771)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Wireless Keyboard",
+    "ram": "8 GB",
+    "storage": "27\" 16:9 Widescreen",
+    "releaseDate": "September 24, 2013"
+  },
+  {
+    "identifier": "iMac (Late 2009)",
+    "deviceName": "Apple iMac \"Core i7\" 3.4 27\" (Mid-2011)  Specs",
+    "processor": "Core i7 (I7-2600)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Wireless Keyboard",
+    "ram": "4 GB",
+    "storage": "27\" 16:9 Widescreen",
+    "releaseDate": "May 3, 2011"
+  },
+  {
+    "identifier": "21.5\" iMac Late 2012",
+    "deviceName": "Apple iMac \"Core i7\" 3.3 21.5\" (4K, Late 2015)  Specs",
+    "processor": "Core i7 (I7-5775R)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Magic Keyboard",
+    "ram": "8 GB",
+    "storage": "21.5\" 16:9 Widescreen",
+    "releaseDate": "October 13, 2015"
+  },
+  {
+    "identifier": "27\" iMac Tapered Edge",
     "deviceName": "Apple iMac \"Core i5\" 3.4 27\" (5K, Mid-2017)  Specs",
     "processor": "Core i5 (I5-7500)",
     "model": "All-in-One",
@@ -1080,24 +970,67 @@
     "releaseDate": "June 5, 2017"
   },
   {
-    "deviceName": "Apple iMac \"Core i5\" 3.0 21.5\" (4K, 2019)  Specs",
-    "processor": "Core i5 (I5-8500)",
+    "identifier": "27\" iMac Tapered Edge",
+    "deviceName": "Apple iMac \"Core i9\" 3.6 27\" (5K, 2020)  Specs",
+    "processor": "Core i9 (I9-10910)",
     "model": "All-in-One",
     "appleOrderNo": "Magic Keyboard*",
     "ram": "8 GB",
-    "storage": "21.5\" 16:9 Widescreen",
-    "releaseDate": "March 19, 2019"
+    "storage": "27\" 16:9 Widescreen",
+    "releaseDate": "August 4, 2020"
   },
   {
-    "deviceName": "Apple iMac \"M1\" 8 CPU/8 GPU/4 Ports 24\"  Specs",
+    "identifier": "24\" iMac M1",
+    "deviceName": "Apple iMac \"M1\" 8 CPU/7 GPU/2 Ports 24\"  Specs",
     "processor": "Apple M1",
     "model": "All-in-One",
-    "appleOrderNo": "Magic Keyboard (Touch ID)*",
+    "appleOrderNo": "Magic Keyboard*",
     "ram": "8 GB",
     "storage": "23.5\" Widescreen",
     "releaseDate": "April 20, 2021*"
   },
   {
+    "identifier": "24\" iMac M3",
+    "deviceName": "Apple iMac \"M3\" 8 CPU/10 GPU/4 Ports 24\"  Specs",
+    "processor": "Apple M3",
+    "model": "All-in-One",
+    "appleOrderNo": "Magic Keyboard (Touch ID)*",
+    "ram": "8 GB",
+    "storage": "23.5\" Widescreen",
+    "releaseDate": "October 30, 2023*"
+  },
+  {
+    "identifier": "21.5\" iMac Tapered Edge",
+    "deviceName": "Apple iMac \"Core i5\" 3.0 21.5\" (4K, Mid-2017)  Specs",
+    "processor": "Core i5 (I5-7400)",
+    "model": "All-in-One",
+    "appleOrderNo": "Magic Keyboard*",
+    "ram": "8 GB",
+    "storage": "21.5\" 16:9 Widescreen",
+    "releaseDate": "June 5, 2017"
+  },
+  {
+    "identifier": "27\" iMac Tapered Edge",
+    "deviceName": "Apple iMac \"Core i5\" 3.3 27\" (5K, 2020)  Specs",
+    "processor": "Core i5 (I5-10600)",
+    "model": "All-in-One",
+    "appleOrderNo": "Magic Keyboard*",
+    "ram": "8 GB",
+    "storage": "27\" 16:9 Widescreen",
+    "releaseDate": "August 4, 2020"
+  },
+  {
+    "identifier": "27\" iMac Tapered Edge",
+    "deviceName": "Apple iMac \"Core i5\" 3.1 27\" (5K, 2020)  Specs",
+    "processor": "Core i5 (I5-10500)",
+    "model": "All-in-One",
+    "appleOrderNo": "Magic Keyboard*",
+    "ram": "8 GB",
+    "storage": "27\" 16:9 Widescreen",
+    "releaseDate": "August 4, 2020"
+  },
+  {
+    "identifier": "27\" iMac Tapered Edge",
     "deviceName": "Apple iMac \"Core i5\" 3.8 27\" (5K, Mid-2017)  Specs",
     "processor": "Core i5 (I5-7600K)",
     "model": "All-in-One",
@@ -1107,8 +1040,59 @@
     "releaseDate": "June 5, 2017"
   },
   {
-    "deviceName": "Apple iMac \"Core i5\" 3.4 21.5\" (4K, Mid-2017)  Specs",
-    "processor": "Core i5 (I5-7500)",
+    "identifier": "24\" iMac M3",
+    "deviceName": "Apple iMac \"M3\" 8 CPU/8 GPU/2 Ports 24\"  Specs",
+    "processor": "Apple M3",
+    "model": "All-in-One",
+    "appleOrderNo": "Magic Keyboard*",
+    "ram": "8 GB",
+    "storage": "23.5\" Widescreen",
+    "releaseDate": "October 30, 2023*"
+  },
+  {
+    "identifier": "27\" iMac Tapered Edge",
+    "deviceName": "Apple iMac \"Core i7\" 3.8 27\" (5K, 2020; 5700/XT)  Specs",
+    "processor": "Core i7 (I7-10700K)",
+    "model": "All-in-One",
+    "appleOrderNo": "Magic Keyboard*",
+    "ram": "8 GB",
+    "storage": "27\" 16:9 Widescreen",
+    "releaseDate": "August 4, 2020"
+  },
+  {
+    "identifier": "21.5\" iMac Late 2012",
+    "deviceName": "Apple iMac \"Core i5\" 2.8 21.5\" (Late 2015)  Specs",
+    "processor": "Core i5 (I5-5575R)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Magic Keyboard",
+    "ram": "8 GB",
+    "storage": "21.5\" 16:9 Widescreen",
+    "releaseDate": "October 13, 2015"
+  },
+  {
+    "identifier": "21.5\" iMac Late 2012",
+    "deviceName": "Apple iMac \"Core i5\" 1.6 21.5\" (Late 2015)  Specs",
+    "processor": "Core i5 (I5-5250U)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Magic Keyboard",
+    "ram": "8 GB",
+    "storage": "21.5\" 16:9 Widescreen",
+    "releaseDate": "October 13, 2015"
+  },
+  {
+    "identifier": "24\" iMac M1",
+    "deviceName": "Apple iMac \"M1\" 8 CPU/8 GPU/4 Ports 24\"  Specs",
+    "processor": "Apple M1",
+    "model": "All-in-One",
+    "appleOrderNo": "Magic Keyboard (Touch ID)*",
+    "ram": "8 GB",
+    "storage": "23.5\" Widescreen",
+    "releaseDate": "April 20, 2021*"
+  },
+  {
+    "identifier": "21.5\" iMac Tapered Edge",
+    "deviceName": "Apple iMac \"Core i5\" 2.3 21.5\" (Mid-2017)  Specs",
+    "processor": "Core i5 (I5-7360U)",
     "model": "All-in-One",
     "appleOrderNo": "Magic Keyboard*",
     "ram": "8 GB",
@@ -1116,8 +1100,39 @@
     "releaseDate": "June 5, 2017"
   },
   {
-    "deviceName": "Apple iMac \"Core i7\" 3.2 21.5\" (4K, 2019)  Specs",
-    "processor": "Core i7 (I7-8700)",
+    "identifier": "27\" iMac Tapered Edge",
+    "deviceName": "Apple iMac \"Core i9\" 3.6 27\" (5K, 2020; 5700/XT)  Specs",
+    "processor": "Core i9 (I9-10910)",
+    "model": "All-in-One",
+    "appleOrderNo": "Magic Keyboard*",
+    "ram": "8 GB",
+    "storage": "27\" 16:9 Widescreen",
+    "releaseDate": "August 4, 2020"
+  },
+  {
+    "identifier": "27\" iMac Tapered Edge",
+    "deviceName": "Apple iMac \"Core i5\" 3.5 27\" (5K, Mid-2017)  Specs",
+    "processor": "Core i5 (I5-7600)",
+    "model": "All-in-One",
+    "appleOrderNo": "Magic Keyboard*",
+    "ram": "8 GB",
+    "storage": "27\" 16:9 Widescreen",
+    "releaseDate": "June 5, 2017"
+  },
+  {
+    "identifier": "21.5\" iMac Late 2012",
+    "deviceName": "Apple iMac \"Core i5\" 3.1 21.5\" (4K, Late 2015)  Specs",
+    "processor": "Core i5 (I5-5675R)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Magic Keyboard",
+    "ram": "8 GB",
+    "storage": "21.5\" 16:9 Widescreen",
+    "releaseDate": "October 13, 2015"
+  },
+  {
+    "identifier": "21.5\" iMac Tapered Edge",
+    "deviceName": "Apple iMac \"Core i5\" 3.0 21.5\" (4K, 2019)  Specs",
+    "processor": "Core i5 (I5-8500)",
     "model": "All-in-One",
     "appleOrderNo": "Magic Keyboard*",
     "ram": "8 GB",
@@ -1125,6 +1140,47 @@
     "releaseDate": "March 19, 2019"
   },
   {
+    "identifier": "24\" iMac M4",
+    "deviceName": "Apple iMac \"M4\" 10 CPU/10 GPU/4 Ports 24\"  Specs",
+    "processor": "Apple M4",
+    "model": "All-in-One",
+    "appleOrderNo": "Magic Keyboard (Touch ID)*",
+    "ram": "16, 24 GB",
+    "storage": "23.5\" Widescreen",
+    "releaseDate": "October 28, 2024"
+  },
+  {
+    "identifier": "27\" iMac Tapered Edge",
+    "deviceName": "Apple iMac \"Core i7\" 3.8 27\" (5K, 2020)  Specs",
+    "processor": "Core i7 (I7-10700K)",
+    "model": "All-in-One",
+    "appleOrderNo": "Magic Keyboard*",
+    "ram": "8 GB",
+    "storage": "27\" 16:9 Widescreen",
+    "releaseDate": "August 4, 2020"
+  },
+  {
+    "identifier": "27\" iMac Late 2012",
+    "deviceName": "Apple iMac \"Core i5\" 3.3 27\" (5K, Mid-2015)  Specs",
+    "processor": "Core i5 (I5-4590)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Wireless Keyboard",
+    "ram": "8 GB",
+    "storage": "27\" 16:9 Widescreen",
+    "releaseDate": "May 19, 2015"
+  },
+  {
+    "identifier": "21.5\" iMac Tapered Edge",
+    "deviceName": "Apple iMac \"Core i7\" 3.6 21.5\" (4K, Mid-2017)  Specs",
+    "processor": "Core i7 (I7-7700)",
+    "model": "All-in-One",
+    "appleOrderNo": "Magic Keyboard*",
+    "ram": "8 GB",
+    "storage": "21.5\" 16:9 Widescreen",
+    "releaseDate": "June 5, 2017"
+  },
+  {
+    "identifier": "27\" iMac Tapered Edge",
     "deviceName": "Apple iMac \"Core i5\" 3.7 27\" (5K, 2019)  Specs",
     "processor": "Core i5 (I5-9600K)",
     "model": "All-in-One",
@@ -1134,12 +1190,83 @@
     "releaseDate": "March 19, 2019"
   },
   {
-    "deviceName": "Apple iMac \"M3\" 8 CPU/10 GPU/4 Ports 24\"  Specs",
-    "processor": "Apple M3",
+    "identifier": "21.5\" iMac Tapered Edge",
+    "deviceName": "Apple iMac \"Core i5\" 3.4 21.5\" (4K, Mid-2017)  Specs",
+    "processor": "Core i5 (I5-7500)",
     "model": "All-in-One",
-    "appleOrderNo": "Magic Keyboard (Touch ID)*",
+    "appleOrderNo": "Magic Keyboard*",
     "ram": "8 GB",
+    "storage": "21.5\" 16:9 Widescreen",
+    "releaseDate": "June 5, 2017"
+  },
+  {
+    "identifier": "24\" iMac M4",
+    "deviceName": "Apple iMac \"M4\" 8 CPU/8 GPU/2 Ports 24\"  Specs",
+    "processor": "Apple M4",
+    "model": "All-in-One",
+    "appleOrderNo": "Magic Keyboard*",
+    "ram": "16 GB",
     "storage": "23.5\" Widescreen",
-    "releaseDate": "October 30, 2023*"
+    "releaseDate": "October 28, 2024"
+  },
+  {
+    "identifier": "21.5\" iMac Tapered Edge",
+    "deviceName": "Apple iMac \"Core i3\" 3.6 21.5\" (4K, 2019)  Specs",
+    "processor": "Core i3 (I3-8100)",
+    "model": "All-in-One",
+    "appleOrderNo": "Magic Keyboard*",
+    "ram": "8 GB",
+    "storage": "21.5\" 16:9 Widescreen",
+    "releaseDate": "March 19, 2019"
+  },
+  {
+    "identifier": "21.5\" iMac Tapered Edge",
+    "deviceName": "Apple iMac \"Core i7\" 3.2 21.5\" (4K, 2019)  Specs",
+    "processor": "Core i7 (I7-8700)",
+    "model": "All-in-One",
+    "appleOrderNo": "Magic Keyboard*",
+    "ram": "8 GB",
+    "storage": "21.5\" 16:9 Widescreen",
+    "releaseDate": "March 19, 2019"
+  },
+  {
+    "identifier": "27\" iMac Late 2012",
+    "deviceName": "Apple iMac \"Core i5\" 3.3 27\" (5K, Late 2015)  Specs",
+    "processor": "Core i5 (I5-6600)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Magic Keyboard",
+    "ram": "8 GB",
+    "storage": "27\" 16:9 Widescreen",
+    "releaseDate": "October 13, 2015"
+  },
+  {
+    "identifier": "27\" iMac Tapered Edge",
+    "deviceName": "Apple iMac \"Core i5\" 3.1 27\" (5K, 2019)  Specs",
+    "processor": "Core i5 (I5-8600)",
+    "model": "All-in-One",
+    "appleOrderNo": "Magic Keyboard*",
+    "ram": "8 GB",
+    "storage": "27\" 16:9 Widescreen",
+    "releaseDate": "March 19, 2019"
+  },
+  {
+    "identifier": "27\" iMac Late 2012",
+    "deviceName": "Apple iMac \"Core i7\" 4.0 27\" (5K, Late 2015)  Specs",
+    "processor": "Core i7 (I7-6700K)",
+    "model": "All-in-One",
+    "appleOrderNo": "Apple Magic Keyboard",
+    "ram": "8 GB",
+    "storage": "27\" 16:9 Widescreen",
+    "releaseDate": "October 13, 2015"
+  },
+  {
+    "identifier": "27\" iMac Tapered Edge",
+    "deviceName": "Apple iMac \"Core i5\" 3.0 27\" (5K, 2019)  Specs",
+    "processor": "Core i5 (I5-8500)",
+    "model": "All-in-One",
+    "appleOrderNo": "Magic Keyboard*",
+    "ram": "8 GB",
+    "storage": "27\" 16:9 Widescreen",
+    "releaseDate": "March 19, 2019"
   }
 ]

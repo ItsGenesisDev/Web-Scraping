@@ -10,7 +10,6 @@
 </head>
 <body>
     <div class="app-container">
-        <!-- Header estilo Apple -->
         <header class="app-header">
             <div class="header-content">
                 <img src="../Logo_oficial.png" alt="Logo Reconext" class="app-logo">
@@ -24,7 +23,6 @@
             </div>
         </header>
 
-        <!-- Barra de herramientas -->
         <div class="toolbar">
             <div class="search-container">
                 <i class="material-icons search-icon">search</i>
@@ -36,7 +34,7 @@
             </div>
 
             <div class="filter-buttons" id="filters">
-                <button class="filter-button" data-filter="iphones">
+                <button class="filter-button active" data-filter="iphones">
                     <i class="material-icons">smartphone</i>
                     <span>iPhone</span>
                 </button>
@@ -63,17 +61,28 @@
             </div>
         </div>
 
-        <!-- Spinner de carga -->
+        <!-- Spinner mejorado -->
         <div id="loadingSpinner" class="loading-container">
-            <div class="spinner"></div>
+            <div class="spinner-container">
+                <div class="spinner-circle">
+                    <div class="spinner-inner-circle"></div>
+                </div>
+                <div class="spinner-gradient"></div>
+            </div>
             <p class="loading-text">Actualizando datos...</p>
+            <p class="loading-subtext">Por favor espere</p>
         </div>
 
-        <!-- Lista de dispositivos -->
         <main class="device-grid" id="phone-list">
-            <!-- Los dispositivos se cargarán aquí dinámicamente -->
+            <!-- Dispositivos cargados dinámicamente -->
         </main>
     </div>
+
+    <button class="toTop" id="toTop">
+        <svg viewBox="0 0 24 24">
+          <path d="m4 16 8-8 8 8"></path>
+        </svg>
+    </button>
 
     <script type="module" src="../script.js"></script>
     <script>
@@ -86,7 +95,6 @@
                 return response.json();
             })
             .then((data) => {
-                console.log("role recibido:", data.userType);
                 if (data.role === 'user') {
                     document.getElementById("crud").style.display = "none";
                     document.getElementById("refreshButton").style.display = "none";

@@ -14,7 +14,11 @@ async function scrapeAllDevices() {
 
       // Iteramos sobre los selectores para obtener la información de cada propiedad del dispositivo
       for (const [key, selector] of Object.entries(selectors)) {
-        deviceInfo[key] = $(selector).eq(0).text().trim() || 'No encontrado';
+        const value = $(selector).eq(0).text().trim();
+        if (key === 'identifier') {
+          console.log(`Selector '${selector}' para '${key}' devuelve:`, value || 'No encontrado');
+        }
+        deviceInfo[key] = value || 'No encontrado';
       }
 
       return deviceInfo;
@@ -37,7 +41,7 @@ async function scrapeAllDevices() {
     }
   }
 
-  // Función genérica para hacer scraping
+  // Función genérica para hacer scraping con adición segura de nuevos dispositivos
   async function scrapeDevice(baseUrl, linkSelector, selectors, outputFilename) {
     try {
       const response = await axios.get(baseUrl);
@@ -56,34 +60,52 @@ async function scrapeAllDevices() {
 
       const filePath = path.join(jsonsFolderPath, outputFilename);
       const existingDevices = await readOrCreateJson(filePath);
-      const existingDeviceNames = new Set(existingDevices.map(device => device.deviceName));
+      
+      // Crear un mapa de dispositivos existentes para verificación rápida
+      const existingDevicesMap = new Map(
+        existingDevices.map(device => [device.deviceName, true])
+      );
 
       const newDevicesInfo = [];
-      let contador = 0;
+      let addedCount = 0;
 
-      await Promise.all(deviceLinks.map(async (link) => {
+      // Procesar en serie para mejor control y evitar sobrecarga de solicitudes
+      for (const link of deviceLinks) {
         const deviceInfo = await getDeviceInfo(link, selectors);
-        if (deviceInfo.deviceName !== 'No encontrado' && !existingDeviceNames.has(deviceInfo.deviceName)) {
+        
+        // Verificar si el dispositivo es nuevo y válido
+        if (deviceInfo.deviceName !== 'No encontrado' && !existingDevicesMap.has(deviceInfo.deviceName)) {
           newDevicesInfo.push(deviceInfo);
-          contador++;
+          existingDevicesMap.set(deviceInfo.deviceName, true); // Evitar duplicados en esta ejecución
+          addedCount++;
+          console.log(`Nuevo dispositivo encontrado: ${deviceInfo.deviceName}`);
         }
-      }));
+      }
 
-      // Combinar los dispositivos existentes con los nuevos
-      const allDevicesInfo = [...existingDevices, ...newDevicesInfo];
-      
-      await fs.writeFile(filePath, JSON.stringify(allDevicesInfo, null, 2), 'utf-8');
-      console.log(`Datos guardados en ${filePath}`);
+      // Combinar los dispositivos existentes con los nuevos (sin modificar los existentes)
+      if (newDevicesInfo.length > 0) {
+        const allDevicesInfo = existingDevices.concat(newDevicesInfo);
+        
+        // Escribir el archivo solo si hay cambios
+        await fs.writeFile(filePath, JSON.stringify(allDevicesInfo, null, 2), 'utf-8');
+        console.log(`Se agregaron ${addedCount} nuevos dispositivos a ${filePath}`);
+      } else {
+        console.log(`No se encontraron nuevos dispositivos para ${outputFilename}`);
+      }
+
       console.log(`Dispositivos existentes: ${existingDevices.length}`);
-      console.log(`Nuevos dispositivos agregados: ${contador}`);
-      console.log(`Total de dispositivos almacenados: ${allDevicesInfo.length}`);
+      console.log(`Nuevos dispositivos agregados: ${addedCount}`);
+      console.log(`Total de dispositivos almacenados: ${existingDevices.length + addedCount}`);
     } catch (error) {
       console.error('Error al obtener los datos de los dispositivos:', error);
     }
   }
 
+  // Configuraciones de scraping para cada tipo de dispositivo
+
   // Scraping para iPhone
   const iphoneSelectors = {
+    identifier: '#content20-title tbody tr td:eq(3)',
     deviceName: '#contentcenter h3',
     model: '#content20-title tbody tr td:eq(1)',
     ram: '#content8-title tbody tr td:eq(1)',
@@ -92,10 +114,16 @@ async function scrapeAllDevices() {
     releaseDate: '#content1-title tbody tr td:eq(1)',
     color: '#content13-title tbody tr td:eq(1)',
   };
-  await scrapeDevice('https://everymac.com/systems/apple/iphone/index-iphone-specs.html', '#contentcenter_specs_externalnav_wrapper #contentcenter_specs_externalnav_2 a', iphoneSelectors, 'allPhonesInfo.json');
+  await scrapeDevice(
+    'https://everymac.com/systems/apple/iphone/index-iphone-specs.html',
+    '#contentcenter_specs_externalnav_wrapper #contentcenter_specs_externalnav_2 a',
+    iphoneSelectors,
+    'allPhonesInfo.json'
+  );
 
   // Scraping para iMac
   const imacSelectors = {
+    identifier: '#specs29-title tbody tr td:eq(3)',
     deviceName: '#contentcenter h3',
     processor: '#specs8-title tbody tr td:eq(3)',
     model: '#specs29-title tbody tr td:eq(1)',
@@ -104,10 +132,16 @@ async function scrapeAllDevices() {
     storage: '#specs19-title tbody tr td:eq(1)',
     releaseDate: '#specs1-title tbody tr td:eq(1)',
   };
-  await scrapeDevice('https://everymac.com/systems/apple/imac/index-imac.html', '#contentcenter_specs_externalnav_wrapper #contentcenter_specs_externalnav_2 a', imacSelectors, 'allIMacInfo.json');
+  await scrapeDevice(
+    'https://everymac.com/systems/apple/imac/index-imac.html',
+    '#contentcenter_specs_externalnav_wrapper #contentcenter_specs_externalnav_2 a',
+    imacSelectors,
+    'allIMacInfo.json'
+  );
 
   // Scraping para Macbook Air
   const macbookSelectors = {
+    identifier: '#specs31-title tbody tr td:eq(3)',
     deviceName: '#contentcenter h3',
     processor: '#specs8-title tbody tr td:eq(3)',
     model: '#specs31-title tbody tr td:eq(1)',
@@ -116,10 +150,16 @@ async function scrapeAllDevices() {
     appleOrderNo: '#specs30-title tbody tr td:eq(1)',
     releaseDate: '#specs1-title tbody tr td:eq(1)',
   };
-  await scrapeDevice('https://everymac.com/systems/apple/macbook-air/index-macbook-air.html', '#contentcenter_specs_externalnav_wrapper #contentcenter_specs_externalnav_2 a', macbookSelectors, 'allMacbookAirInfo.json');
+  await scrapeDevice(
+    'https://everymac.com/systems/apple/macbook-air/index-macbook-air.html',
+    '#contentcenter_specs_externalnav_wrapper #contentcenter_specs_externalnav_2 a',
+    macbookSelectors,
+    'allMacbookAirInfo.json'
+  );
 
   // Scraping para iPad
   const ipadSelectors = {
+    identifier: '#content20-title tbody tr td:eq(3)',
     deviceName: '#contentcenter h3',
     processor: '#content7-title tbody tr td:eq(3)',
     model: '#content20-title tbody tr td:eq(1)',
@@ -129,10 +169,16 @@ async function scrapeAllDevices() {
     releaseDate: '#content1-title tbody tr td:eq(1)',
     color: '#content13-title tbody tr td:eq(1)',
   };
-  await scrapeDevice('https://everymac.com/systems/apple/ipad/index-ipad-specs.html', '#contentcenter_specs_externalnav_wrapper #contentcenter_specs_externalnav_2 a', ipadSelectors, 'allIPadInfo.json');
+  await scrapeDevice(
+    'https://everymac.com/systems/apple/ipad/index-ipad-specs.html',
+    '#contentcenter_specs_externalnav_wrapper #contentcenter_specs_externalnav_2 a',
+    ipadSelectors,
+    'allIPadInfo.json'
+  );
 
   // Scraping para Apple Watch
   const appleWatchSelectors = {
+    identifier: '#content11-title tbody tr td:eq(3)',
     deviceName: '#contentcenter h3',
     model: '#content11-title tbody tr td:eq(1)',
     appleOrderNo: '#content10-title tbody tr td:eq(1)',
@@ -140,11 +186,16 @@ async function scrapeAllDevices() {
     size: '#content5-title tbody tr td:eq(3)',
     color: '#content6-title tbody tr td:eq(1)',
   };
-  await scrapeDevice('https://everymac.com/systems/apple/apple-watch/index-apple-watch-specs.html', '#contentcenter_specs_externalnav_wrapper #contentcenter_specs_externalnav_2 a', appleWatchSelectors, 'allSmartwatchInfo.json');
+  await scrapeDevice(
+    'https://everymac.com/systems/apple/apple-watch/index-apple-watch-specs.html',
+    '#contentcenter_specs_externalnav_wrapper #contentcenter_specs_externalnav_2 a',
+    appleWatchSelectors,
+    'allSmartwatchInfo.json'
+  );
   
-  console.log('Scraping completo.');
-  return { status: 'Scraping completo' };
+  console.log('Scraping completo. Solo se agregaron nuevos dispositivos sin modificar los existentes.');
+  return { status: 'Scraping completo', action: 'Solo adiciones, sin modificaciones' };
 }
 
-// scrapeAllDevices();
+// Para ejecutar directamente: scrapeAllDevices();
 module.exports = scrapeAllDevices;

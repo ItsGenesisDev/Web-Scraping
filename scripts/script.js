@@ -1,4 +1,7 @@
-// Definir los tipos de dispositivos y las rutas de sus archivos JSON
+// Cache para almacenar los datos ya cargados
+const jsonCache = {};
+
+// Configuración de dispositivos
 const deviceTypes = {
     iphones: '/Iphone/jsons/allPhonesInfo.json',
     ipads: '/Iphone/jsons/alliPadInfo.json',
@@ -7,158 +10,146 @@ const deviceTypes = {
     imacs: '/Iphone/jsons/allIMacInfo.json'
 };
 
-// Selección del contenedor donde se mostrarán los dispositivos
+// Elementos del DOM
 const phoneListDiv = document.getElementById('phone-list');
+const refreshButton = document.getElementById('refreshButton');
+const filterButtons = document.querySelectorAll('#filters button');
+const buscador = document.getElementById('Buscador');
 
-loadData('iphones'); // Cargar datos de iPhones por defecto al cargar la página
+// Cargar datos iniciales
+document.addEventListener('DOMContentLoaded', () => {
+    loadData('iphones');
+});
 
-// Función para cargar los datos de los dispositivos desde los archivos JSON
-function loadData(deviceType) {
-    const jsonPath = deviceTypes[deviceType];
+// Función optimizada para cargar datos
+async function loadData(deviceType) {
+    // Mostrar spinner
+    document.getElementById('loadingSpinner').classList.add('show');
     
-    fetch(jsonPath)
-        .then(response => {
-            if (!response.ok) {
-                throw new Error(`HTTP error! status: ${response.status}`);
-            }
-            return response.json();
-        })
-        .then(data => {
-            phoneListDiv.innerHTML = '';
-
-            if (!data || data.length === 0) {
-                phoneListDiv.innerHTML = '<p class="error-message">No se encontraron datos.</p>';
-                return;
-            }
-
-            // Ordenar los dispositivos por fecha de lanzamiento
-            data.sort((a, b) => {
-                const dateA = new Date(a.releaseDate);
-                const dateB = new Date(b.releaseDate);
-                return dateA - dateB;
-            });
-
-            // Crear y mostrar los elementos de la lista de dispositivos
-            data.forEach(device => {
-                const phoneDiv = document.createElement('div');
-                phoneDiv.classList.add('phone-item');
-
-                // Aplicar la expresión regular para limpiar el texto
-                // Aplicar la expresión regular para limpiar el texto
-                const cleanDeviceName = device.deviceName.replace(/\s*\([^)]*\)|\s*\d+(?:,\s*\d+)*\s*(?:GB|TB)(?!\w).*$/gi, '').trim();
-
-                let deviceInfo = `<h3>${cleanDeviceName}</h3>`;
-                if (deviceType === 'iphones') {
-                    deviceInfo += `
-                        <p><strong>Modelo:</strong> ${device.model}</p>
-                        <p><strong>RAM:</strong> ${device.ram}</p>
-                        <p><strong>Almacenamiento:</strong> ${device.storage}</p>
-                        <p><strong>Orden de Apple:</strong> ${device.appleOrderNo}</p>
-                        <p><strong>Fecha de Lanzamiento:</strong> ${device.releaseDate}</p>
-                        <p><strong>Color:</strong> ${device.color}</p>
-                    `;
-                } else if (deviceType === 'ipads') {
-                    deviceInfo += `
-                        <p><strong>Modelo:</strong> ${device.model}</p>
-                        <p><strong>RAM:</strong> ${device.ram}</p>
-                        <p><strong>Almacenamiento:</strong> ${device.storage}</p>
-                        <p><strong>Orden de Apple:</strong> ${device.appleOrderNo}</p>
-                        <p><strong>Fecha de Lanzamiento:</strong> ${device.releaseDate}</p>
-                        <p><strong>Color:</strong> ${device.color}</p>
-                    `;
-                } else if (deviceType === 'imacbook') {
-                    deviceInfo += `
-                        <p><strong>Modelo:</strong> ${device.model}</p>
-                        <p><strong>RAM:</strong> ${device.ram}</p>
-                        <p><strong>Almacenamiento:</strong> ${device.storage}</p>
-                        <p><strong>Orden de Apple:</strong> ${device.appleOrderNo}</p>
-                        <p><strong>Fecha de Lanzamiento:</strong> ${device.releaseDate}</p>
-                    `;
-                } else if (deviceType === 'applewatches') {
-                    deviceInfo += `
-                        <p><strong>Tamaño:</strong> ${device.size}</p>
-                        <p><strong>Modelo:</strong> ${device.model}</p>
-                        <p><strong>Orden de Apple:</strong> ${device.appleOrderNo}</p>
-                        <p><strong>Fecha de Lanzamiento:</strong> ${device.releaseDate}</p>
-                        <p><strong>Color:</strong> ${device.color}</p>
-                    `;
-                } else if (deviceType === 'imacs') {
-                    deviceInfo += `
-                        <p><strong>Modelo:</strong> ${device.model}</p>
-                        <p><strong>Orden de Apple:</strong> ${device.appleOrderNo}</p>
-                        <p><strong>Almacenamiento:</strong> ${device.storage}</p>
-                        <p><strong>Fecha de Lanzamiento:</strong> ${device.releaseDate}</p>
-                    `;
-                }
-
-                phoneDiv.innerHTML = deviceInfo;
-                phoneListDiv.appendChild(phoneDiv);
-            });
-        })
-        .catch(error => {
-            console.error('Error al cargar el archivo JSON:', error);
-            phoneListDiv.innerHTML = '<p class="error-message">Error al cargar los datos. Por favor, revisa la consola para más detalles.</p>';
-        });
+    try {
+        // Cargar solo si no está en caché
+        if (!jsonCache[deviceType]) {
+            const response = await fetch(deviceTypes[deviceType]);
+            if (!response.ok) throw new Error(`Error HTTP: ${response.status}`);
+            jsonCache[deviceType] = await response.json();
+        }
+        
+        renderDevices(jsonCache[deviceType], deviceType);
+        
+    } catch (error) {
+        console.error('Error al cargar datos:', error);
+        phoneListDiv.innerHTML = `<p class="error-message">Error: ${error.message}</p>`;
+    } finally {
+        document.getElementById('loadingSpinner').classList.remove('show');
+    }
 }
 
-// Evento para el botón de refresco (reload) para recargar los datos y realizar el scraping
-const refreshButton = document.getElementById('refreshButton');
+// Función optimizada para renderizar dispositivos
+function renderDevices(data, deviceType) {
+    // Usar DocumentFragment para mejor rendimiento
+    const fragment = document.createDocumentFragment();
+    
+    // Ordenar por fecha (más reciente primero)
+    const sortedData = [...data].sort((a, b) => 
+        new Date(b.releaseDate) - new Date(a.releaseDate));
+    
+    sortedData.forEach(device => {
+        const phoneDiv = document.createElement('div');
+        phoneDiv.className = 'phone-item';
+        
+        // Limpieza del nombre optimizada
+        const cleanName = device.deviceName.replace(
+            /\s*\([^)]*\)|\s*\d+(?:,\d+)*\s*(?:GB|TB)\b.*$/gi, 
+            ''
+        ).trim();
+        
+        // Plantilla genérica adaptable
+        phoneDiv.innerHTML = `
+            <h3>${cleanName}</h3>
+            <p><strong>ID:</strong> ${device.identifier}</p>
+            <p><strong>Modelo:</strong> ${device.model}</p>
+            ${device.appleOrderNo ? `<p><strong>Orden Apple:</strong> ${device.appleOrderNo}</p>` : ''}
+            ${device.ram ? `<p><strong>RAM:</strong> ${device.ram}</p>` : ''}
+            ${device.storage ? `<p><strong>Almacenamiento:</strong> ${device.storage}</p>` : ''}
+            <p><strong>Lanzamiento:</strong> ${device.releaseDate}</p>
+            ${device.color ? `<p><strong>Color:</strong> ${device.color}</p>` : ''}
+            ${device.size ? `<p><strong>Tamaño:</strong> ${device.size}</p>` : ''}
+        `;
+        
+        fragment.appendChild(phoneDiv);
+    });
+    
+    // Limpiar y renderizar de una sola vez
+    phoneListDiv.innerHTML = '';
+    phoneListDiv.appendChild(fragment);
+}
+
+// Evento para actualizar datos
 refreshButton.addEventListener('click', async () => {
     try {
         // Mostrar spinner
-        const spinner = document.getElementById('loadingSpinner');
-        spinner.style.display = 'block';
-        refreshButton.disabled = true; // Deshabilitar botón durante carga
-
-        // Hacer scraping
-        const response = await fetch('http://localhost:3001/scrape', {
-            method: 'GET'
-        });
-
-        if (!response.ok) throw new Error(`Error: ${response.status}`);
-
+        document.getElementById('loadingSpinner').classList.add('show');
+        refreshButton.disabled = true;
+        
+        // Obtener categoría activa
+        const activeFilter = document.querySelector('#filters button.active')?.dataset.filter || 'iphones';
+        
+        // Forzar recarga eliminando del caché
+        delete jsonCache[activeFilter];
+        
+        // Hacer scraping solo para la categoría visible
+        const scrapeResponse = await fetch(`http://localhost:3001/scrape?type=${activeFilter}`);
+        if (!scrapeResponse.ok) throw new Error(`Error en scraping: ${scrapeResponse.status}`);
+        
         // Recargar datos
-        await Promise.all([
-            loadData('iphones'),
-            loadData('ipads'),
-            loadData('imacbook'),
-            loadData('applewatches'),
-            loadData('imacs')
-        ]);
-
+        await loadData(activeFilter);
+        
     } catch (error) {
         console.error('Error al actualizar:', error);
-        alert('Error al actualizar los datos. Revisa la consola.');
+        alert('Error al actualizar. Consulte la consola para más detalles.');
     } finally {
-        // Ocultar spinner y reactivar botón
-        document.getElementById('loadingSpinner').style.display = 'none';
+        document.getElementById('loadingSpinner').classList.remove('show');
         refreshButton.disabled = false;
     }
 });
-// Filtros de dispositivo por tipo
-const filterButtons = document.querySelectorAll('#filters button');
+
+// Filtros de dispositivos
 filterButtons.forEach(button => {
     button.addEventListener('click', () => {
-        const deviceType = button.dataset.filter;
-        loadData(deviceType);
+        // Actualizar botón activo
+        filterButtons.forEach(btn => btn.classList.remove('active'));
+        button.classList.add('active');
+        
+        // Cargar datos
+        loadData(button.dataset.filter);
     });
 });
 
-
-
-// Función de búsqueda para filtrar dispositivos por nombre
-const buscador = document.getElementById('Buscador');
-buscador.addEventListener('input', function(event) {
-    const filtro = event.target.value.toLowerCase();
-    const elementosTelefono = document.querySelectorAll('.phone-item');
-
-    // Filtrar los dispositivos visibles según el texto del filtro
-    elementosTelefono.forEach(elemento => {
-        const textoElemento = elemento.textContent.toLowerCase();
-        if (textoElemento.includes(filtro)) {
-            elemento.style.display = 'block';
-        } else {
-            elemento.style.display = 'none';
-        }
+// Búsqueda en tiempo real
+buscador.addEventListener('input', (e) => {
+    const searchTerm = e.target.value.toLowerCase();
+    const devices = document.querySelectorAll('.phone-item');
+    
+    devices.forEach(device => {
+        const text = device.textContent.toLowerCase();
+        device.style.display = text.includes(searchTerm) ? 'block' : 'none';
     });
 });
+
+// Configurar botón para subir al inicio
+function setupScrollToTop() {
+    const toTopButton = document.getElementById("toTop");
+    
+    window.onscroll = () => {
+        toTopButton.classList[
+            (document.documentElement.scrollTop > 200) ? "add" : "remove"
+        ]("is-visible");
+    };
+    
+    toTopButton.onclick = () => {
+        window.scrollTo({
+            top: 0,
+            behavior: "smooth"
+        });
+    };
+}
