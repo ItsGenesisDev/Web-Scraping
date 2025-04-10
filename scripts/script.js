@@ -16,9 +16,24 @@ const refreshButton = document.getElementById('refreshButton');
 const filterButtons = document.querySelectorAll('#filters button');
 const buscador = document.getElementById('Buscador');
 
+// Función para simplificar el nombre del iPhone
+function simplifyiPhoneName(deviceName) {
+    const regex = /(Apple iPhone\s?(?:\d+[a-z]?|X[R]?|X[sS]?|1[1-5]\s?(?:Pro|Max|Plus)?|SE(?:\s?\d+)?)\s?(?:Pro|Max|Plus|s|SE)?)\s?(?:\(.*\))?/i;
+    const match = deviceName.match(regex);
+    return match ? match[1].trim() : deviceName;
+}
+
+// Función para simplificar el nombre del Apple Watch
+function simplifyWatchName(deviceName) {
+    const regex = /(Apple Watch (?:Series\s\d+|Ultra\s?\d*|SE(?:\s?\d+)?))\s?(?:\(.*\))?/i;
+    const match = deviceName.match(regex);
+    return match ? match[1].trim() : deviceName;
+}
+
 // Cargar datos iniciales
 document.addEventListener('DOMContentLoaded', () => {
     loadData('iphones');
+    setupScrollToTop();
 });
 
 // Función optimizada para cargar datos
@@ -51,21 +66,25 @@ function renderDevices(data, deviceType) {
     
     // Ordenar por fecha (más reciente primero)
     const sortedData = [...data].sort((a, b) => 
-        new Date(b.releaseDate) - new Date(a.releaseDate));
+        new Date(a.releaseDate) - new Date(b.releaseDate));
     
     sortedData.forEach(device => {
         const phoneDiv = document.createElement('div');
         phoneDiv.className = 'phone-item';
         
-        // Limpieza del nombre optimizada
-        const cleanName = device.deviceName.replace(
-            /\s*\([^)]*\)|\s*\d+(?:,\d+)*\s*(?:GB|TB)\b.*$/gi, 
-            ''
-        ).trim();
+        // Simplificar el nombre del dispositivo según el tipo
+        let displayName;
+        if (deviceType === 'iphones') {
+            displayName = simplifyiPhoneName(device.deviceName);
+        } else if (deviceType === 'applewatches') {
+            displayName = simplifyWatchName(device.deviceName);
+        } else {
+            displayName = device.deviceName;
+        }
         
         // Plantilla genérica adaptable
         phoneDiv.innerHTML = `
-            <h3>${cleanName}</h3>
+            <h3>${displayName}</h3>
             <p><strong>ID:</strong> ${device.identifier}</p>
             <p><strong>Modelo:</strong> ${device.model}</p>
             ${device.appleOrderNo ? `<p><strong>Orden Apple:</strong> ${device.appleOrderNo}</p>` : ''}
