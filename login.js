@@ -1,118 +1,164 @@
-const mysql = require('mysql'); // Importa el módulo de MySQL para interactuar con la base de datos
-const express = require('express'); // Importa el módulo de Express para crear el servidor web
-const session = require('express-session'); // Importa el módulo de express-session para manejar sesiones de usuario
-const path = require('path'); // Importa el módulo path para trabajar con rutas de archivos
-const fs = require('fs'); // Importa el modulo fs para leer archivo
-const scrapeAllDevices = require('./scrapeDevice'); // Importa la función de scraping
+const mysql = require('mysql');
+const express = require('express');
+const session = require('express-session');
+const path = require('path');
+const fs = require('fs');
+const scrapeAllDevices = require('./scrapeDevice');
 
 // Configura la conexión a la base de datos MySQL
 const connection = mysql.createConnection({
-	host     : 'localhost',
-	user     : 'root',
-	password : '12345',
-	database : 'nodelogin'
+    host: 'localhost',
+    user: 'root',
+    password: '12345',
+    database: 'nodelogin'
 });
 
-// Crea una instancia de la aplicación Express
 const app = express();
 
 // Configura el middleware de sesión
 app.use(session({
-	secret: 'secret',
-	resave: true,
-	saveUninitialized: true
+    secret: 'secret',
+    resave: true,
+    saveUninitialized: true
 }));
 
 // Configura middleware para analizar JSON y datos codificados en URL
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-// styles//
+// Archivos estáticos
 app.use(express.static('styles'));
-// imágenes assets/
 app.use(express.static('assets'));
-// scripts//
 app.use(express.static('scripts'));
-// crudDevice//
 app.use(express.static('crudDevice'));
-// models//
 app.use(express.static('models'));
 
-// Ruta principal (GET) para mostrar la página de inicio de sesión
+// Ruta principal
 app.get('/', function(request, response) {
-	response.sendFile(path.join(__dirname + '/login.html'));
+    response.sendFile(path.join(__dirname, '/login.html'));
 });
 
-// Ruta para manejar la autenticación de usuarios (POST)
+// Autenticación
 app.post('/auth', function(request, response) {
-	let username = request.body.username;
-	let password = request.body.password;
-	console.log('Attempting login with:', { username, password }); // Muestra los datos ingresados en la consola
+    let username = request.body.username;
+    let password = request.body.password;
+    console.log('Intento de login:', username);
 
-	if (username && password) {
-		connection.query('SELECT * FROM accounts WHERE username = ? AND password = ?', [username, password], function(error, results) {
-			if (error) {
-				console.error('Database error:', error);
-				throw error;
-			}
-			if (results.length > 0) {
-				request.session.loggedin = true;
-				request.session.username = username;
-				request.session.role = results[0].role; // Cambiado de userType a role
-				response.redirect('/home');
-			} else {
-				response.send('Incorrect Username and/or Password!');
-			}
-		});
-	} else {
-		// Si faltan campos en el formulario
-		console.log('Login failed: Missing Username or Password'); // Muestra un mensaje de error en la consola
-		response.send('Please enter Username and Password!'); // Envía un mensaje de error al cliente
-		response.end(); // Finaliza la respuesta
-	}
+    if (username && password) {
+        connection.query('SELECT * FROM accounts WHERE username = ? AND password = ?', 
+        [username, password], 
+        function(error, results) {
+            if (error) {
+                console.error('Database error:', error);
+                return response.status(500).send('Error en el servidor');
+            }
+            
+            if (results.length > 0) {
+                request.session.loggedin = true;
+                request.session.username = username;
+                request.session.role = results[0].role;
+                console.log('Login exitoso:', username);
+                return response.redirect('/home');
+            } else {
+                console.log('Credenciales incorrectas para:', username);
+                return response.send('Usuario o contraseña incorrectos');
+            }
+        });
+    } else {
+        console.log('Intento de login sin credenciales completas');
+        response.send('Por favor ingrese usuario y contraseña');
+    }
 });
 
+// Guardar dispositivos
 app.post('/saveDevices', express.json(), (req, res) => {
-    const devices = req.body;
-    const filePath = path.join(__dirname, 'models', 'Iphone', 'jsons', 'allPhonesInfo.json');
+    if (!req.session.loggedin) {
+        console.warn('Intento de acceso no autorizado a /saveDevices');
+        return res.status(403).send('Acceso no autorizado');
+    }
 
-    fs.writeFile(filePath, JSON.stringify(devices, null, 2), (err) => {
-        if (err) {
-            console.error('Error al guardar los dispositivos:', err);
-            return res.status(500).send('Error al guardar los dispositivos.');
+    const { devices, deviceType } = req.body;
+    console.log('Solicitud para guardar dispositivos de tipo:', deviceType);
+
+    if (!deviceType || !devices) {
+        console.error('Faltan parámetros requeridos');
+        return res.status(400).send('Faltan parámetros requeridos');
+    }
+
+    if (!Array.isArray(devices)) {
+        console.error('Formato de dispositivos inválido');
+        return res.status(400).send('Formato de datos inválido');
+    }
+
+    // Mapeo de tipos a archivos
+    const fileMap = {
+        '/Iphone/jsons/allPhonesInfo.json': 'allPhonesInfo.json',
+        '/Iphone/jsons/alliPadInfo.json': 'alliPadInfo.json',
+        '/Iphone/jsons/allMacbookAirInfo.json': 'allMacbookAirInfo.json',
+        '/Iphone/jsons/allSmartwatchInfo.json': 'allSmartwatchInfo.json',
+        '/Iphone/jsons/allIMacInfo.json': 'allIMacInfo.json'
+    };
+
+    const fileName = fileMap[deviceType];
+    if (!fileName) {
+        console.error('Tipo de dispositivo no válido:', deviceType);
+        return res.status(400).send('Tipo de dispositivo no válido');
+    }
+
+    const filePath = path.join(__dirname, 'models', 'Iphone', 'jsons', fileName);
+    const backupPath = `${filePath}`;
+
+    try {
+        // Crear backup primero
+        if (fs.existsSync(filePath)) {
+            fs.copyFileSync(filePath, backupPath);
+            console.log('Backup creado:', backupPath);
         }
-        console.log('Dispositivos guardados correctamente en el servidor.');
-        res.send('Dispositivos guardados correctamente.');
-    });
+
+        // Guardar nuevos datos
+        fs.writeFileSync(filePath, JSON.stringify(devices, null, 2));
+        console.log('Dispositivos guardados en:', fileName);
+        res.send('Dispositivos guardados correctamente');
+    } catch (err) {
+        console.error('Error al guardar:', err.message);
+        
+        // Intentar restaurar backup si existe
+        if (fs.existsSync(backupPath)) {
+            try {
+                fs.copyFileSync(backupPath, filePath);
+                console.log('Backup restaurado después de error');
+            } catch (restoreErr) {
+                console.error('Error al restaurar backup:', restoreErr.message);
+            }
+        }
+        
+        res.status(500).send('Error al guardar los dispositivos');
+    }
 });
 
-// Ruta para la página de inicio (GET)
+// Resto de rutas
 app.get('/home', (req, res) => {
-	if (req.session.loggedin) {
-		res.sendFile(__dirname + '/home.html');
-	} else {
-		res.status(403).send('Access denied');
-	}
+    if (req.session.loggedin) {
+        res.sendFile(path.join(__dirname, '/home.html'));
+    } else {
+        res.status(403).send('Acceso denegado');
+    }
 });
 
-// Ruta para manejar el logout (GET)
 app.get('/logout', (req, res) => {
-	req.session.destroy((err) => {
-		if (err) {
-			console.error('Error destroying session:', err);
-			return res.status(500).send('Error logging out');
-		}
-		res.redirect('/');
-	});
+    console.log('Usuario cerró sesión:', req.session.username);
+    req.session.destroy();
+    res.redirect('/');
 });
 
-// Ruta de scraping para ejecutar el proceso cuando se hace clic en el botón
 app.get('/scrape', async (req, res) => {
+    if (!req.session.loggedin) {
+        return res.status(403).send('Acceso no autorizado');
+    }
+
     try {
         console.log("Iniciando scraping...");
-        
         await scrapeAllDevices();
-
         res.status(200).json({ message: "Scraping completo" });
     } catch (error) {
         console.error("Error en el scraping:", error);
@@ -120,22 +166,18 @@ app.get('/scrape', async (req, res) => {
     }
 });
 
-// Nueva ruta para obtener el role
 app.get('/getUserType', (req, res) => {
-    console.log("Sesión actual:", req.session); // Debug
     if (req.session.loggedin) {
-        console.log("Enviando role:", req.session.role); // Debug
-        res.json({ role: req.session.role }); // Cambiado de userType a role
+        res.json({ role: req.session.role });
     } else {
-        console.log("Acceso denegado a /getUserType"); // Debug
-        res.status(403).json({ error: 'Access denied' });
+        res.status(403).json({ error: 'Acceso denegado' });
     }
 });
 
-// Configura el puerto en el que se ejecutará el servidor
-const PORT = 3001; // Cambiado a 3001 para evitar conflictos
+// Iniciar servidor
+const PORT = 3001;
 app.listen(PORT, () => {
-	console.log(`|-------------------------------------------------|`);
+    console.log(`|-------------------------------------------------|`);
     console.log(`|🚀 Server started at http://localhost:${PORT} ✅|`);
-	console.log(`|-------------------------------------------------|`); 
+    console.log(`|-------------------------------------------------|`);
 });
