@@ -1,60 +1,100 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CRUD Dispositivos</title>
-    <link rel="stylesheet" href="../crudDevice.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>CRUD Dispositivos</title>
+  <link rel="stylesheet" href="crudDevice.css" />
 </head>
 <body>
-    <h1>Editar Dispositivo</h1>
-    <div id="crud-container">
-        <form id="device-form">
-            <label for="deviceType">Tipo de Dispositivo:</label>
-            <select id="deviceType" name="deviceType" required>
-                <option value="/Iphone/jsons/allPhonesInfo.json">iPhone</option>
-                <option value="/Iphone/jsons/alliPadInfo.json">iPad</option>
-                <option value="/Iphone/jsons/allMacbookAirInfo.json">MacBook Air</option>
-                <option value="/Iphone/jsons/allSmartwatchInfo.json">Apple Watch</option>
-                <option value="/Iphone/jsons/allIMacInfo.json">iMac</option>
-            </select>
-            
+  <h1>Editar Dispositivo</h1>
+  <div id="crud-container">
+
+
+    <form id="device-form">
+    <div class="form-group">
+        <label for="deviceType">Tipo de Dispositivo:</label>
+        <select id="deviceType" name="deviceType" required>
+            <option value="/Iphone/jsons/allPhonesInfo.json">iPhone</option>
+            <option value="/Iphone/jsons/alliPadInfo.json">iPad</option>
+            <option value="/Iphone/jsons/allMacbookAirInfo.json">MacBook Air</option>
+            <option value="/Iphone/jsons/allSmartwatchInfo.json">Apple Watch</option>
+            <option value="/Iphone/jsons/allIMacInfo.json">iMac</option>
+        </select>
+    </div>
+
+
+    <div class="form-row">
+        <div>
+            <label for="identifier">Identificador</label>
+            <input type="text" id="identifier" name="identifier" required placeholder="Ej: iPhone15,2">
+        </div>
+        <div>
             <label for="deviceName">Nombre del Dispositivo:</label>
-            <input type="text" id="deviceName" name="deviceName" required>
-            
-            <label for="model">Modelo:</label>
-            <input type="text" id="model" name="model" required>
-            
-            <label for="ram">RAM:</label>
-            <input type="text" id="ram" name="ram">
-            
-            <label for="storage">Almacenamiento:</label>
-            <input type="text" id="storage" name="storage">
-            
-            <label for="appleOrderNo">Orden de Apple:</label>
-            <input type="text" id="appleOrderNo" name="appleOrderNo">
-            
-            <label for="releaseDate">Fecha de Lanzamiento:</label>
-            <input type="date" id="releaseDate" name="releaseDate">
-            
-            <label for="color">Color:</label>
-            <input type="text" id="color" name="color">
-            
-            <button type="button" id="add-button" style="display: inline-block;">Agregar</button>
-            <button type="button" id="update-button" style="display: none;" disabled>Actualizar</button>
-        </form>
-        <div id="device-list">
-            <h2>Lista de Dispositivos</h2>
-            <ul id="devices">
-                <li>
-                    <span>Device Name</span>
-                    <button class="edit">Editar</button>
-                    <button class="delete">Eliminar</button>
-                </li>
-            </ul>
+            <input type="text" id="deviceName" name="deviceName" required placeholder="Ej: iPhone 15 Pro">
         </div>
     </div>
-    <a href="/home.html" id="back-to-home">Regresar a la Página Principal</a>
+
+    <div class="form-row">
+        <div>
+            <label for="model">Modelo:</label>
+            <input type="text" id="model" name="model" required placeholder="Ej: A2849">
+        </div>
+        <div>
+            <label for="ram">RAM:</label>
+            <input type="text" id="ram" name="ram" placeholder="Ej: 8GB">
+        </div>
+    </div>
+
+    <div class="form-row">
+        <div>
+            <label for="storage">Almacenamiento:</label>
+            <input type="text" id="storage" name="storage" placeholder="Ej: 256GB">
+        </div>
+        <div>
+            <label for="appleOrderNo">Orden de Apple:</label>
+            <input type="text" id="appleOrderNo" name="appleOrderNo" placeholder="Ej: MLXY3LL/A">
+        </div>
+    </div>
+
+    <div class="form-row">
+        <div>
+            <label for="releaseDate">Fecha de Lanzamiento:</label>
+            <input type="date" id="releaseDate" name="releaseDate">
+        </div>
+        <div>
+            <label for="color">Color:</label>
+            <input type="text" id="color" name="color" placeholder="Ej: Titanio Natural">
+        </div>
+    </div>
+
+   
+
+    <button type="button" id="add-button">Agregar</button>
+    <button type="button" id="update-button" style="display: none;" disabled>Actualizar</button>
+    </form>
+
+    <div id="device-list">
+      <h2>Lista de Dispositivos</h2>
+      <ul id="devices">
+        <li>
+          <span>Device Name</span>
+          <div>
+            <button class="edit">Editar</button>
+            <button class="delete">Eliminar</button>
+          </div>
+        </li>
+      </ul>
+      <!-- Button to scroll to the top of the page -->
+      <button class="toTop" id="toTop">
+        <svg viewBox="0 0 24 24">
+          <path d="m4 16 8-8 8 8"></path>
+        </svg>
+      </button>
+    </div>
+    
+  </div>
+<a href="/home.html" id="back-to-home">Regresar a la Página Principal</a>
     <script src="../crudDevice.js"></script>
 </body>
 </html>

@@ -46,6 +46,7 @@ function loadData(deviceType) {
                 let deviceInfo = `<h3>${device.deviceName}</h3>`;
                 if (deviceType === 'iphones') {
                     deviceInfo += `
+                        <p><strong>ID:</strong> ${device.identifier}</p>
                         <p><strong>Modelo:</strong> ${device.model}</p>
                         <p><strong>RAM:</strong> ${device.ram}</p>
                         <p><strong>Almacenamiento:</strong> ${device.storage}</p>
@@ -55,6 +56,7 @@ function loadData(deviceType) {
                     `;
                 } else if (deviceType === 'ipads') {
                     deviceInfo += `
+                        <p><strong>ID:</strong> ${device.identifier}</p>
                         <p><strong>Modelo:</strong> ${device.model}</p>
                         <p><strong>RAM:</strong> ${device.ram}</p>
                         <p><strong>Almacenamiento:</strong> ${device.storage}</p>
@@ -64,6 +66,7 @@ function loadData(deviceType) {
                     `;
                 } else if (deviceType === 'imacbook') {
                     deviceInfo += `
+                        <p><strong>ID:</strong> ${device.identifier}</p>
                         <p><strong>Modelo:</strong> ${device.model}</p>
                         <p><strong>RAM:</strong> ${device.ram}</p>
                         <p><strong>Almacenamiento:</strong> ${device.storage}</p>
@@ -72,6 +75,7 @@ function loadData(deviceType) {
                     `;
                 } else if (deviceType === 'applewatches') {
                     deviceInfo += `
+                        <p><strong>ID:</strong> ${device.identifier}</p>
                         <p><strong>Tamaño:</strong> ${device.size}</p>
                         <p><strong>Modelo:</strong> ${device.model}</p>
                         <p><strong>Orden de Apple:</strong> ${device.appleOrderNo}</p>
@@ -80,6 +84,8 @@ function loadData(deviceType) {
                     `;
                 } else if (deviceType === 'imacs') {
                     deviceInfo += `
+                        <p><strong>ID:</strong> ${device.identifier}</p>
+                        <p><strong>RAM:</strong> ${device.ram}</p>
                         <p><strong>Modelo:</strong> ${device.model}</p>
                         <p><strong>Orden de Apple:</strong> ${device.appleOrderNo}</p>
                         <p><strong>Almacenamiento:</strong> ${device.storage}</p>

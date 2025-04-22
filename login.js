@@ -135,7 +135,7 @@ app.get('/getUserType', (req, res) => {
 // Configura el puerto en el que se ejecutará el servidor
 const PORT = 3001; // Cambiado a 3001 para evitar conflictos
 app.listen(PORT, () => {
-	console.log(`|-------------------------------------------------|`);
+	console.log(`|---------------------------------------------|`);
     console.log(`|🚀 Server started at http://localhost:${PORT} ✅|`);
-	console.log(`|-------------------------------------------------|`); 
+	console.log(`|---------------------------------------------|`); 
 });
